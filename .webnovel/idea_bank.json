@@ -1,0 +1,25 @@
+{
+  "selected_idea": {
+    "title": "0.01 Degree",
+    "one_liner": "Eco-terrorists send a nanomachine 67 million years back to save the dinosaurs, but a saboteur programmer reverses their 0.01-degree asteroid deflection, preserving human history.",
+    "anti_trope": "The hero wins through a single line of code, not combat or superpowers",
+    "hard_constraints": [
+      "Time travel is one-way — no communication with the past",
+      "Nanomachine operates autonomously for ~1 million years",
+      "0.01 degree precision limit on asteroid deflection",
+      "Peter can only act through code, not physical confrontation"
+    ]
+  },
+  "constraints_inherited": {
+    "anti_trope": "Hero saves humanity not through action or power, but through quiet intellectual sabotage — one conditional bug in navigation code",
+    "hard_constraints": [
+      "No supernatural elements — hard sci-fi only",
+      "Peter cannot physically fight the antagonists",
+      "The satellite cannot verify its trajectory while in the asteroid's shadow",
+      "Once sent through the black hole, the nanomachine is beyond anyone's control"
+    ],
+    "protagonist_flaw": "Passive, demoralized, displaced by AI — an unlikely and reluctant hero",
+    "antagonist_mirror": "Both sides want to fix a broken world; they differ on whether humanity deserves to exist",
+    "opening_hook": "A cosmic fragment drifts toward Earth — 67 million years later, the same asteroid's fate depends on 0.01 degrees"
+  }
+}

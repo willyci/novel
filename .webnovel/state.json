@@ -3,58 +3,92 @@
     "title": "0.01 Degree",
     "genre": "科幻",
     "created_at": "2026-03-26",
-    "target_words": 0,
-    "target_chapters": 0,
-    "golden_finger_name": "",
-    "golden_finger_type": "",
-    "golden_finger_style": "",
-    "core_selling_points": "",
-    "protagonist_structure": "",
-    "heroine_config": "",
+    "target_words": 80000,
+    "target_chapters": 20,
+    "golden_finger_name": "Domain Expertise (Navigation Programming)",
+    "golden_finger_type": "Knowledge/Skill",
+    "golden_finger_style": "Hard sci-fi, understated",
+    "core_selling_points": "One line of code saves humanity; 0.01 degree reversal twist; morally complex eco-terrorists",
+    "protagonist_structure": "单主角",
+    "heroine_config": "无",
     "heroine_names": "",
     "heroine_role": "",
-    "co_protagonists": "",
-    "co_protagonist_roles": "",
-    "antagonist_tiers": "",
-    "world_scale": "",
-    "factions": "",
-    "power_system_type": "",
-    "social_class": "",
-    "resource_distribution": "",
-    "gf_visibility": "",
-    "gf_irreversible_cost": "",
-    "target_reader": "",
-    "platform": "",
-    "currency_system": "",
-    "currency_exchange": "",
-    "sect_hierarchy": "",
-    "cultivation_chain": "",
-    "cultivation_subtiers": ""
+    "co_protagonists": "Sarah Parker",
+    "co_protagonist_roles": "POV framing character, thematic mirror",
+    "antagonist_tiers": "小:Joe/Dr.Freeman, 中:Mysterious Man, 大:Group Leader(TBD)",
+    "world_scale": "Solar system (Earth/Mars/Kuiper Belt)",
+    "factions": "Mars Government, SpaceNano Corp, National Energy Lab, Radical Animal Rights Group, Black Market",
+    "power_system_type": "Hard sci-fi technology tiers",
+    "social_class": "Corporate elite > Scientists > Workers > AI-displaced",
+    "resource_distribution": "Corporate-driven; asteroid mining via nanomachines",
+    "gf_visibility": "暗牌 (hidden until climax)",
+    "gf_irreversible_cost": "If caught, Peter dies; one chance only",
+    "target_reader": "Sci-fi readers interested in time travel, moral philosophy, tech thrillers",
+    "platform": "TBD",
+    "currency_system": "Credits (digital)",
+    "currency_exchange": "Standard solar economy",
+    "sect_hierarchy": "N/A",
+    "cultivation_chain": "N/A",
+    "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 0,
-    "total_words": 0,
-    "last_updated": "2026-03-26 22:14:36",
+    "current_chapter": 3,
+    "total_words": 5582,
+    "last_updated": "2026-03-26 23:02:37",
     "volumes_completed": [],
     "current_volume": 1,
-    "volumes_planned": []
+    "volumes_planned": [
+      {
+        "volume_id": 1,
+        "name": "The Pieces",
+        "chapters_range": "0-5",
+        "status": "planned"
+      },
+      {
+        "volume_id": 2,
+        "name": "The Truth",
+        "chapters_range": "6-10",
+        "status": "pending"
+      },
+      {
+        "volume_id": 3,
+        "name": "The Mission",
+        "chapters_range": "11-15",
+        "status": "pending"
+      },
+      {
+        "volume_id": 4,
+        "name": "The Aftermath",
+        "chapters_range": "16-20",
+        "status": "pending"
+      },
+      {
+        "volume": 1,
+        "chapters_range": "0-5",
+        "planned_at": "2026-03-26"
+      }
+    ]
   },
   "protagonist_state": {
-    "name": "TBD",
+    "name": "Peter",
     "power": {
-      "realm": "",
+      "realm": "Expert planetary navigation programmer",
       "layer": 1,
-      "bottleneck": ""
+      "bottleneck": "Unemployed, replaced by AI"
     },
     "location": {
-      "current": "",
-      "last_chapter": 0
+      "current": "Mars (apartment)",
+      "last_chapter": 6
     },
     "golden_finger": {
-      "name": "未命名金手指",
+      "name": "Navigation Code Sabotage",
       "level": 1,
       "cooldown": 0,
-      "skills": []
+      "skills": [
+        "Stellar cartography",
+        "Satellite trajectory programming",
+        "AI code injection"
+      ]
     },
     "attributes": {}
   },
@@ -62,22 +96,75 @@
   "disambiguation_warnings": [],
   "disambiguation_pending": [],
   "world_settings": {
-    "power_system": [],
-    "factions": [],
-    "locations": []
+    "power_system": [
+      "Nanotechnology",
+      "Micro black holes",
+      "Sun 2.0 energy",
+      "AI systems"
+    ],
+    "factions": [
+      "Mars Government",
+      "SpaceNano Corp",
+      "National Energy Lab",
+      "Radical Animal Rights Group",
+      "Helios Corp"
+    ],
+    "locations": [
+      "Earth Natural History Museum",
+      "Mars warehouse",
+      "Mars Energy Research Lab",
+      "Kuiper Belt asteroid base",
+      "Moon Station 19",
+      "Olympus City (Mars)",
+      "Prometheus Particle Research Facility",
+      "Helios Power Station"
+    ]
   },
   "plot_threads": {
-    "active_threads": [],
-    "foreshadowing": []
+    "active_threads": [
+      "Nanomachine theft via Steve/Joe",
+      "Particle accelerator acquisition via Dr. Freeman",
+      "Sun 2.0 theft (lab explosion cover)",
+      "Peter's recruitment",
+      "Peter discovers the truth",
+      "The 0.01 degree sabotage"
+    ],
+    "foreshadowing": [
+      "Marcus Webb files regulatory inquiry about accelerator purchase (ch3) - delayed alarm",
+      "Kepler-7 can generate micro black holes, 7ms duration (ch3) - capability reveal",
+      "Freeman's organization has ship preparing for outer solar system (ch3) - Kuiper Belt connection"
+    ]
   },
   "review_checkpoints": [],
-  "chapter_meta": {},
+  "chapter_meta": {
+    "0003": {
+      "hook": {
+        "type": "suspense_hook",
+        "content": "Marcus files regulatory inquiry but it will take weeks; Freeman is already preparing a ship to the outer solar system. The accelerator will be long gone.",
+        "strength": "strong"
+      },
+      "pattern": {
+        "opening": "scene_setting",
+        "hook": "suspense_hook",
+        "emotion_rhythm": "neutral->tension->unease->revelation",
+        "info_density": "high"
+      },
+      "ending": {
+        "time": "Sol 8, after the sale",
+        "location": "Prometheus Facility / transport pod leaving Olympus City",
+        "emotion": "lingering unease and dramatic irony"
+      }
+    }
+  },
   "strand_tracker": {
-    "last_quest_chapter": 0,
+    "last_quest_chapter": 3,
     "last_fire_chapter": 0,
     "last_constellation_chapter": 0,
     "current_dominant": "quest",
-    "chapters_since_switch": 0,
-    "history": []
-  }
+    "chapters_since_switch": 1,
+    "history": [
+      {"chapter": 3, "strand": "quest", "note": "Accelerator acquisition thread advanced - Freeman secures Kepler-7"}
+    ]
+  },
+  "_migrated_to_sqlite": true
 }
