@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "title": "0.01 Degree",
+    "genre": "科幻",
+    "created_at": "2026-03-26",
+    "target_words": 0,
+    "target_chapters": 0,
+    "golden_finger_name": "",
+    "golden_finger_type": "",
+    "golden_finger_style": "",
+    "core_selling_points": "",
+    "protagonist_structure": "",
+    "heroine_config": "",
+    "heroine_names": "",
+    "heroine_role": "",
+    "co_protagonists": "",
+    "co_protagonist_roles": "",
+    "antagonist_tiers": "",
+    "world_scale": "",
+    "factions": "",
+    "power_system_type": "",
+    "social_class": "",
+    "resource_distribution": "",
+    "gf_visibility": "",
+    "gf_irreversible_cost": "",
+    "target_reader": "",
+    "platform": "",
+    "currency_system": "",
+    "currency_exchange": "",
+    "sect_hierarchy": "",
+    "cultivation_chain": "",
+    "cultivation_subtiers": ""
+  },
+  "progress": {
+    "current_chapter": 0,
+    "total_words": 0,
+    "last_updated": "2026-03-26 22:14:36",
+    "volumes_completed": [],
+    "current_volume": 1,
+    "volumes_planned": []
+  },
+  "protagonist_state": {
+    "name": "TBD",
+    "power": {
+      "realm": "",
+      "layer": 1,
+      "bottleneck": ""
+    },
+    "location": {
+      "current": "",
+      "last_chapter": 0
+    },
+    "golden_finger": {
+      "name": "未命名金手指",
+      "level": 1,
+      "cooldown": 0,
+      "skills": []
+    },
+    "attributes": {}
+  },
+  "relationships": {},
+  "disambiguation_warnings": [],
+  "disambiguation_pending": [],
+  "world_settings": {
+    "power_system": [],
+    "factions": [],
+    "locations": []
+  },
+  "plot_threads": {
+    "active_threads": [],
+    "foreshadowing": []
+  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
+  "strand_tracker": {
+    "last_quest_chapter": 0,
+    "last_fire_chapter": 0,
+    "last_constellation_chapter": 0,
+    "current_dominant": "quest",
+    "chapters_since_switch": 0,
+    "history": []
+  }
+}
