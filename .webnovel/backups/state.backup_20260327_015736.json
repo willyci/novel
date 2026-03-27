@@ -66,11 +66,6 @@
         "volume": 1,
         "chapters_range": "0-5",
         "planned_at": "2026-03-26"
-      },
-      {
-        "volume": 2,
-        "chapters_range": "6-10",
-        "planned_at": "2026-03-27"
       }
     ]
   },
@@ -137,7 +132,14 @@
       "The 0.01 degree sabotage",
       "Three technologies converging on Kuiper Belt shuttle"
     ],
-    "foreshadowing": []
+    "foreshadowing": [
+      "Marcus Webb files regulatory inquiry about accelerator purchase (ch3) - delayed alarm",
+      "Kepler-7 can generate micro black holes, 7ms duration (ch3) - capability reveal",
+      "Freeman's organization has ship preparing for outer solar system (ch3) - Kuiper Belt connection",
+      "Office of Technology Regulation inspector dispatched to Building 7 — same office processing Marcus Webb's accelerator inquiry (ch4) - threads may cross",
+      "Job listing posted for planetary navigation programmer with oddly specific qualifications (ch4) - Peter's recruitment hook",
+      "Three operatives (Steve/Joe, Freeman, Dr. Park) each believe they are the only one (ch4) - compartmentalized conspiracy"
+    ]
   },
   "review_checkpoints": [],
   "chapter_meta": {
@@ -185,16 +187,8 @@
     "current_dominant": "quest+constellation",
     "chapters_since_switch": 0,
     "history": [
-      {
-        "chapter": 3,
-        "strand": "quest",
-        "note": "Accelerator acquisition thread advanced - Freeman secures Kepler-7"
-      },
-      {
-        "chapter": 4,
-        "strand": "quest+constellation",
-        "note": "Sun 2.0 theft completes third acquisition; all three pieces converge on single shuttle; Peter recruitment hook drops — constellation of plot threads crystallizes"
-      }
+      {"chapter": 3, "strand": "quest", "note": "Accelerator acquisition thread advanced - Freeman secures Kepler-7"},
+      {"chapter": 4, "strand": "quest+constellation", "note": "Sun 2.0 theft completes third acquisition; all three pieces converge on single shuttle; Peter recruitment hook drops — constellation of plot threads crystallizes"}
     ]
   },
   "_migrated_to_sqlite": true

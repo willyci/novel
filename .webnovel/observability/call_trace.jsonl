@@ -24,3 +24,4 @@
 {"timestamp": "2026-03-27T00:27:17.101989", "event": "step_completed", "payload": {"step_id": "Step 2B", "command": "webnovel-write", "chapter": 4}}
 {"timestamp": "2026-03-27T00:27:17.968501", "event": "step_order_violation", "payload": {"step_id": "Step 3", "command": "webnovel-write", "completed_steps": ["Step 2A", "Step 2B"]}}
 {"timestamp": "2026-03-27T00:27:17.975988", "event": "step_started", "payload": {"step_id": "Step 3", "step_name": "Review", "command": "webnovel-write", "chapter": 4, "progress_note": null, "expected_owner": "review-agents"}}
+{"timestamp": "2026-03-27T00:37:19.488042", "event": "task_completed", "payload": {"command": "webnovel-write", "chapter": 4, "completed_steps": 2, "failed_steps": 1}}

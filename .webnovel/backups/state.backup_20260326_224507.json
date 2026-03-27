@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "title": "0.01 Degree",
+    "genre": "科幻",
+    "created_at": "2026-03-26",
+    "target_words": 80000,
+    "target_chapters": 20,
+    "golden_finger_name": "Domain Expertise (Navigation Programming)",
+    "golden_finger_type": "Knowledge/Skill",
+    "golden_finger_style": "Hard sci-fi, understated",
+    "core_selling_points": "One line of code saves humanity; 0.01 degree reversal twist; morally complex eco-terrorists",
+    "protagonist_structure": "单主角",
+    "heroine_config": "无",
+    "heroine_names": "",
+    "heroine_role": "",
+    "co_protagonists": "Sarah Parker",
+    "co_protagonist_roles": "POV framing character, thematic mirror",
+    "antagonist_tiers": "小:Joe/Dr.Freeman, 中:Mysterious Man, 大:Group Leader(TBD)",
+    "world_scale": "Solar system (Earth/Mars/Kuiper Belt)",
+    "factions": "Mars Government, SpaceNano Corp, National Energy Lab, Radical Animal Rights Group, Black Market",
+    "power_system_type": "Hard sci-fi technology tiers",
+    "social_class": "Corporate elite > Scientists > Workers > AI-displaced",
+    "resource_distribution": "Corporate-driven; asteroid mining via nanomachines",
+    "gf_visibility": "暗牌 (hidden until climax)",
+    "gf_irreversible_cost": "If caught, Peter dies; one chance only",
+    "target_reader": "Sci-fi readers interested in time travel, moral philosophy, tech thrillers",
+    "platform": "TBD",
+    "currency_system": "Credits (digital)",
+    "currency_exchange": "Standard solar economy",
+    "sect_hierarchy": "N/A",
+    "cultivation_chain": "N/A",
+    "cultivation_subtiers": "N/A"
+  },
+  "progress": {
+    "current_chapter": 2,
+    "total_words": 3500,
+    "last_updated": "2026-03-26 22:14:36",
+    "volumes_completed": [],
+    "current_volume": 1,
+    "volumes_planned": [
+      {"volume_id": 1, "name": "The Pieces", "chapters_range": "0-5", "status": "planned"},
+      {"volume_id": 2, "name": "The Truth", "chapters_range": "6-10", "status": "pending"},
+      {"volume_id": 3, "name": "The Mission", "chapters_range": "11-15", "status": "pending"},
+      {"volume_id": 4, "name": "The Aftermath", "chapters_range": "16-20", "status": "pending"}
+    ]
+  },
+  "protagonist_state": {
+    "name": "Peter",
+    "power": {
+      "realm": "Expert planetary navigation programmer",
+      "layer": 1,
+      "bottleneck": "Unemployed, replaced by AI"
+    },
+    "location": {
+      "current": "Mars (apartment)",
+      "last_chapter": 6
+    },
+    "golden_finger": {
+      "name": "Navigation Code Sabotage",
+      "level": 1,
+      "cooldown": 0,
+      "skills": ["Stellar cartography", "Satellite trajectory programming", "AI code injection"]
+    },
+    "attributes": {}
+  },
+  "relationships": {},
+  "disambiguation_warnings": [],
+  "disambiguation_pending": [],
+  "world_settings": {
+    "power_system": ["Nanotechnology", "Micro black holes", "Sun 2.0 energy", "AI systems"],
+    "factions": ["Mars Government", "SpaceNano Corp", "National Energy Lab", "Radical Animal Rights Group"],
+    "locations": ["Earth Natural History Museum", "Mars warehouse", "Mars Energy Research Lab", "Kuiper Belt asteroid base", "Moon Station 19"]
+  },
+  "plot_threads": {
+    "active_threads": [
+      "Nanomachine theft via Steve/Joe",
+      "Particle accelerator acquisition via Dr. Freeman",
+      "Sun 2.0 theft (lab explosion cover)",
+      "Peter's recruitment",
+      "Peter discovers the truth",
+      "The 0.01 degree sabotage"
+    ],
+    "foreshadowing": [
+      "Mysterious stranger at museum knows alternate history",
+      "Timmy's question: What if the asteroid had missed?",
+      "AI replacing humans — irony that human judgment saves the day",
+      "SpaceNano nanomachine news broadcast"
+    ]
+  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
+  "strand_tracker": {
+    "last_quest_chapter": 0,
+    "last_fire_chapter": 0,
+    "last_constellation_chapter": 0,
+    "current_dominant": "quest",
+    "chapters_since_switch": 0,
+    "history": []
+  }
+}
