@@ -32,9 +32,9 @@
     "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 3,
-    "total_words": 5582,
-    "last_updated": "2026-03-26 23:02:37",
+    "current_chapter": 4,
+    "total_words": 8419,
+    "last_updated": "2026-03-26 23:45:00",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -117,7 +117,9 @@
       "Moon Station 19",
       "Olympus City (Mars)",
       "Prometheus Particle Research Facility",
-      "Helios Power Station"
+      "Helios Power Station",
+      "National Energy Lab Building 7",
+      "Eastern Plateau (Olympus City)"
     ]
   },
   "plot_threads": {
@@ -127,12 +129,16 @@
       "Sun 2.0 theft (lab explosion cover)",
       "Peter's recruitment",
       "Peter discovers the truth",
-      "The 0.01 degree sabotage"
+      "The 0.01 degree sabotage",
+      "Three technologies converging on Kuiper Belt shuttle"
     ],
     "foreshadowing": [
       "Marcus Webb files regulatory inquiry about accelerator purchase (ch3) - delayed alarm",
       "Kepler-7 can generate micro black holes, 7ms duration (ch3) - capability reveal",
-      "Freeman's organization has ship preparing for outer solar system (ch3) - Kuiper Belt connection"
+      "Freeman's organization has ship preparing for outer solar system (ch3) - Kuiper Belt connection",
+      "Office of Technology Regulation inspector dispatched to Building 7 — same office processing Marcus Webb's accelerator inquiry (ch4) - threads may cross",
+      "Job listing posted for planetary navigation programmer with oddly specific qualifications (ch4) - Peter's recruitment hook",
+      "Three operatives (Steve/Joe, Freeman, Dr. Park) each believe they are the only one (ch4) - compartmentalized conspiracy"
     ]
   },
   "review_checkpoints": [],
@@ -154,16 +160,35 @@
         "location": "Prometheus Facility / transport pod leaving Olympus City",
         "emotion": "lingering unease and dramatic irony"
       }
+    },
+    "0004": {
+      "hook": {
+        "type": "convergence_hook",
+        "content": "Three stolen technologies loaded onto one shuttle for the Kuiper Belt. A job listing appears for a planetary navigation programmer — the final piece has no idea what he is walking into.",
+        "strength": "strong"
+      },
+      "pattern": {
+        "opening": "aftermath_scene",
+        "hook": "convergence_hook",
+        "emotion_rhythm": "shock->grief->procedural->revelation->dread->anticipation",
+        "info_density": "very_high"
+      },
+      "ending": {
+        "time": "Sol 18, three days after explosion",
+        "location": "Unmarked launch pad, outskirts of Olympus City / Mars (implied Peter location)",
+        "emotion": "ominous convergence, dramatic irony"
+      }
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 3,
+    "last_quest_chapter": 4,
     "last_fire_chapter": 0,
-    "last_constellation_chapter": 0,
-    "current_dominant": "quest",
-    "chapters_since_switch": 1,
+    "last_constellation_chapter": 4,
+    "current_dominant": "quest+constellation",
+    "chapters_since_switch": 0,
     "history": [
-      {"chapter": 3, "strand": "quest", "note": "Accelerator acquisition thread advanced - Freeman secures Kepler-7"}
+      {"chapter": 3, "strand": "quest", "note": "Accelerator acquisition thread advanced - Freeman secures Kepler-7"},
+      {"chapter": 4, "strand": "quest+constellation", "note": "Sun 2.0 theft completes third acquisition; all three pieces converge on single shuttle; Peter recruitment hook drops — constellation of plot threads crystallizes"}
     ]
   },
   "_migrated_to_sqlite": true
