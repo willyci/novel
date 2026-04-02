@@ -127,7 +127,10 @@ location mars energy research laboratory ,
 Exotic Matter: Traversable wormholes require "exotic matter" with negative energy density to keep the throat of the wormhole open. Such matter has not been observed and remains purely hypothetical.  
   
 ch5 hire peter
-
+- Peter takes the job but realizes his planetary navigation algorithms require calculating star positions and orbital mechanics from 100 million years ago all the way to 100 million years in the future.
+- He confronts the bosses about this bizarre requirement.
+- The Bad Guys' Cover Story: They claim they are sending self-replicating nanomachines back in time to start find, land, build, and mine the asteroid belt millions of years early. The nanomachines will process the minerals and launch the ingots back to Earth on a million-year trajectory. In the present day, the company already has the technology to just "catch" the delivered packages from space. This allows them to receive asteroid minerals instantly without waiting years for conventional mining ships.
+- Peter initially buys this "time-travel mining for instant profit" lie before discovering the truth.
 ch6 
 
 science,
@@ -177,8 +180,9 @@ The nanomachine, designed for mining operations, uses its capabilities to gather
 
 The Hero: Peter, the Programmer
 
-Peter, a planetary navigation programmer, is hired under the guise of working for an asteroid mining company. His task is to write a program to control a satellite capable of altering an asteroid's trajectory. However, Peter grows suspicious when he realizes the star positions used for calculations date back 67 million years. Upon discovering the true nature of the project, he secretly inserts a bug into the AI's programming. This bug ensures that if the time is set in the past, the trajectory adjustment will be reversed, altering it by -0.01 degrees instead.
+Peter, a planetary navigation programmer, is hired under the guise of working for an innovative new asteroid mining company. During his onboarding, Peter notices a glaring anomaly: his task is to write a navigation program capable of handling star charts and planetary positions dating back 67 million years. When he questions this bizarre requirement, the company's founders (the radical animal lovers) feed him a brilliant cover story: they claim to have invented a way to send self-replicating nanomachines back in time to mine asteroids millions of years before any competitors exist. According to their lie, the nanomachines will spend eons mining and refining materials, and then carefully launch the processed ingots back toward Earth on a million-year trajectory. In the present day, the company supposedly has orbital interceptors ready to catch these ancient shipments, establishing an asteroid mining supply chain with zero wait time.
 
+Peter initially accepts the "time-travel asteroid mining for instant profit" excuse, but he grows increasingly suspicious when he realizes the math involves altering massive orbital trajectories rather than just launching cargo. Upon discovering the true nature of the project—that they are targeting the Chicxulub asteroid to prevent the dinosaur extinction and erase humanity—he secretly inserts a bug into the AI's programming. This bug ensures that if the timeframe is genuinely set in the distant past, the trajectory adjustment will be reversed, altering it by -0.01 degrees instead.
 The Outcome: Unintended Consequences
 
 The nanomachine begins its mission, mining minerals and extracting hydrogen to power itself. Over centuries, it self-replicates and transforms into a fully functional satellite. After nearly a million years, it detects the asteroid on a collision course with Earth. With insufficient power to destroy it, the satellite uses its ion propulsion system to alter the asteroid's trajectory by 0.01 degrees using its gravitational pull.
