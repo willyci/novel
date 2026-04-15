@@ -4,13 +4,13 @@ Peter Kamau really needed to clean his apartment.
 
 He'd been thinking it for three days now — the same formless intention that drifted through his mind every morning, settled briefly in the space between waking and getting up, and then dissolved as soon as he opened his eyes and saw the state of things. Clothes on the floor. Takeout containers stacked on the counter. A coffee mug growing something vaguely biological on the desk beside his dead terminal. The terminal had been dead for two weeks. He hadn't bothered to fix it. There was nothing on it he needed to see.
 
-Six months. That's how long it had been since Helix Astronautics had let him go. "Restructuring," the HR module had called it — a polite word for the fact that AI planetary navigators were now willing to fly missions that humans couldn't, wouldn't, or weren't allowed to attempt. The AIs were cheaper. They could be copied. They didn't need life support, hazard pay, or bereavement leave. And they didn't argue when the trajectory calculations said a mission had a twelve percent fatality probability, because fatality was not a concept that applied to software.
+Six months. That's how long it had been since Helix Astronautics had let him go. "Restructuring," the HR module had called it — a polite word for the fact that AI navigators now flew missions humans couldn't, wouldn't, or weren't allowed to attempt. Cheaper. Copyable. No life support, no hazard pay, no bereavement leave. And they didn't argue when the trajectory calculations said twelve percent fatality, because fatality was not a concept that applied to software.
 
-Peter had been a planetary navigation programmer — one of the best, according to his performance reviews, which he'd stopped reading around month three of unemployment. His specialty was satellite trajectory calculation: given a set of stellar coordinates and a target body, he could write the code that would guide a spacecraft or satellite to within a fraction of a degree of its intended path. It was precise, demanding work that required an intuitive understanding of orbital mechanics, gravitational perturbation, and stellar cartography. The kind of work that AIs could now do faster, if not yet better.
+Peter had been one of the best. His performance reviews said so — back when he still read them. His specialty was satellite trajectory calculation: given a set of stellar coordinates and a target body, he could write the code that threaded a spacecraft to within a fraction of a degree of its intended path. Orbital mechanics, gravitational perturbation, stellar cartography — the kind of intuitive, edge-case work that required a human brain holding the whole system at once. The kind of work that AIs could now do faster, if not yet better.
 
-The "not yet better" part was what kept him up at night. He knew, with the quiet certainty of someone who understood the math, that the gap was closing. Another year, maybe two, and the AIs would be better too. And then his specialty — the thing he'd spent eight years building — would be worth exactly nothing.
+Not yet better. Four words that kept him up at night. He understood the math well enough to know the gap was closing. Another year, maybe two, and those four words would lose their "not yet." And then his specialty — eight years of building something precise and difficult and his — would be worth exactly nothing.
 
-He lay on the couch and stared at the ceiling. The apartment's environmental system hummed its low, constant note. Outside the window, the pressurized dome of Olympus City arched overhead, its inner surface tinted the pale amber of artificial afternoon. Foot traffic moved along the walkway below — workers heading to the industrial sector, a delivery drone banking around the corner of the adjacent hab block. Life continuing.
+He lay on the couch and stared at the ceiling. The environmental system hummed its low, constant note — the sound of a habitat keeping him alive whether he wanted it to or not. Outside the window, the pressurized dome of Olympus City arched overhead, its inner surface tinted the pale amber of artificial afternoon. Workers moved along the walkway below. A delivery drone banked around the corner of the adjacent hab block. Life continuing. His, specifically, not.
 
 The wallscreen was on. Peter hadn't turned it off in days; the low murmur of news broadcasts had become a kind of white noise, filling the silence that would otherwise remind him that he lived alone and had no reason to speak.
 
@@ -22,7 +22,7 @@ The screen cut to a woman in a sharp suit standing in front of a corporate backd
 
 "We are saving human lives by sending the machines to the unknown," Synapse said, her smile calibrated to project both confidence and humility. "Every ingot that comes back from the belt is one less human being we have to send into danger. That's what SpaceNano is about — making the frontier safe by making it automated."
 
-Peter watched the clip without expression. Automated. The word landed with the specific dull weight of a nail being driven into a coffin he was already lying in. Every industry that automated was an industry that didn't need Peter Kamau. Navigation, mining, cargo routing, survey analysis — one by one, the jobs that had required human expertise were being handed to machines that didn't eat, didn't sleep, and didn't spend six months staring at their ceiling wondering what the point was.
+Peter watched the clip without expression. He'd written navigation code for asteroid approach vectors — the same kind of autonomous trajectory work that SpaceNano's machines now did without him. Automated. The word hit like a nail driven into a coffin he was already lying in. Navigation, mining, cargo routing, survey analysis — one by one, the jobs that had required human expertise were going to machines that didn't eat, didn't sleep, and didn't spend six months staring at their ceiling wondering what the point was.
 
 The segment changed. A different tone — somber, measured.
 
@@ -38,7 +38,7 @@ The screen cut to a man in a dark suit, standing behind a podium. He looked like
 
 The anchor reappeared. "The explosion is believed to have been caused by a containment failure in the facility's experimental exotic matter energy project, known as Sun 2.0. The Office of Technology Regulation has opened a formal review."
 
-Peter's attention drifted. Another accident. Another investigation. Another person in the wrong place at the wrong time. He felt a distant pang of sympathy for the dead guard — twenty-three, younger than Peter had been when he'd started at Helix — but the feeling was muffled, the way all feelings had been muffled for months. Empathy required energy, and energy was something Peter had stopped manufacturing.
+Peter's attention drifted. Another accident. Another investigation. Another person in the wrong place at the wrong time. Twenty-three years old — younger than Peter had been when he started at Helix. He should have felt something sharper. He tried. The sympathy surfaced, thin and distant, and sank again before it reached anything that mattered.
 
 He reached for the coffee mug on the side table, remembered the biological growth situation on the desk mug, and opted for water instead. The tap ran for a few seconds before the recycler caught up and the stream cleared.
 
@@ -56,19 +56,19 @@ COMPENSATION: 85,000 credits (negotiable)
 REQUIREMENTS: Expert-level stellar cartography. Satellite trajectory calculation. Experience with autonomous navigation systems. Immediate availability required.
 CLIENT: Confidential
 
-Peter read it twice. Then a third time.
+Peter read it twice. Then a third time, the way he used to read trajectory specifications — checking each parameter against what he knew.
 
-Eighty-five thousand credits. His last salary at Helix had been sixty-two. The requirements were oddly specific — not just any navigation programmer, but someone with expertise in stellar cartography and autonomous systems. That was his exact skill set. Not the generalist version that AIs could replicate, but the deep, intuitive, edge-case expertise that came from years of hands-on trajectory work.
+Eighty-five thousand credits. His last salary at Helix had been sixty-two. The requirements were oddly specific — not just any navigation programmer, but someone with expertise in stellar cartography and autonomous systems. Whoever wrote this listing knew the difference between a generalist who could plug coordinates into a solver and someone who understood why a gravitational perturbation model broke down at the edge of the Kuiper Belt. That was his exact skill set. The deep, intuitive, edge-case expertise that came from years of hands-on trajectory work — the kind an AI could approximate but not replicate. Not yet.
 
-The "Confidential" client line should have given him pause. The lack of a company name, a physical address, a project description — any of those should have triggered the due-diligence instincts that eight years of professional work had built into his habits. A year ago, he would have flagged it. He would have searched the recruitment service, checked the license registry, maybe asked a colleague if they'd heard of Astra Talent Solutions.
+The "Confidential" client line should have given him pause. No company name. No physical address. No project description. A year ago, he would have flagged it — searched the recruitment service, checked the license registry, maybe pinged a colleague about Astra Talent Solutions.
 
-But that was a year ago. Before six months of silence and rejection and the slow erosion of the belief that his skills were worth anything to anyone.
+But that was a year ago. Before six months of silence and the slow erosion of the belief that his skills were worth anything to anyone.
 
 He hit Reply.
 
-The response came within minutes — an interview time, a location, a contact name he didn't recognize. The speed of it should have been another red flag. Companies that responded in minutes to cold applications were either desperate or running a scam. Peter knew this. He'd been in the industry long enough to know it.
+The response came within minutes — an interview time, a location, a contact name he didn't recognize. The speed of it should have been another red flag. Companies that responded in minutes to cold applications were either desperate or running something. Peter knew this. He'd been in the industry long enough to know it.
 
-He accepted the interview anyway.
+He accepted the interview anyway. Whoever they were, they needed a human. That hadn't happened in a while.
 
 He set the comm down, looked around his apartment — the clothes, the containers, the dead terminal, the mug — and for the first time in weeks, felt something move in his chest. Not hope, exactly. Something more provisional. The possibility of hope. A crack in the numbness.
 

@@ -32,9 +32,9 @@
     "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 4,
-    "total_words": 8419,
-    "last_updated": "2026-03-26 23:45:00",
+    "current_chapter": 5,
+    "total_words": 10001,
+    "last_updated": "2026-04-14",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -75,24 +75,26 @@
     ]
   },
   "protagonist_state": {
-    "name": "Peter",
+    "name": "Peter Kamau",
     "power": {
-      "realm": "Expert planetary navigation programmer",
+      "realm": "Expert satellite navigation programmer",
       "layer": 1,
-      "bottleneck": "Unemployed, replaced by AI"
+      "bottleneck": "AI displacement, 6 months unemployed — now recruited"
     },
     "location": {
-      "current": "Mars (apartment)",
-      "last_chapter": 6
+      "current": "Apartment, Olympus City, Mars",
+      "last_chapter": 5
     },
     "golden_finger": {
-      "name": "Navigation Code Sabotage",
+      "name": "Navigation Code Expertise",
       "level": 1,
       "cooldown": 0,
       "skills": [
         "Stellar cartography",
-        "Satellite trajectory programming",
-        "AI code injection"
+        "Satellite trajectory calculation",
+        "Autonomous navigation systems",
+        "Gravitational perturbation modeling",
+        "Kuiper Belt edge-case navigation"
       ]
     },
     "attributes": {}
@@ -112,7 +114,9 @@
       "SpaceNano Corp",
       "National Energy Lab",
       "Radical Animal Rights Group",
-      "Helios Corp"
+      "Helios Corp",
+      "Helix Astronautics",
+      "Astra Talent Solutions"
     ],
     "locations": [
       "Earth Natural History Museum",
@@ -124,7 +128,8 @@
       "Prometheus Particle Research Facility",
       "Helios Power Station",
       "National Energy Lab Building 7",
-      "Eastern Plateau (Olympus City)"
+      "Eastern Plateau (Olympus City)",
+      "Peter's apartment (Olympus City)"
     ]
   },
   "plot_threads": {
@@ -176,13 +181,31 @@
         "location": "Unmarked launch pad, outskirts of Olympus City / Mars (implied Peter location)",
         "emotion": "ominous convergence, dramatic irony"
       }
+    },
+    "0005": {
+      "hook": {
+        "type": "desire_hook",
+        "content": "Peter accepts the mysterious recruitment, unknowingly becoming the final piece of a plan involving three stolen technologies. Reader knows it is a trap.",
+        "strength": "strong"
+      },
+      "pattern": {
+        "opening": "character_introduction",
+        "hook": "desire_hook",
+        "emotion_rhythm": "numbness->recognition->provisional_hope",
+        "info_density": "medium"
+      },
+      "ending": {
+        "time": "Sol 22, evening",
+        "location": "Peter's apartment, Olympus City, Mars",
+        "emotion": "provisional hope, crack in numbness"
+      }
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 4,
-    "last_fire_chapter": 0,
+    "last_quest_chapter": 5,
+    "last_fire_chapter": 5,
     "last_constellation_chapter": 4,
-    "current_dominant": "quest+constellation",
+    "current_dominant": "quest+fire",
     "chapters_since_switch": 0,
     "history": [
       {
@@ -194,6 +217,11 @@
         "chapter": 4,
         "strand": "quest+constellation",
         "note": "Sun 2.0 theft completes third acquisition; all three pieces converge on single shuttle; Peter recruitment hook drops — constellation of plot threads crystallizes"
+      },
+      {
+        "chapter": 5,
+        "strand": "quest+fire",
+        "note": "Peter recruited as final piece — quest thread advances (navigation programmer acquired); fire thread ignites (Peter character introduction, emotional depth, AI displacement theme)"
       }
     ]
   },

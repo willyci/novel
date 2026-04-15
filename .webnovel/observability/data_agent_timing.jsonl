@@ -36,3 +36,41 @@
 {"timestamp": "2026-03-26T23:04:57.059521", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 10}
 {"timestamp": "2026-03-27T00:30:54.847636", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 19}
 {"chapter": 4, "timestamp": "2026-03-27T00:36:02.201780", "timing_ms": {"A_load_context": 850, "B_entity_extract": 12400, "C_disambiguation": 180, "D_state_index_write": 620, "E_summary_write": 110, "F_scene_chunking": 4800, "G_rag_index": 1950, "H_style_sample": 380, "I_debt_interest": 0, "TOTAL": 21290}, "bottlenecks_top3": [{"step": "B_entity_extract", "elapsed_ms": 12400, "ratio": 58.2}, {"step": "F_scene_chunking", "elapsed_ms": 4800, "ratio": 22.5}, {"step": "G_rag_index", "elapsed_ms": 1950, "ratio": 9.2}]}
+{"timestamp": "2026-04-14T23:13:41.630361", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-14T23:19:25.353435", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-14T23:22:03.552381", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-14T23:22:08.296729", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-14T23:22:16.514211", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-14T23:22:21.363169", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-14T23:22:21.703890", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 12, "error_code": "NOT_FOUND", "error_message": "未找到别名: Nova Synapse"}
+{"timestamp": "2026-04-14T23:22:22.030806", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 11, "error_code": "NOT_FOUND", "error_message": "未找到别名: SpaceNano"}
+{"timestamp": "2026-04-14T23:22:34.295733", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 15, "error_code": "NOT_FOUND", "error_message": "未找到别名: Peter"}
+{"timestamp": "2026-04-14T23:22:34.662332", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 17, "error_code": "NOT_FOUND", "error_message": "未找到别名: Peter Kamau"}
+{"timestamp": "2026-04-14T23:22:40.753552", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 12, "error_code": "NOT_FOUND", "error_message": "未找到别名: Helix Astronautics"}
+{"timestamp": "2026-04-14T23:22:41.099171", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 10, "error_code": "NOT_FOUND", "error_message": "未找到别名: Astra Talent Solutions"}
+{"timestamp": "2026-04-14T23:22:55.459795", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 24}
+{"timestamp": "2026-04-14T23:23:01.691818", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-14T23:23:06.930280", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-14T23:23:12.520126", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-14T23:23:17.100173", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-14T23:23:23.379139", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-14T23:23:34.070420", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-14T23:23:34.505920", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-14T23:23:34.862327", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-14T23:23:35.253862", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-14T23:23:35.613401", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-14T23:23:35.964877", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 23}
+{"timestamp": "2026-04-14T23:23:36.330446", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-14T23:23:36.699544", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-14T23:23:37.052982", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 22}
+{"timestamp": "2026-04-14T23:23:37.463270", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-14T23:23:37.839395", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-14T23:23:43.069402", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-14T23:23:48.887152", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 24}
+{"timestamp": "2026-04-14T23:23:49.233700", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 28}
+{"timestamp": "2026-04-14T23:24:00.446425", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 23}
+{"timestamp": "2026-04-14T23:24:20.920076", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 34, "chapter": 5}
+{"timestamp": "2026-04-14T23:25:32.252132", "tool_name": "rag_adapter:index-chapter", "success": true, "elapsed_ms": 1809, "chapter": 5}
+{"timestamp": "2026-04-14T23:25:40.073345", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 11, "chapter": 5}
+{"chapter": 5, "timestamp": "2026-04-14T23:25:57.183732", "tool_name": "data_agent:chapter_5_summary", "success": true, "timing_ms": {"A_load_context": 950, "B_entity_extract": 14000, "C_disambiguation": 300, "D_state_index_write": 1800, "E_summary_write": 150, "F_scene_chunking": 3500, "G_rag_index": 1809, "H_style_sample": 11, "I_debt_interest": 0, "TOTAL": 22520}, "bottlenecks_top3": [{"step": "B_entity_extract", "elapsed_ms": 14000, "ratio": 62.2}, {"step": "F_scene_chunking", "elapsed_ms": 3500, "ratio": 15.5}, {"step": "D_state_index_write", "elapsed_ms": 1800, "ratio": 8.0}]}
+{"timestamp": "2026-04-14T23:26:29.387172", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 16}

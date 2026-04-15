@@ -1,10 +1,21 @@
 {
-  "start_chapter": 4,
-  "end_chapter": 4,
-  "overall_score": 86.3,
-  "dimension_scores": {"设定一致性": 8.2, "连贯性": 8.2, "人物塑造": 9.0, "追读力": 9.1},
-  "severity_counts": {"critical": 0, "high": 1, "medium": 8, "low": 17},
+  "start_chapter": 5,
+  "end_chapter": 5,
+  "overall_score": 88.5,
+  "dimension_scores": {
+    "设定一致性": 9.5,
+    "连贯性": 9.5,
+    "人物塑造": 9.7,
+    "追读力": 8.8,
+    "爽点密度": 6.8
+  },
+  "severity_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 2,
+    "low": 7
+  },
   "critical_issues": [],
   "report_file": "",
-  "notes": "selected_checkers: consistency-checker,continuity-checker,ooc-checker,reader-pull-checker; timeline_gate: pass; anti_ai_force_check: pass; high fixed: breath fogging on Mars; medium fixed: Captain/Inspector, time arithmetic, Sun 2.0 discharge logic"
+  "notes": "selected_checkers: consistency-checker,continuity-checker,ooc-checker,reader-pull-checker,high-point-checker; timeline_gate: pass; medium issues: show-vs-tell in cognitive payoff (narrator tells reader about convergence rather than showing through Peter's POV), volume-finale density gap (Ch4 Shock-5 drops to quiet Ch5 ending without closing high-peak)"
 }
