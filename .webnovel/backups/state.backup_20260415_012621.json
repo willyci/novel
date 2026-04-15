@@ -70,18 +70,7 @@
       {
         "volume": 2,
         "chapters_range": "6-10",
-        "planned_at": "2026-03-27",
-        "updated_at": "2026-04-15"
-      },
-      {
-        "volume": 3,
-        "chapters_range": "11-15",
-        "planned_at": "2026-04-15"
-      },
-      {
-        "volume": 4,
-        "chapters_range": "16-20",
-        "planned_at": "2026-04-15"
+        "planned_at": "2026-03-27"
       }
     ]
   },

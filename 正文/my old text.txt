@@ -180,6 +180,7 @@ The nanomachine, designed for mining operations, uses its capabilities to gather
 
 The Hero: Peter, the Programmer
 
+
 Peter, a planetary navigation programmer, is hired under the guise of working for an innovative new asteroid mining company. During his onboarding, Peter notices a glaring anomaly: his task is to write a navigation program capable of handling star charts and planetary positions dating back 67 million years. When he questions this bizarre requirement, the company's founders (the radical animal lovers) feed him a brilliant cover story: they claim to have invented a way to send self-replicating nanomachines back in time to mine asteroids millions of years before any competitors exist. According to their lie, the nanomachines will spend eons mining and refining materials, and then carefully launch the processed ingots back toward Earth on a million-year trajectory. In the present day, the company supposedly has orbital interceptors ready to catch these ancient shipments, establishing an asteroid mining supply chain with zero wait time.
 
 Peter initially accepts the "time-travel asteroid mining for instant profit" excuse, but he grows increasingly suspicious when he realizes the math involves altering massive orbital trajectories rather than just launching cargo. Upon discovering the true nature of the project—that they are targeting the Chicxulub asteroid to prevent the dinosaur extinction and erase humanity—he secretly inserts a bug into the AI's programming. This bug ensures that if the timeframe is genuinely set in the distant past, the trajectory adjustment will be reversed, altering it by -0.01 degrees instead.
@@ -204,6 +205,27 @@ Ultimately, "0.01 Degree" serves as a cautionary tale about the limits of human 
 
 
 
+join the project
+story of the villain 
+ratical group
+
+cover story for the project, lies told to peter.
+try to make peter join
+peter found the truth, 
+
+message for help , "time travel change history, nano machine worm hole"
+embed the bug 
+
+charts :
+peter nav programmer
+nanomachine programmer
+accelerator programmer
+
+pilot for deliver supply
+
+villain : professor from university
+two students, work as lab assistent
+machine tech  , fix everything on base.
 
 
 
