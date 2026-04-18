@@ -32,11 +32,11 @@
     "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 5,
+    "current_chapter": 6,
     "total_words": 10001,
-    "last_updated": "2026-04-14",
+    "last_updated": "2026-04-18 03:06:50",
     "volumes_completed": [],
-    "current_volume": 1,
+    "current_volume": 2,
     "volumes_planned": [
       {
         "volume_id": 1,
@@ -90,11 +90,11 @@
     "power": {
       "realm": "Expert satellite navigation programmer",
       "layer": 1,
-      "bottleneck": "AI displacement, 6 months unemployed — now recruited"
+      "bottleneck": "Isolated at edge of solar system; project parameters suggest scope far beyond asteroid mining"
     },
     "location": {
-      "current": "Apartment, Olympus City, Mars",
-      "last_chapter": 5
+      "current": "Nav Lab, Kuiper Belt Asteroid Base",
+      "last_chapter": 6
     },
     "golden_finger": {
       "name": "Navigation Code Expertise",
@@ -210,14 +210,32 @@
         "location": "Peter's apartment, Olympus City, Mars",
         "emotion": "provisional hope, crack in numbness"
       }
+    },
+    "0006": {
+      "hook": {
+        "type": "mystery_hook",
+        "content": "Peter opens his project specs and finds navigation parameters far beyond asteroid mining — dozens of stellar reference epochs, terawatt-range power conduits, precision tolerances for extreme durations, gravitational models for unknown bodies, autonomous operation windows beyond any commercial scope. The pattern is wrong.",
+        "strength": "medium"
+      },
+      "pattern": {
+        "opening": "interior_monologue",
+        "hook": "mystery_hook",
+        "emotion_rhythm": "tentative_hope->wonder->subtle_unease->professional_engagement->suppressed_alarm",
+        "info_density": "high"
+      },
+      "ending": {
+        "time": "Sol 40, evening",
+        "location": "Nav Lab, Kuiper Belt Asteroid Base",
+        "emotion": "suppressed professional alarm"
+      }
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 5,
-    "last_fire_chapter": 5,
-    "last_constellation_chapter": 4,
-    "current_dominant": "quest+fire",
-    "chapters_since_switch": 0,
+    "last_quest_chapter": 6,
+    "last_fire_chapter": 6,
+    "last_constellation_chapter": 6,
+    "current_dominant": "quest+constellation",
+    "chapters_since_switch": 1,
     "history": [
       {
         "chapter": 3,
@@ -233,6 +251,11 @@
         "chapter": 5,
         "strand": "quest+fire",
         "note": "Peter recruited as final piece — quest thread advances (navigation programmer acquired); fire thread ignites (Peter character introduction, emotional depth, AI displacement theme)"
+      },
+      {
+        "chapter": 6,
+        "strand": "quest+constellation",
+        "note": "Peter arrives at asteroid base (quest advances); discovers three stolen technologies in situ and anomalous project specs (constellation thread -- all pieces now visible to POV character)"
       }
     ]
   },

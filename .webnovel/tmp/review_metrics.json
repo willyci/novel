@@ -1,21 +1,10 @@
 {
-  "start_chapter": 5,
-  "end_chapter": 5,
-  "overall_score": 88.5,
-  "dimension_scores": {
-    "设定一致性": 9.5,
-    "连贯性": 9.5,
-    "人物塑造": 9.7,
-    "追读力": 8.8,
-    "爽点密度": 6.8
-  },
-  "severity_counts": {
-    "critical": 0,
-    "high": 0,
-    "medium": 2,
-    "low": 7
-  },
+  "start_chapter": 6,
+  "end_chapter": 6,
+  "overall_score": 87.0,
+  "dimension_scores": {"爽点密度": 7.9, "设定一致性": 9.5, "节奏控制": 7.9, "人物塑造": 9.3, "连贯性": 9.2, "追读力": 7.9},
+  "severity_counts": {"critical": 0, "high": 0, "medium": 2, "low": 8},
   "critical_issues": [],
   "report_file": "",
-  "notes": "selected_checkers: consistency-checker,continuity-checker,ooc-checker,reader-pull-checker,high-point-checker; timeline_gate: pass; medium issues: show-vs-tell in cognitive payoff (narrator tells reader about convergence rather than showing through Peter's POV), volume-finale density gap (Ch4 Shock-5 drops to quiet Ch5 ending without closing high-peak)"
+  "notes": "selected_checkers: consistency-checker, continuity-checker, ooc-checker, reader-pull-checker; timeline_gate: pass; medium issues: micropayoff mid-section gap, mid-section pacing flat"
 }

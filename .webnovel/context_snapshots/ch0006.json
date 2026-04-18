@@ -1,0 +1,412 @@
+{
+  "version": "1.2",
+  "chapter": 6,
+  "saved_at": "2026-04-18T06:47:47.633438+00:00",
+  "payload": {
+    "meta": {
+      "chapter": 6,
+      "context_contract_version": "v2",
+      "ranker": {
+        "enabled": true,
+        "recency_weight": 0.7,
+        "frequency_weight": 0.3,
+        "hook_bonus": 0.2
+      },
+      "context_weight_stage": "early"
+    },
+    "sections": {
+      "core": {
+        "content": {
+          "chapter_outline": "⚠️ 未找到第 6 章的大纲",
+          "protagonist_snapshot": {
+            "name": "Peter Kamau",
+            "power": {
+              "realm": "Expert satellite navigation programmer",
+              "layer": 1,
+              "bottleneck": "AI displacement, 6 months unemployed — now recruited"
+            },
+            "location": {
+              "current": "Apartment, Olympus City, Mars",
+              "last_chapter": 5
+            },
+            "golden_finger": {
+              "name": "Navigation Code Expertise",
+              "level": 1,
+              "cooldown": 0,
+              "skills": [
+                "Stellar cartography",
+                "Satellite trajectory calculation",
+                "Autonomous navigation systems",
+                "Gravitational perturbation modeling",
+                "Kuiper Belt edge-case navigation"
+              ]
+            },
+            "attributes": {}
+          },
+          "recent_summaries": [
+            {
+              "chapter": 4,
+              "summary": "---\nchapter: 0004\ntime: \"Sol 15 (explosion 02:17) through Sol 18 (shuttle departure)\"\nlocation: \"National Energy Lab Building 7, Olympus City eastern plateau; unmarked launch pad\"\ncharacters: [\"Captain Elena Voss\", \"Michael Jones\", \"Mike Reeves\", \"Dr. Lena Park\", \"Dex\"]\nstate_changes: [\"Sun 2.0: containment lab -> stolen, en route to Kuiper Belt\", \"Building 7: operational -> destroyed\", \"Mike Reeves: alive -> deceased\", \"Kepler-7: pending transport -> loaded on shuttle\"]\nhook_type: \"convergence_hook\"\nhook_strength: \"strong\"\n---\n\n## Plot Summary\nBuilding 7 at the National Energy Lab explodes at 02:17 on Sol 15, killing night guard Mike Reeves. Captain Elena Voss leads the investigation; Director Michael Jones is devastated. The official conclusion: containment failure in the Sun 2.0 exotic matter housing. A flashback reveals the truth -- Dr. Lena Park sabotaged sensor thresholds fourteen hours prior, and a hijacked maintenance drone extracted the Sun 2.0 prototype twenty-seven minutes before the blast. The explosion was not the accident but the cover. Three days later, all three stolen technologies (nanomachines, Kepler-7 accelerator, Sun 2.0) converge on a single cargo shuttle piloted by Dex, bound for the Kuiper Belt. The chapter closes with a job posting for a navigation programmer -- the final piece of the conspiracy.\n\n## Foreshadowing\n- [Convergence] Three thefts, three operatives who will never meet, three technologies on one shuttle -- the master plan's scope revealed\n- [Connection] Office of Technology Regulation inspector at Building 7 is from the same office processing Marcus Webb's accelerator inquiry (ch3) -- potential thread crossing\n- [Recruitment] Job listing for planetary navigation programmer with oddly specific qualifications -- Peter's entry into the conspiracy\n- [Compartmentalization] Each operative believes they are the only one -- organizational security or expendability?\n\n## Continuity Points\n- The chapter ends with Peter about to be recruited. Next chapter should show him encountering or responding to the job listing, transitioning from background observer to active participant.\n"
+            },
+            {
+              "chapter": 5,
+              "summary": "---\nchapter: 0005\ntime: \"2543, Sol 22, afternoon to evening\"\nlocation: \"Peter's apartment, Olympus City, Mars\"\ncharacters: [\"Peter Kamau\", \"Nova Synapse (TV)\", \"Michael Jones (TV)\", \"Mike Reeves (TV mention, deceased)\"]\nstate_changes: [\"Peter Kamau: unemployed 6 months -> accepted interview with Astra Talent Solutions\"]\nhook_type: \"desire_hook\"\nhook_strength: \"strong\"\n---\n\n## Plot Summary\nPeter Kamau, an expert satellite navigation programmer unemployed for six months after Helix Astronautics replaced him with AI, lies in his deteriorating apartment in Olympus City. TV news covers SpaceNano's nanomachine expansion (CEO Nova Synapse) and the National Energy Lab explosion aftermath (Director Michael Jones, victim Mike Reeves). Peter receives a targeted recruitment listing from Astra Talent Solutions via the Martian Employment Exchange: Satellite Navigation Programmer, 85K credits, confidential client. Despite red flags (no company name, no address, suspiciously fast response), desperation and the listing's precise match to his skill set compel him to accept the interview. He begins cleaning his apartment -- the first sign of hope in months.\n\n## Foreshadowing\n- [Planted] Astra Talent Solutions has no logo, no address, responds in minutes -- clearly a front operation\n- [Planted] The job requires Peter's exact skill set, suggesting he was specifically targeted\n- [Advanced] SpaceNano nanomachine technology (stolen in Ch1-2) publicly presented as humanitarian\n- [Advanced] National Energy Lab explosion (staged theft in Ch4) covered as containment failure\n- [Planted] \"Not yet better\" -- AI closing the gap on human navigation, thematic thread\n- [Planted] Peter wrote navigation code for asteroid approach vectors -- exactly the skill needed for the Kuiper Belt mission\n\n## Connection Point\nPeter has accepted the interview. Next chapter should show the interview itself or the transition from Mars apartment life to active involvement with the mysterious confidential client. Volume 1 (\"The Pieces\") concludes -- all four pieces are now in place.\n"
+            },
+            {
+              "chapter": 3,
+              "summary": "---\nchapter: 0003\ntime: \"Sol 8, new quarter\"\nlocation: \"Prometheus Particle Research Facility, outskirts of Olympus City, Mars\"\ncharacters: [\"Marcus Webb\", \"Dr. Freeman (fake identity)\", \"Dr. Hadron (referenced)\"]\nstate_changes: [\"Kepler-7 Accelerator: Prometheus Facility ownership -> sold to unknown organization via Dr. Freeman\"]\nhook_type: \"suspense_hook\"\nhook_strength: \"strong\"\n---\n\n## Plot Summary\nMarcus Webb, the 11-year facility manager of the aging Prometheus Particle Research Facility, sells the Kepler-7 particle accelerator to a man posing as Dr. Freeman, an associate of the reputable Dr. Hadron. Despite Freeman's convincing technical knowledge and legitimate-looking credentials, Marcus notices troubling signs: Freeman refuses the recommended transport company and twice deflects requests for an installation address. Financial pressure from Helios Corp's decommission threats overrides Marcus's instincts. After the sale, Freeman removes his prosthetic disguise, revealing a younger face, and reports to an unknown handler that the accelerator is secured and bound for the outer solar system. Marcus files a regulatory inquiry, but it will take weeks to process -- by then, the accelerator and its ability to generate micro black holes will be long gone.\n\n## Foreshadowing\n- [Planted] The Kepler-7 can generate micro black holes (7ms duration) -- critical capability for the antagonist's plan\n- [Planted] Freeman's organization is preparing a ship to the outer solar system (Kuiper Belt connection)\n- [Planted] The accelerator requires enormous power, hinting at future infrastructure needs\n- [Planted] Marcus files a regulatory inquiry that will eventually raise flags (delayed alarm)\n- [Advanced] \"Particle accelerator acquisition via Dr. Freeman\" thread from state -- now completed\n\n## Connection Point\nThe accelerator acquisition is complete. The next thread to advance is the broader conspiracy: what the organization plans to do with a machine that can tear holes in spacetime, and how this connects to the Sun 2.0 project and Peter's eventual recruitment.\n"
+            }
+          ],
+          "recent_meta": [
+            {
+              "chapter": 5,
+              "hook": {
+                "type": "desire_hook",
+                "content": "Peter accepts the mysterious recruitment, unknowingly becoming the final piece of a plan involving three stolen technologies. Reader knows it is a trap.",
+                "strength": "strong"
+              },
+              "pattern": {
+                "opening": "character_introduction",
+                "hook": "desire_hook",
+                "emotion_rhythm": "numbness->recognition->provisional_hope",
+                "info_density": "medium"
+              },
+              "ending": {
+                "time": "Sol 22, evening",
+                "location": "Peter's apartment, Olympus City, Mars",
+                "emotion": "provisional hope, crack in numbness"
+              }
+            },
+            {
+              "chapter": 4,
+              "hook": {
+                "type": "convergence_hook",
+                "content": "Three stolen technologies loaded onto one shuttle for the Kuiper Belt. A job listing appears for a planetary navigation programmer — the final piece has no idea what he is walking into.",
+                "strength": "strong"
+              },
+              "pattern": {
+                "opening": "aftermath_scene",
+                "hook": "convergence_hook",
+                "emotion_rhythm": "shock->grief->procedural->revelation->dread->anticipation",
+                "info_density": "very_high"
+              },
+              "ending": {
+                "time": "Sol 18, three days after explosion",
+                "location": "Unmarked launch pad, outskirts of Olympus City / Mars (implied Peter location)",
+                "emotion": "ominous convergence, dramatic irony"
+              }
+            },
+            {
+              "chapter": 3,
+              "hook": {
+                "type": "suspense_hook",
+                "content": "Marcus files regulatory inquiry but it will take weeks; Freeman is already preparing a ship to the outer solar system. The accelerator will be long gone.",
+                "strength": "strong"
+              },
+              "pattern": {
+                "opening": "scene_setting",
+                "hook": "suspense_hook",
+                "emotion_rhythm": "neutral->tension->unease->revelation",
+                "info_density": "high"
+              },
+              "ending": {
+                "time": "Sol 8, after the sale",
+                "location": "Prometheus Facility / transport pod leaving Olympus City",
+                "emotion": "lingering unease and dramatic irony"
+              }
+            }
+          ]
+        },
+        "text": "{\"chapter_outline\": \"⚠️ 未找到第 6 章的大纲\", \"protagonist_snapshot\": {\"name\": \"Peter Kamau\", \"power\": {\"realm\": \"Expert satellite navigation programmer\", \"layer\": 1, \"bottleneck\": \"AI displacement, 6 months unemployed — now recruited\"}, \"location\": {\"current\": \"Apartment, Olympus City, Mars\", \"last_chapter\": 5}, \"golden_finger\": {\"name\": \"Navigation Code Expertise\", \"level\": 1, \"cooldown\": 0, \"skills\": [\"Stellar cartography\", \"Satellite trajectory calculation\", \"Autonomous navigation systems\", \"Gravitational perturbation modeling\", \"Kuiper Belt edge-case navigation\"]}, \"attributes\": {}}, \"recent_summaries\": [{\"chapter\": 4, \"summary\": \"---\\nchapter: 0004\\ntime: \\\"Sol 15 (explosion 02:17) through Sol 18 (shuttle departure)\\\"\\nlocation: \\\"National Energy Lab Building 7, Olympus City eastern plateau; unmarked launch pad\\\"\\ncharacters: [\\\"Captain Elena Voss\\\", \\\"Michael Jones\\\", \\\"Mike Reeves\\\", \\\"Dr. Lena Park\\\", \\\"Dex\\\"]\\nstate_changes: [\\\"Sun 2.0: containment lab -> stolen, en route to Kuiper Belt\\\", \\\"Building 7: operational -> destroyed\\\", \\\"Mike Reeves: alive -> deceased\\\", \\\"Kepler-7: pending transport -> loaded on shuttle\\\"]\\nhook_type: \\\"convergence_hook\\\"\\nhook_strength: \\\"strong\\\"\\n---\\n\\n## Plot Summary\\nBuilding 7 at the National Energy Lab explodes at 02:17 on Sol 15, killing night guard Mike Reeves. Captain Elena Voss leads the investigation; Director Michael Jones is devastated. The official conclusion: containment failure in the Sun 2.0 exotic matter housing. A flashback reveals the truth -- Dr. Lena Park sabotaged sensor thresholds fourteen hours prior, and a hijacked maintenance drone extracted the Sun 2.0 prototype twenty-seven minutes before the blast. The explosion was not the accident but the cover. Three days later, all three stolen technologies (nanomachines, Kepler-7 accelerator, Sun 2.0) converge on a single cargo shuttle piloted by Dex, bound for the Kuiper Belt. The chapter closes with a job posting for a navigation programmer -- the final piece of the conspiracy.\\n\\n## Foreshadowing\\n- [Convergence] Three thefts, three operatives who will never meet, three technologies on one shuttle -- the master plan's scope revealed\\n- [Connection] Office of Technology Regulation inspector at Building 7 is from the same office processing Marcus Webb's accelerator inquiry (ch3) -- potential thread crossing\\n- [Recruitment] Job listing for planetary navigation programmer with oddly specific qualifications -- Peter's entry into the conspiracy\\n- [Comp…[TRUNCATED]l 22, evening\", \"location\": \"Peter's apartment, Olympus City, Mars\", \"emotion\": \"provisional hope, crack in numbness\"}}, {\"chapter\": 4, \"hook\": {\"type\": \"convergence_hook\", \"content\": \"Three stolen technologies loaded onto one shuttle for the Kuiper Belt. A job listing appears for a planetary navigation programmer — the final piece has no idea what he is walking into.\", \"strength\": \"strong\"}, \"pattern\": {\"opening\": \"aftermath_scene\", \"hook\": \"convergence_hook\", \"emotion_rhythm\": \"shock->grief->procedural->revelation->dread->anticipation\", \"info_density\": \"very_high\"}, \"ending\": {\"time\": \"Sol 18, three days after explosion\", \"location\": \"Unmarked launch pad, outskirts of Olympus City / Mars (implied Peter location)\", \"emotion\": \"ominous convergence, dramatic irony\"}}, {\"chapter\": 3, \"hook\": {\"type\": \"suspense_hook\", \"content\": \"Marcus files regulatory inquiry but it will take weeks; Freeman is already preparing a ship to the outer solar system. The accelerator will be long gone.\", \"strength\": \"strong\"}, \"pattern\": {\"opening\": \"scene_setting\", \"hook\": \"suspense_hook\", \"emotion_rhythm\": \"neutral->tension->unease->revelation\", \"info_density\": \"high\"}, \"ending\": {\"time\": \"Sol 8, after the sale\", \"location\": \"Prometheus Facility / transport pod leaving Olympus City\", \"emotion\": \"lingering unease and dramatic irony\"}}",
+        "budget": 3840
+      },
+      "scene": {
+        "content": {
+          "location_context": {
+            "current": "Apartment, Olympus City, Mars",
+            "last_chapter": 5
+          },
+          "appearing_characters": [
+            {
+              "entity_id": "kepler7_accelerator",
+              "last_chapter": 4,
+              "total": 2
+            },
+            {
+              "entity_id": "building_7",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "dex",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "dr_lena_park",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "eastern_plateau",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "elena_voss",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "maintenance_drone",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "michael_jones",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "mike_reeves",
+              "last_chapter": 4,
+              "total": 1
+            },
+            {
+              "entity_id": "national_energy_lab",
+              "last_chapter": 4,
+              "total": 1
+            }
+          ]
+        },
+        "text": "{\"location_context\": {\"current\": \"Apartment, Olympus City, Mars\", \"last_chapter\": 5}, \"appearing_characters\": [{\"entity_id\": \"kepler7_accelerator\", \"last_chapter\": 4, \"total\": 2}, {\"entity_id\": \"building_7\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"dex\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"dr_lena_park\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"eastern_plateau\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"elena_voss\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"maintenance_drone\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"michael_jones\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"mike_reeves\", \"last_chapter\": 4, \"total\": 1}, {\"entity_id\": \"national_energy_lab\", \"last_chapter\": 4, \"total\": 1}]}",
+        "budget": 3120
+      },
+      "global": {
+        "content": {
+          "worldview_skeleton": "# 世界观设定\n\n## 世界一句话\nIn 2543, humanity has fled a ruined Earth to colonize Mars, where advanced technology enables time travel—but moral extremism threatens to erase human existence entirely.\n\n## 题材融合点（复合题材可填）\n- 主题材：Hard Sci-Fi (time travel, nanotechnology)\n- 副题材：Moral thriller / techno-heist\n- 融合机制：Hard science (micro black holes, nanomachines, orbital mechanics) provides the mechanism; moral philosophy provides the stakes.\n\n## 世界结构\n- 大陆/位面数量：Solar system — Earth (declining), Mars (civilization hub), Kuiper Belt (mining frontier)\n- 核心区域：Mars — primary human settlement, research labs, corporate HQs\n- 边缘区域：Kuiper Belt — asteroid mining operations, lawless frontier; Earth — degraded but still has museums/historical sites\n\n## 势力格局\n- 核心势力：\n  - Mars Government — regulates technology, tracks particle accelerators, enforces animal contraband laws\n  - SpaceNano Corporation — dominant mining company, CEO Nova Synapse, deploys nanomachine tech to asteroids\n  - National Energy Laboratory — government-backed, develops \"Sun 2.0\" clean energy, director Michael Jones\n- 次级势力：\n  - Radical animal rights group (unnamed) — underground extremists, the antagonist faction\n  - Black market networks — Joe and others, trade in contraband (animals, stolen tech)\n- 敌对/中立关系：Government vs. black market; animal rights group operates in secret against all of society\n- 宗门/组织层级：Corporate hierarchy (CEO/directors/engineers/workers); Government bureaucracy; Underground cell structure for the radical group\n\n## 社会结构\n- 社会阶层：Corporate elite (CEOs, directors) > Scientists/Engineers > Workers (Bob, Steve) > Displaced workers (Peter, replaced by AI)\n- 资源分配规则：Corporate-driven economy; mining resources shipped from Kuiper Belt to Mars; AI replacing human labor\n- 信仰/意识形态：Mainstream — human progress and survival; Radical fringe — animal life is sacred, humanity is a plague\n\n## 历史年表（关键节点）\n- ~2200s: Earth's environmental collapse accelerates, Mars colonization begins\n- ~2400s: Mars becomes primary civilization hub; genetic modifications for Mars-born humans\n- ~2500s: Kuiper Belt mining boom; SpaceNano pioneers nanomachine mining\n- 2543: Present day — AI displaces human workers; \"Sun 2.0\" energy project active; radical group begins their heist plan\n- 67 million years ago: Target era — the Chicxulub asteroid that killed the dinosaurs\n\n## 核心规则\n- 资源稀缺性：Energy is the bottleneck — micro black holes require enormous instantaneous energy release (\"Sun 2.0\")\n- 政治/宗门规则：Government tracks all particle accelerators; animal ownership is illegal on Mars (100 sols imprisonment)\n- 社会常识/禁忌：AI has replaced dangerous/remote human jobs; DNA traces must be destroyed after illegal transactions\n- 硬约束（不可违背）：\n  - Time travel requires: particle accelerator + exotic matter energy source + nanomachine payload\n  - Nanomachines require complex activation process — dormant without it\n  - Once sent through the black hole, no recall or communication is possible\n  - The 0.01 degree change is the minimum viable deflection — no precision beyond that\n\n## 世界运转机制\n- 能量/资源循环：Asteroids mined by nanomachines → ingots shipped to Moon Station 19 → distributed to Mars\n- 技术/法术基础：Nanotechnology (self-replicating machines), AI navigation, micro black hole generation, genetic modification, neural implants\n- 公平性与代价规则：Technology is powerful but requires massive infrastructure; stolen tech is useless without activation codes/energy sources\n\n## 货币与经济\n- 货币体系：Credits (digital currency)\n- 兑换规则：Standard solar economy\n- 主要流通形态：Electronic credits\n- 交易场景：Corporate contracts, black market deals (Joe's transactions), worker wages\n\n## 地理版图\n- 重要地点清单：\n  - Earth's Natural History Museum (field trip location, Ch1)\n  - Mars warehouse/logistics hub (Ch2, nanomachine theft)\n  - Mars Energy Research Laboratory (Ch4, \"Sun 2.0\" location)\n  - Old particle accelerator facility (Ch3, near a power plant)\n  - Secret Kuiper Belt asteroid lab (antagonist base)\n  - Moon Station 19 (mining ingot receiving station)\n- 关键资源点：Kuiper Belt asteroids (mining); Mars labs (technology)\n\n### Kuiper Belt Asteroid Base (Vol 2+)\n- Location: A hollowed-out asteroid in the outer Kuiper Belt, far from shipping lanes\n- Disguised as: An independent deep-space research outpost / mining R&D facility\n- Infrastructure: Living quarters for ~10 people, lab space, particle accelerator chamber, nanomachine programming bay, cargo dock, communications array (delayed relay to Mars)\n- Power: Solar collectors + stored energy cells; Sun 2.0 reserved for the main experiment\n- Isolation: 2-3 week travel from Mars by cargo shuttle; communication delay of hours\n- Security: No external oversight; the base doesn't officially exist\n- Atmosphere: Cramped, utilitarian, functional — a submarine in space\n\n## 日常生活\n- 货币/交易方式：Credits (digital); black market uses physical exchanges\n- 交通/通信：Spaceships between planets; neural implant communication; TV news broadcasts\n- 教育/职业体系：Schools with field trips (Sarah's class); programmers, warehouse workers, scientists; AI rapidly displacing human jobs (planetary navigators)\n",
+          "power_system_skeleton": "# 力量体系设定\n\n## 体系公理\n- 核心信条/定律：Technology is the sole source of power; no magic, no supernatural. All capabilities derive from engineering and physics.\n- 代价规则：Every technology has a resource cost — energy, time, infrastructure, or moral compromise.\n- 公平性原则：Anyone with knowledge and resources can wield technology; the radical group's advantage comes from stolen tech, not innate ability.\n\n## 体系类型\n- 体系类型：Hard sci-fi technology tiers\n- 典型境界链：N/A (no cultivation; technology levels instead)\n- 小境界划分：N/A\n\n## 能力来源\n- 能量/资源来源：Solar energy, asteroid minerals, \"Sun 2.0\" experimental energy\n- 训练/修炼方法：Scientific education, programming skill, engineering expertise\n- 社会控制机制：Corporations control tech deployment; government tracks dangerous equipment (particle accelerators)\n\n## 等级体系 (Technology Tiers)\n- Tier 1 — Consumer tech: Neural implants, genetic modifications, basic AI\n- Tier 2 — Industrial tech: Self-replicating nanomachines, asteroid mining systems, AI planetary navigation\n- Tier 3 — Experimental tech: \"Sun 2.0\" energy source, particle accelerator (micro black hole generation)\n- Tier 4 — Theoretical/forbidden: Time travel via micro black hole + nanomachine payload\n\n## 晋级条件\n- 资源要求：Each tier requires exponentially more energy and infrastructure\n- 突破方式：Scientific breakthroughs + resource acquisition\n- 失败代价：Lab explosions (National Energy Lab incident), job loss (Peter), imprisonment (100 sols for contraband)\n- 越级代价：Stealing tech = criminal prosecution; using experimental tech without proper setup = catastrophic failure\n\n## 资源系统\n- 核心资源类型：\n  - Energy (especially instantaneous high-energy release for black holes)\n  - Nanomachines (self-replicating, but require activation)\n  - Exotic matter (\"Sun 2.0\")\n  - Particle accelerators (create micro black holes for ~7 milliseconds)\n  - Programming expertise (Peter's satellite navigation code)\n- 资源获取方式：Corporate supply chains, theft, black market\n- 稀缺性规则：\"Sun 2.0\" is one-of-a-kind experimental; particle accelerators are government-tracked\n- 替代路径/灰色交易：Steve/Joe black market chain; buying decommissioned equipment under false pretenses (Dr. Freeman)\n\n## Key Technologies\n\n### Self-Replicating Nanomachines\n- Designed for asteroid mining\n- Dormant without complex activation process (\"just like dust\")\n- One survivor can bootstrap: mine → replicate → build larger machines → survey → refine → ship\n- Shot from cannons to asteroid surfaces in glass tubes\n- Over centuries: can self-replicate into a functional satellite with scanning + ion propulsion\n\n### \"Sun 2.0\"\n- Experimental clean energy source from National Energy Laboratory\n- Can release all energy in an instant — required for micro black hole generation\n- Stolen by radical group (lab explosion as cover)\n\n### Particle Accelerator\n- Creates micro black holes lasting ~7 milliseconds\n- Requires enormous power (originally located next to a power plant)\n- Government tracks all units; old model acquired under false pretenses\n\n### Micro Black Hole (Time Travel Mechanism)\n- Generated by particle accelerator + \"Sun 2.0\" energy\n- Nanomachine passes through → emerges 67 million years in the past\n- One-way trip; no communication possible after transit\n\n## 战斗规则\n- N/A (not a combat-focused story; conflicts are technological, moral, and intellectual)\n\n## 禁忌与限制\n- 禁术/禁地：Time travel itself is the ultimate forbidden technology\n- 高阶限制：Micro black holes last only 7 milliseconds — extremely narrow window\n- 硬限制（不可绕过）：\n  - Cannot communicate with the past once nanomachine is sent\n  - Nanomachine must operate autonomously for ~1 million years\n  - Satellite cannot verify trajectory while in asteroid's shadow\n  - 0.01 degree precision is the limit of ion propulsion deflection\n\n## 体系漏洞与利用\n- 漏洞：The satellite navigation AI trusts its programming blindly — if the code says -0.01, it executes -0.01\n- 主角如何利用：Peter inserts a conditional bug — if timestamp is in the past, reverse the trajectory sign\n- 反派如何反制：They don't catch the bug because Peter is the domain expert they hired\n\n## 反馈节奏\n- 境界变化节点：N/A\n- 读者可感知的战力差距展示方式：Knowledge asymmetry — who knows the true plan, who can sabotage it\n",
+          "style_contract_ref": "[风格契约设定未找到]"
+        },
+        "text": "{\"worldview_skeleton\": \"# 世界观设定\\n\\n## 世界一句话\\nIn 2543, humanity has fled a ruined Earth to colonize Mars, where advanced technology enables time travel—but moral extremism threatens to erase human existence entirely.\\n\\n## 题材融合点（复合题材可填）\\n- 主题材：Hard Sci-Fi (time travel, nanotechnology)\\n- 副题材：Moral thriller / techno-heist\\n- 融合机制：Hard science (micro black holes, nanomachines, orbital mechanics) provides the mechanism; moral philosophy provides the stakes.\\n\\n## 世界结构\\n- 大陆/位面数量：Solar system — Earth (declining), Mars (civilization hub), Kuiper Belt (mining frontier)\\n- 核心区域：Mars — primary human settlement, research labs, corporate HQs\\n- 边缘区域：Kuiper Belt — asteroid mining…[TRUNCATED]01, it executes -0.01\\n- 主角如何利用：Peter inserts a conditional bug — if timestamp is in the past, reverse the trajectory sign\\n- 反派如何反制：They don't catch the bug because Peter is the domain expert they hired\\n\\n## 反馈节奏\\n- 境界变化节点：N/A\\n- 读者可感知的战力差距展示方式：Knowledge asymmetry — who knows the true plan, who can sabotage it\\n\", \"style_contract_ref\": \"[风格契约设定未找到]",
+        "budget": 1040
+      },
+      "reader_signal": {
+        "content": {
+          "recent_reading_power": [],
+          "pattern_usage": {},
+          "hook_type_usage": {},
+          "review_trend": {
+            "count": 3,
+            "overall_avg": 88.93,
+            "dimension_avg": {
+              "设定一致性": 9.13,
+              "连贯性": 8.93,
+              "人物塑造": 9.3,
+              "追读力": 8.9,
+              "爽点密度": 6.8
+            },
+            "severity_totals": {
+              "critical": 0,
+              "high": 1,
+              "medium": 11,
+              "low": 33
+            },
+            "recent_ranges": [
+              {
+                "start_chapter": 5,
+                "end_chapter": 5,
+                "overall_score": 88.5
+              },
+              {
+                "start_chapter": 4,
+                "end_chapter": 4,
+                "overall_score": 86.3
+              },
+              {
+                "start_chapter": 3,
+                "end_chapter": 3,
+                "overall_score": 92.0
+              }
+            ]
+          },
+          "low_score_ranges": [],
+          "next_chapter": 6
+        },
+        "text": "{\"recent_reading_power\": [], \"pattern_usage\": {}, \"hook_type_usage\": {}, \"review_trend\": {\"count\": 3, \"overall_avg\": 88.93, \"dimension_avg\": {\"设定一致性\": 9.13, \"连贯性\": 8.93, \"人物塑造\": 9.3, \"追读力\": 8.9, \"爽点密度\": 6.8}, \"severity_totals\": {\"critical\": 0, \"high\": 1, \"medium\": 11, \"low\": 33}, \"recent_ranges\": [{\"start_chapter\": 5, \"end_chapter\": 5, \"overall_score\": 88.5}, {\"start_chapter\": 4, \"end_chapter\": 4, \"overall_score\": 86.3}, {\"start_chapter\": 3, \"end_chapter\": 3, \"overall_score\": 92.0}]}, \"low_score_ranges\": [], \"next_chapter\": 6}",
+        "budget": 800
+      },
+      "genre_profile": {
+        "content": {
+          "genre": "科幻",
+          "genre_raw": "科幻",
+          "genres": [
+            "科幻"
+          ],
+          "composite": false,
+          "secondary_genres": [],
+          "profile_excerpt": "",
+          "taxonomy_excerpt": "",
+          "secondary_profile_excerpts": [],
+          "secondary_taxonomy_excerpts": [],
+          "reference_hints": [],
+          "composite_hints": []
+        },
+        "text": "{\"genre\": \"科幻\", \"genre_raw\": \"科幻\", \"genres\": [\"科幻\"], \"composite\": false, \"secondary_genres\": [], \"profile_excerpt\": \"\", \"taxonomy_excerpt\": \"\", \"secondary_profile_excerpts\": [], \"secondary_taxonomy_excerpts\": [], \"reference_hints\": [], \"composite_hints\": []}",
+        "budget": 800
+      },
+      "writing_guidance": {
+        "content": {
+          "chapter": 6,
+          "guidance_items": [
+            "题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。",
+            "网文节奏基线：章首300字内给出目标与阻力，章末保留未闭合问题。",
+            "兑现密度基线：每600-900字给一次微兑现，并确保本章至少1处可量化变化。",
+            "方法论策略（通用/科幻）：本章以铺压为主，优先做威胁与代价的可感知铺垫。",
+            "长线控制：换图承接旧资产，避免主角进入新地图后能力与资源归零。",
+            "机制控制：关键胜利必须写出机制理由与代价，不用纯光环碾压。"
+          ],
+          "checklist": [
+            {
+              "id": "readability_loop",
+              "label": "段落可读性闭环（动作→结果→情绪）",
+              "weight": 1.1,
+              "required": true,
+              "source": "reader_signal.review_trend",
+              "verify_hint": "抽查3段，均包含动作结果闭环。"
+            },
+            {
+              "id": "genre_anchor_consistency",
+              "label": "题材锚定一致性（科幻）",
+              "weight": 1.1,
+              "required": true,
+              "source": "genre_profile.genre",
+              "verify_hint": "主冲突与题材核心承诺保持一致。"
+            },
+            {
+              "id": "methodology_next_reason",
+              "label": "方法论：下章动机需可复述（章末或后段均可）",
+              "weight": 1.0,
+              "required": false,
+              "source": "methodology.next_reason",
+              "verify_hint": "提炼一句“为什么要点下一章”的动机句。"
+            },
+            {
+              "id": "methodology_power_guard",
+              "label": "方法论：越级与破局给出机制理由与代价",
+              "weight": 1.0,
+              "required": false,
+              "source": "methodology.power_guard",
+              "verify_hint": "至少写清1个机制理由与1个代价。"
+            },
+            {
+              "id": "methodology_antagonist_pressure",
+              "label": "方法论：反派行动具备目标-手段-代价",
+              "weight": 1.0,
+              "required": false,
+              "source": "methodology.antagonist",
+              "verify_hint": "反派不是工具人推进，需有可解释行动逻辑。"
+            },
+            {
+              "id": "guidance_item_1",
+              "label": "题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。",
+              "weight": 1.0,
+              "required": false,
+              "source": "writing_guidance.guidance_items",
+              "verify_hint": "完成后可在正文中定位对应段落。"
+            }
+          ],
+          "checklist_score": {
+            "chapter": 6,
+            "score": 88.6,
+            "completion_rate": 0.8333,
+            "weighted_completion_rate": 0.8387,
+            "required_completion_rate": 1.0,
+            "total_items": 6,
+            "required_items": 2,
+            "completed_items": 5,
+            "completed_required": 2,
+            "total_weight": 6.2,
+            "completed_weight": 5.2,
+            "pending_items": [
+              "题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。"
+            ],
+            "trend_window": 10
+          },
+          "methodology": {
+            "enabled": true,
+            "framework": "digital-serial-v1",
+            "pilot": "科幻",
+            "genre_profile_key": "科幻",
+            "chapter_stage": "build_up",
+            "emotion_anchor": {
+              "pressure_source": "生存目标/资源竞争",
+              "release_target": "主角完成阶段目标并留下新的行动理由",
+              "position_hint": "前段设压，中后段释放，避免固定字位打点"
+            },
+            "long_arc_controls": {
+              "map_transition": "阶段切换承接既有资产与关系账本，避免能力与收益归零",
+              "power_guard": "关键胜利必须给机制理由（信息/资源/代价/策略）",
+              "antagonist_model": "反派需具备目标-手段-代价三要素，避免工具人推进"
+            },
+            "serialization_ops": {
+              "next_reason": "章末或后段给出可复述的下一章动机句",
+              "interaction_note": "保留一个可讨论分歧点，便于连载互动反馈"
+            },
+            "observability": {
+              "next_reason_clarity": 78.0,
+              "anchor_effectiveness": 72.0,
+              "rhythm_naturalness": 65.0
+            },
+            "signals": {
+              "dominant_hook": "",
+              "dominant_pattern": "",
+              "risk_flags": []
+            }
+          },
+          "signals_used": {
+            "has_low_score_ranges": false,
+            "hook_types": [],
+            "top_patterns": [],
+            "genre": "科幻",
+            "methodology_enabled": true
+          }
+        },
+        "text": "{\"chapter\": 6, \"guidance_items\": [\"题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。\", \"网文节奏基线：章首300字内给出目标与阻力，章末保留未闭合问题。\", \"兑现密度基线：每600-900字给一次微兑现，并确保本章至少1处可量化变化。\", \"方法论策略（通用/科幻）：本章以铺压为主，优先做威胁与代价的可感知铺垫。\", \"长线控制：换图承接旧资产，避免主角进入新地图后能力与资源归零。\", \"机制控制：关键胜利必须写出机制理由与代价，不用纯光环碾压。\"], \"checklist\": [{\"id\": \"readability_loop\", \"label\": \"段落可读性闭环（动作→结果→情绪）\", \"weight\": 1.1, \"required\": true, \"source\": \"reader_signal.review_trend\", \"verify_hint\": \"抽查3段，均包含动作结果闭环。\"}, {\"id\": \"genre_anchor_consistency\", \"label\": \"题材锚定一致性（科幻）\", \"weight\": 1.1, \"required\": …[TRUNCATED].0, \"anchor_effectiveness\": 72.0, \"rhythm_naturalness\": 65.0}, \"signals\": {\"dominant_hook\": \"\", \"dominant_pattern\": \"\", \"risk_flags\": []}}, \"signals_used\": {\"has_low_score_ranges\": false, \"hook_types\": [], \"top_patterns\": [], \"genre\": \"科幻\", \"methodology_enabled\": true",
+        "budget": 800
+      },
+      "story_skeleton": {
+        "content": [],
+        "text": "[]",
+        "budget": 800
+      },
+      "memory": {
+        "content": {},
+        "text": "{}",
+        "budget": 800
+      },
+      "preferences": {
+        "content": {},
+        "text": "{}",
+        "budget": 800
+      },
+      "alerts": {
+        "content": {
+          "disambiguation_warnings": [],
+          "disambiguation_pending": []
+        },
+        "text": "{\"disambiguation_warnings\": [], \"disambiguation_pending\": []}",
+        "budget": 800
+      }
+    },
+    "template": "plot",
+    "weights": {
+      "core": 0.48,
+      "scene": 0.39,
+      "global": 0.13
+    }
+  },
+  "meta": {
+    "template": "plot"
+  }
+}
