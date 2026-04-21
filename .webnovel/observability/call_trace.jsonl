@@ -58,3 +58,5 @@
 {"timestamp": "2026-04-18T03:04:16.592050", "event": "step_started", "payload": {"step_id": "Step 5", "step_name": "Data Agent", "command": "webnovel-write", "chapter": 6, "progress_note": null, "expected_owner": "data-agent"}}
 {"timestamp": "2026-04-18T03:09:29.627358", "event": "step_completed", "payload": {"step_id": "Step 5", "command": "webnovel-write", "chapter": 6}}
 {"timestamp": "2026-04-18T03:09:30.281199", "event": "step_started", "payload": {"step_id": "Step 6", "step_name": "Git Backup", "command": "webnovel-write", "chapter": 6, "progress_note": null, "expected_owner": "backup-agent"}}
+{"timestamp": "2026-04-18T03:09:45.618774", "event": "step_completed", "payload": {"step_id": "Step 6", "command": "webnovel-write", "chapter": 6}}
+{"timestamp": "2026-04-18T03:09:46.341638", "event": "task_completed", "payload": {"command": "webnovel-write", "chapter": 6, "completed_steps": 7, "failed_steps": 0}}
