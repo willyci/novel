@@ -1,0 +1,73 @@
+{
+  "entities_appeared": [
+    {"id":"peter_kamau","type":"角色","mentions":["Peter","he","Kamau"],"confidence":1.0},
+    {"id":"arthur_kessler","type":"角色","mentions":["Kessler","Arthur"],"confidence":1.0},
+    {"id":"oren","type":"角色","mentions":["Oren","the machine tech"],"confidence":1.0},
+    {"id":"dr_vasquez","type":"角色","mentions":["Vasquez"],"confidence":1.0},
+    {"id":"miriam","type":"角色","mentions":["Miriam","my grandmother","She"],"confidence":1.0},
+    {"id":"kamau_mwangi","type":"角色","mentions":["Kamau Mwangi","your grandfather"],"confidence":1.0},
+    {"id":"coral_fragment","type":"物品","mentions":["the fragment","coral fragment","the coral fragment"],"confidence":1.0},
+    {"id":"andaman_fragment","type":"地点","mentions":["the Andaman Fragment","this reef","the reef","The last one"],"confidence":1.0},
+    {"id":"tharsis_industrial","type":"地点","mentions":["Tharsis Industrial","a basement lab in Tharsis Industrial"],"confidence":1.0},
+    {"id":"stellar_cartography_comparison_tool","type":"物品","mentions":["the stellar-cartography comparison tool","the tool"],"confidence":1.0},
+    {"id":"nav_branch_catch_side_pass_1","type":"物品","mentions":["catch-side-pass-1","the catch-side branch","the catch-side trajectory cluster"],"confidence":1.0},
+    {"id":"kuiper_belt_base","type":"地点","mentions":["the base","corridors","the residential level"],"confidence":1.0},
+    {"id":"nav_lab","type":"地点","mentions":["Nav Lab","his workstation","the working terminal","left display"],"confidence":1.0},
+    {"id":"kessler_office","type":"地点","mentions":["his office","Kesslers office","the desk","the office door"],"confidence":1.0},
+    {"id":"nano_bay","type":"地点","mentions":["The gray-flour bay"],"confidence":0.95},
+    {"id":"nano_programmer","type":"角色","mentions":["(closed door reference only)"],"confidence":0.7}
+  ],
+  "entities_new": [
+    {"suggested_id":"oren","name":"Oren","type":"角色","tier":"配角"},
+    {"suggested_id":"miriam","name":"Miriam","type":"角色","tier":"配角"},
+    {"suggested_id":"kamau_mwangi","name":"Kamau Mwangi","type":"角色","tier":"装饰"},
+    {"suggested_id":"andaman_fragment","name":"Andaman Fragment","type":"地点","tier":"配角"},
+    {"suggested_id":"tharsis_industrial","name":"Tharsis Industrial","type":"地点","tier":"装饰"},
+    {"suggested_id":"stellar_cartography_comparison_tool","name":"Stellar-Cartography Comparison Tool","type":"物品","tier":"配角"}
+  ],
+  "state_changes": [
+    {"entity_id":"peter_kamau","field":"emotional_state","old":"buoyant capitulation under dramatic irony","new":"integrated belonging seeded with private undeclared disquiet","reason":"Eight days of belonging compresses to integration; Kessler reveal seeds mirror-recognition; epoch anomaly seeds private disquiet"},
+    {"entity_id":"peter_kamau","field":"power.bottleneck","old":"Peter has accepted Kesslers cover story; refactoring nav stack under time-travel + interceptor model; building toward end-of-quarter launch trajectory phase deliverable, then interceptor approach geometry","new":"Peter has accepted the cover story emotionally and is genuinely embedded in the team; first crack has appeared in the form of a star-chart epoch cluster anomaly that contradicts the cover-storys required generic spread; comparison-tool query is loading against historical epoch catalogues from his Helix-era datapad","reason":"Sol 58 routine consistency check exposes epoch cluster as a line not a smear; Peter loads the Helix comparison tool"},
+    {"entity_id":"peter_kamau","field":"location","old":"Nav Lab, Kuiper Belt Asteroid Base (Sol 50)","new":"Nav Lab, Kuiper Belt Asteroid Base (Sol 58, late evening)","reason":"Returns to Nav Lab after Kesslers personal reveal in his office"},
+    {"entity_id":"coral_fragment","field":"provenance","old":"unknown","new":"Miriams underwater village near Mombasa-coast Kenya — kept on her writing table 51 years; Kesslers mother → Kessler","reason":"Kessler personal reveal discloses ownership chain and origin"},
+    {"entity_id":"nav_branch_catch_side_pass_1","field":"completion_state","old":"first refactor pass under cover-story frame (Sol 50)","new":"nearly complete by Sol 58; routine consistency check exposes epoch cluster anomaly","reason":"Eight Sols of work bring branch to near-completion; Sol 58 routine check exposes the line-not-a-smear anomaly"},
+    {"entity_id":"stellar_cartography_comparison_tool","field":"state","old":"dormant on datapad since Helix days; never run on this base","new":"loading; query against historical epoch catalogues for barycentric center of catch-side cluster","reason":"Peter activates clandestine investigation at Sol 58 night"}
+  ],
+  "relationships_new": [
+    {"from":"peter_kamau","to":"oren","type":"crew_camaraderie","description":"Sol 55 chair-saving habit; Sol 58 dinner teasing about variable names and the catch-side branch","chapter":9},
+    {"from":"peter_kamau","to":"dr_vasquez","type":"professional_respect","description":"Sol 53 Vasquez integrates Peters timing tweak no-ceremony; Sol 58 corner-of-mouth-smile recognizing eight days of integrator-arguing","chapter":9},
+    {"from":"peter_kamau","to":"arthur_kessler","type":"mentor_intimacy_with_mirror_recognition","description":"Ch9 personal reveal seeds intimate mentor bond and Peters undeclared mirror-recognition","chapter":9},
+    {"from":"arthur_kessler","to":"miriam","type":"family_grandmother","description":"Origin of Kesslers marine biology vocation; died when he was twelve","chapter":9},
+    {"from":"miriam","to":"coral_fragment","type":"original_owner","description":"Kept on her writing table for 51 years; from her underwater village near Mombasa-coast","chapter":9},
+    {"from":"peter_kamau","to":"kamau_mwangi","type":"family_grandfather","description":"Mombasa coastal Kenya; cross-implication with Miriam: same era, same coast","chapter":9},
+    {"from":"arthur_kessler","to":"andaman_fragment","type":"final_witness","description":"Last expedition 2522-2523 documented its dying; bleach line moved 3m in 7 days","chapter":9},
+    {"from":"arthur_kessler","to":"tharsis_industrial","type":"prior_workplace","description":"2525-2535 basement lab; ten years of borrowed equipment, foundation money, and unfunded work that mattered","chapter":9}
+  ],
+  "scenes_chunked": 6,
+  "uncertain": [
+    {"mention":"the door (gray-flour bay closed)","candidates":[{"type":"地点","id":"nano_bay"},{"type":"角色","id":"nano_programmer"}],"confidence":0.7,"adopted":"nano_bay"}
+  ],
+  "warnings": [
+    "Ch9 line 77: gray-flour bay closed door is the only on-page reference to the nano programmer (CH7-MED-01 unnamed-tracking remains valid; entity not on-page)"
+  ],
+  "chapter_meta": {
+    "hook": {
+      "type": "suspense_hook",
+      "variant": "clandestine-investigation-initiated",
+      "content": "Peter, on a habit of attention he could not have explained at the time, asks the integrator a different question — and finds the reference epochs are not distributed across the cover-storys million-year envelope but clustered tightly around a single point in deep time. A line, not a smear. He pulls down the stellar-cartography comparison tool he has not run since Helix and queries the historical epoch catalogues on his eight-year-old datapad. A small progress bar opens, quietly, where the warning flag used to live, and begins to load.",
+      "strength": "strong"
+    },
+    "pattern": {
+      "opening": "scene_setting+interior_monologue",
+      "opening_note": "multi-day belonging compression Sol 51-57 + Sol 58 1830 corridor catch",
+      "hook": "suspense_hook",
+      "emotion_rhythm": "compressed-contentment->galley-warmth->controlled-intimacy->mirror-recognition->habitual-diligence->soft-undeclared-disquiet",
+      "info_density": "medium"
+    },
+    "ending": {
+      "time": "Sol 58, late evening",
+      "location": "Nav Lab, Kuiper Belt Asteroid Base",
+      "emotion": "disquiet under load"
+    }
+  }
+}

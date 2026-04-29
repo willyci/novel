@@ -32,9 +32,9 @@
     "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 8,
-    "total_words": 14532,
-    "last_updated": "2026-04-29 10:20:27",
+    "current_chapter": 9,
+    "total_words": 16551,
+    "last_updated": "2026-04-29 12:35:46",
     "volumes_completed": [],
     "current_volume": 2,
     "volumes_planned": [
@@ -90,11 +90,11 @@
     "power": {
       "realm": "Expert satellite navigation programmer",
       "layer": 1,
-      "bottleneck": "Peter has accepted Kessler's cover story; refactoring nav stack under time-travel + interceptor model; building toward end-of-quarter launch trajectory phase deliverable, then interceptor approach geometry"
+      "bottleneck": "Peter has accepted the cover story emotionally and is genuinely embedded in the team; first crack has appeared in the form of a star-chart epoch cluster anomaly that contradicts the cover-story's required generic spread; comparison-tool query is loading against historical epoch catalogues from his Helix-era datapad"
     },
     "location": {
       "current": "Nav Lab, Kuiper Belt Asteroid Base",
-      "last_chapter": 8
+      "last_chapter": 9
     },
     "golden_finger": {
       "name": "Navigation Code Expertise",
@@ -109,10 +109,32 @@
       ]
     },
     "attributes": {},
-    "emotional_state": "buoyant capitulation under dramatic irony"
+    "emotional_state": "integrated belonging seeded with private undeclared disquiet"
   },
   "relationships": {},
-  "disambiguation_warnings": [],
+  "disambiguation_warnings": [
+    {
+      "chapter": 9,
+      "mention": "the door (gray-flour bay closed)",
+      "type": "",
+      "suggested_id": "",
+      "chosen_id": "nano_bay",
+      "confidence": 0.7,
+      "candidates": [
+        {
+          "type": "地点",
+          "id": "nano_bay"
+        },
+        {
+          "type": "角色",
+          "id": "nano_programmer"
+        }
+      ],
+      "context": "",
+      "note": "",
+      "created_at": "2026-04-29 12:34:51"
+    }
+  ],
   "disambiguation_pending": [],
   "world_settings": {
     "power_system": [
@@ -160,43 +182,54 @@
     "foreshadowing": [
       {
         "id": "F-CH8-PLANT-INTERCEPTORS",
-        "phase": "plant",
+        "phase": "carry",
         "set_chapter": 8,
         "carry_to": 10,
         "note": "Orbital interceptors named explicitly by Kessler as if they exist; Ch10 reveal that no such system exists.",
-        "visibility": "reader"
+        "visibility": "reader",
+        "carry_note_ch9": "Reader-held; Peter has not yet tested. Carries to Ch10."
       },
       {
         "id": "F-CH8-PLANT-DEEPTIME-BLEED",
-        "phase": "plant",
+        "phase": "paid_off",
         "set_chapter": 8,
         "carry_to": 9,
         "note": "Kessler deep-time / Jupiter-chaos academic-passion bleed-through (line 79 + softened line 81). Reader-perceptible, not Peter-detected.",
-        "visibility": "reader"
+        "visibility": "reader",
+        "resolved_chapter": 9,
+        "payoff_note": "Kessler's academic identity made explicit: 'I was a marine biologist before I was anything else' / 'a paleontologist of a sort'.",
+        "resolved_at": "2026-04-29T12:35:46.771764"
       },
       {
         "id": "F-CH8-PLANT-MIRROR-CUE",
-        "phase": "plant",
+        "phase": "paid_off",
         "set_chapter": 8,
         "carry_to": 9,
         "note": "Kessler mirror-cue: 'I've been wanting to talk to someone who sees the system the way you see it' (paraphrased reader-cue).",
-        "visibility": "reader"
+        "visibility": "reader",
+        "resolved_chapter": 9,
+        "payoff_note": "Kessler tells Peter why he is telling him: 'Thank you for being someone I could tell.' / 'someone who could be told it without being lost'.",
+        "resolved_at": "2026-04-29T12:35:46.771764"
       },
       {
         "id": "F-CH8-PLANT-THIRD-THING",
-        "phase": "plant",
+        "phase": "carry",
         "set_chapter": 8,
         "carry_to": 10,
         "note": "Third thing deferred by Kessler at meeting close (after launch trajectory phase + interceptor approach geometry).",
-        "visibility": "both"
+        "visibility": "both",
+        "carry_note_ch9": "Kessler again defers in Ch9 office reveal: 'We'll talk about the third thing soon.'"
       },
       {
         "id": "F-CH7-CONT-GRANDFATHER",
-        "phase": "carry",
+        "phase": "paid_off",
         "set_chapter": 7,
         "carry_to": 9,
         "note": "Kessler asks about Peter's grandfather's name on resume (Ch7 plant continuing).",
-        "visibility": "both"
+        "visibility": "both",
+        "resolved_chapter": 9,
+        "payoff_note": "Kessler asks Peter's grandfather's name; Peter answers 'Kamau Mwangi', 'Mombasa'.",
+        "resolved_at": "2026-04-29T12:35:46.771764"
       },
       {
         "id": "F-CH8-PSEUDO-DEEPTIME-DRIFT",
@@ -215,6 +248,68 @@
         "set_chapter": 7,
         "resolved_chapter": 8,
         "note": "Vasquez 'higher than you'll need' — pseudo-resolved as Casimir cradle headroom.",
+        "visibility": "reader"
+      },
+      {
+        "id": "F-CH9-PLANT-EPOCH-CLUSTER",
+        "phase": "plant",
+        "set_chapter": 9,
+        "carry_to": 10,
+        "note": "Reference epochs in catch-side-pass-1 cluster tightly around a single point in deep time, narrower than the cover-story's design tolerance permits. A line, not a smear. Peter has not yet decoded what epoch.",
+        "visibility": "both"
+      },
+      {
+        "id": "F-CH9-PLANT-COMPARISON-TOOL-LOADING",
+        "phase": "plant",
+        "set_chapter": 9,
+        "carry_to": 10,
+        "note": "Peter pulls down the stellar-cartography comparison tool he has not used since Helix and queries the cluster's barycentric center against historical epoch catalogues on his eight-year-old datapad. A small progress bar opens, where the warning flag used to live, and begins to load.",
+        "visibility": "both"
+      },
+      {
+        "id": "F-CH9-PLANT-MIRIAM-CORAL",
+        "phase": "plant",
+        "set_chapter": 9,
+        "carry_to": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "note": "The coral fragment is grandmother Miriam's village relic; Earth's last reef Andaman Fragment is dead; Kessler's grief is real. Anchors the moral-weight half of the climax decision.",
+        "visibility": "reader"
+      },
+      {
+        "id": "F-CH9-PLANT-PETER-KESSLER-MIRROR",
+        "phase": "plant",
+        "set_chapter": 9,
+        "carry_to": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "note": "Peter privately recognizes Kessler as a possible future self — both brilliant men discarded by institutions; the only difference, he understands, is that Kessler chose action and Peter spent six months in a Mars apartment closing job applications. Vol3+ payoff; sets up the climax decision frame.",
+        "visibility": "reader"
+      },
+      {
+        "id": "F-CH9-PLANT-KESSLER-WIFE",
+        "phase": "plant",
+        "set_chapter": 9,
+        "carry_to": [
+          13,
+          14,
+          15
+        ],
+        "note": "Kessler's wife left in 2527 because there was no longer a place to live and she was not, fairly, an evolutionary biologist. Single mention. Vol3 light payoff potential.",
         "visibility": "reader"
       }
     ]
@@ -330,13 +425,33 @@
         "location": "Nav Lab, Kuiper Belt Asteroid Base",
         "emotion": "buoyant capitulation under dramatic irony"
       }
+    },
+    "0009": {
+      "hook": {
+        "type": "suspense_hook",
+        "variant": "clandestine-investigation-initiated",
+        "content": "Peter, on a habit of attention he could not have explained at the time, asks the integrator a different question — and finds the reference epochs are not distributed across the cover-storys million-year envelope but clustered tightly around a single point in deep time. A line, not a smear. He pulls down the stellar-cartography comparison tool he has not run since Helix and queries the historical epoch catalogues on his eight-year-old datapad. A small progress bar opens, quietly, where the warning flag used to live, and begins to load.",
+        "strength": "strong"
+      },
+      "pattern": {
+        "opening": "scene_setting+interior_monologue",
+        "opening_note": "multi-day belonging compression Sol 51-57 + Sol 58 1830 corridor catch",
+        "hook": "suspense_hook",
+        "emotion_rhythm": "compressed-contentment->galley-warmth->controlled-intimacy->mirror-recognition->habitual-diligence->soft-undeclared-disquiet",
+        "info_density": "medium"
+      },
+      "ending": {
+        "time": "Sol 58, late evening",
+        "location": "Nav Lab, Kuiper Belt Asteroid Base",
+        "emotion": "disquiet under load"
+      }
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 8,
-    "last_fire_chapter": 7,
+    "last_quest_chapter": 9,
+    "last_fire_chapter": 9,
     "last_constellation_chapter": 8,
-    "current_dominant": "quest+constellation",
+    "current_dominant": "fire+quest",
     "chapters_since_switch": 0,
     "history": [
       {
@@ -368,6 +483,11 @@
         "chapter": 8,
         "strand": "quest+constellation",
         "note": "Quest: Peter advances on the actual project deliverables (launch trajectory phase + interceptor approach geometry; catch-side-pass-1 branch opened). Constellation: cover-story canon binds Kerr black hole / Casimir cradle / Sun 2.0 / Kepler-7 / von Neumann probe / orbital interceptors / Vasquez / nano programmer bay into one architecture, all visible to POV — orbital interceptors plant sits under dramatic irony for Ch10 reversal."
+      },
+      {
+        "chapter": 9,
+        "strand": "fire+quest",
+        "note": "Fire: Kessler personal reveal (Earth six times / Miriam / Andaman / defunding / wife / build-something-instead) + Peter mirror-recognition + Peter-Oren-Vasquez crew warmth — single largest emotional-core beat of Vol2. Quest: catch-side-pass-1 nearly complete; Sol 58 routine consistency check exposes epoch cluster as a line not a smear; Peter activates clandestine investigation by loading Helix comparison tool against historical epoch catalogues."
       }
     ]
   },

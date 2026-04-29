@@ -196,3 +196,57 @@
 {"timestamp": "2026-04-29T10:20:28.162912", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 301, "chapter": 8}
 {"timestamp": "2026-04-29T10:22:43.872106", "tool_name": "rag_adapter:index-chapter", "success": true, "elapsed_ms": 1340, "chapter": 8}
 {"timestamp": "2026-04-29T10:22:59.541921", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 13, "chapter": 8}
+{"timestamp": "2026-04-29T12:20:17.044508", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T12:28:11.020436", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 9}
+{"timestamp": "2026-04-29T12:28:12.696140", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T12:28:21.952263", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T12:28:22.355672", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 11, "error_code": "NOT_FOUND", "error_message": "未找到别名: coral fragment"}
+{"timestamp": "2026-04-29T12:28:22.783529", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T12:28:23.127388", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 11, "error_code": "NOT_FOUND", "error_message": "未找到别名: nano programmer"}
+{"timestamp": "2026-04-29T12:28:23.476577", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T12:28:32.801565", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 12, "error_code": "NOT_FOUND", "error_message": "未找到别名: gray-flour bay"}
+{"timestamp": "2026-04-29T12:28:33.160202", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 9, "error_code": "NOT_FOUND", "error_message": "未找到别名: Coral Fragment"}
+{"timestamp": "2026-04-29T12:28:33.579798", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 19, "error_code": "NOT_FOUND", "error_message": "未找到别名: stellar-cartography comparison tool"}
+{"timestamp": "2026-04-29T12:28:33.986056", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 13, "error_code": "NOT_FOUND", "error_message": "未找到别名: nano_programmer"}
+{"timestamp": "2026-04-29T12:28:34.390050", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T12:29:36.758547", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T12:29:37.109647", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T12:29:37.483220", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T12:29:37.823407", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T12:29:38.323630", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T12:29:38.907120", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 31}
+{"timestamp": "2026-04-29T12:29:39.300344", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T12:29:39.662637", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T12:29:40.082281", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T12:30:18.475864", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T12:30:18.911894", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T12:30:19.348316", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T12:30:19.836064", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T12:30:20.299946", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-29T12:30:20.721679", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-29T12:30:21.189178", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 26}
+{"timestamp": "2026-04-29T12:30:21.602064", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T12:30:21.972542", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T12:30:22.329632", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T12:30:22.759320", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T12:30:23.127900", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T12:30:23.477568", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T12:30:23.810842", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T12:30:24.175254", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T12:30:24.579045", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T12:30:25.024685", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T12:31:35.072190", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 22}
+{"timestamp": "2026-04-29T12:31:35.489799", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 25}
+{"timestamp": "2026-04-29T12:31:35.879652", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T12:31:36.252366", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T12:31:36.646228", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T12:31:37.041132", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T12:31:37.475906", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T12:31:37.903050", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T12:34:51.511171", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 496, "chapter": 9}
+{"timestamp": "2026-04-29T12:36:12.426371", "tool_name": "index_manager:get-chapter", "success": false, "elapsed_ms": 8, "error_code": "NOT_FOUND", "error_message": "未找到章节: 9"}
+{"timestamp": "2026-04-29T12:36:12.733512", "tool_name": "index_manager:get-chapter", "success": false, "elapsed_ms": 9, "error_code": "NOT_FOUND", "error_message": "未找到章节: 8"}
+{"timestamp": "2026-04-29T14:03:08.044874", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T14:03:33.825501", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T14:03:34.181617", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T14:03:34.499439", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 9}

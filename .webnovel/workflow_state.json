@@ -2,17 +2,17 @@
   "current_task": {
     "command": "webnovel-write",
     "args": {
-      "chapter_num": 8
+      "chapter_num": 9
     },
-    "started_at": "2026-04-29T09:59:41.645215",
-    "last_heartbeat": "2026-04-29T10:24:20.682129",
+    "started_at": "2026-04-29T12:00:00.233220",
+    "last_heartbeat": "2026-04-29T14:04:09.211647",
     "status": "running",
     "current_step": {
       "id": "Step 6",
       "name": "Git Commit",
       "status": "running",
-      "started_at": "2026-04-29T10:24:20.682129",
-      "running_at": "2026-04-29T10:24:20.682129",
+      "started_at": "2026-04-29T14:04:09.211647",
+      "running_at": "2026-04-29T14:04:09.211647",
       "attempt": 1,
       "progress_note": null
     },
@@ -21,40 +21,40 @@
         "id": "Step 1",
         "name": "Context Agent",
         "status": "completed",
-        "started_at": "2026-04-29T09:59:42.358927",
-        "running_at": "2026-04-29T09:59:42.358927",
+        "started_at": "2026-04-29T12:00:00.872181",
+        "running_at": "2026-04-29T12:00:00.872181",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T10:06:14.541705",
+        "completed_at": "2026-04-29T12:14:28.661484",
         "artifacts": {
           "ok": true,
           "contract": "ready",
-          "title": "The Pitch"
+          "title": "Belonging"
         }
       },
       {
         "id": "Step 2A",
         "name": "Draft Chapter",
         "status": "completed",
-        "started_at": "2026-04-29T10:06:15.303976",
-        "running_at": "2026-04-29T10:06:15.303976",
+        "started_at": "2026-04-29T12:14:29.274953",
+        "running_at": "2026-04-29T12:14:29.274953",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T10:08:11.996259",
+        "completed_at": "2026-04-29T12:16:44.060591",
         "artifacts": {
           "ok": true,
-          "words": 2328
+          "words": 2018
         }
       },
       {
         "id": "Step 2B",
         "name": "Style Adaptation",
         "status": "completed",
-        "started_at": "2026-04-29T10:08:12.661712",
-        "running_at": "2026-04-29T10:08:12.661712",
+        "started_at": "2026-04-29T12:16:44.564848",
+        "running_at": "2026-04-29T12:16:44.564848",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T10:08:13.395846",
+        "completed_at": "2026-04-29T12:16:45.115168",
         "artifacts": {
           "ok": true,
           "changes": "none-voice-consistent"
@@ -64,50 +64,49 @@
         "id": "Step 3",
         "name": "Review",
         "status": "completed",
-        "started_at": "2026-04-29T10:08:14.102908",
-        "running_at": "2026-04-29T10:08:14.102908",
+        "started_at": "2026-04-29T12:16:45.687927",
+        "running_at": "2026-04-29T12:16:45.687927",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T10:12:51.463061",
+        "completed_at": "2026-04-29T12:20:17.648090",
         "artifacts": {
           "ok": true,
-          "overall_score": 88.4,
-          "critical": 1
+          "overall_score": 95.2
         }
       },
       {
         "id": "Step 4",
         "name": "Polish",
         "status": "completed",
-        "started_at": "2026-04-29T10:12:52.106993",
-        "running_at": "2026-04-29T10:12:52.106993",
+        "started_at": "2026-04-29T12:20:18.251806",
+        "running_at": "2026-04-29T12:20:18.251806",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T10:13:38.818441",
+        "completed_at": "2026-04-29T12:20:43.490123",
         "artifacts": {
           "ok": true,
           "anti_ai_force_check": "pass",
-          "critical_fixed": 1,
-          "medium_fixed": 2,
-          "deviations": [
-            "OOC-01 soft-preserve per high-point load-bearing"
-          ]
+          "critical_fixed": 0,
+          "low_fixed": 1
         }
       },
       {
         "id": "Step 5",
         "name": "Data Agent",
         "status": "completed",
-        "started_at": "2026-04-29T10:13:39.375273",
-        "running_at": "2026-04-29T10:13:39.375273",
+        "started_at": "2026-04-29T12:20:44.089930",
+        "running_at": "2026-04-29T12:20:44.089930",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T10:24:20.098852",
+        "completed_at": "2026-04-29T14:04:08.597984",
         "artifacts": {
           "ok": true,
-          "entities_added": 6,
-          "scenes": 5,
-          "rag_warning": "embed_auth_401_recurring"
+          "entities_registered": [
+            "oren",
+            "miriam",
+            "andaman_fragment"
+          ],
+          "resumed_from_credit_cap": true
         }
       }
     ],
@@ -130,6 +129,33 @@
       "review_completed": false,
       "ok": true,
       "contract": "ready",
+      "title": "Belonging",
+      "words": 2018,
+      "changes": "none-voice-consistent",
+      "overall_score": 95.2,
+      "anti_ai_force_check": "pass",
+      "critical_fixed": 0,
+      "low_fixed": 1,
+      "entities_registered": [
+        "oren",
+        "miriam",
+        "andaman_fragment"
+      ],
+      "resumed_from_credit_cap": true
+    }
+  },
+  "last_stable_state": {
+    "command": "webnovel-write",
+    "chapter_num": 8,
+    "completed_at": "2026-04-29T10:24:22.384064",
+    "artifacts": {
+      "chapter_file": {},
+      "git_status": {},
+      "state_json_modified": false,
+      "entities_appeared": false,
+      "review_completed": false,
+      "ok": true,
+      "contract": "ready",
       "title": "The Pitch",
       "words": 2328,
       "changes": "none-voice-consistent",
@@ -143,33 +169,9 @@
       ],
       "entities_added": 6,
       "scenes": 5,
-      "rag_warning": "embed_auth_401_recurring"
-    }
-  },
-  "last_stable_state": {
-    "command": "webnovel-write",
-    "chapter_num": 7,
-    "completed_at": "2026-04-29T09:39:47.330991",
-    "artifacts": {
-      "chapter_file": {},
-      "git_status": {},
-      "state_json_modified": false,
-      "entities_appeared": false,
-      "review_completed": false,
-      "ok": true,
-      "contract": "ready",
-      "words": 2260,
-      "changes": "none-voice-consistent",
-      "overall_score": 92.5,
-      "anti_ai_force_check": "pass",
-      "critical_fixed": 0,
-      "high_fixed": 0,
-      "medium_low_fixed": 1,
-      "entities_added": 7,
-      "scenes": 4,
-      "rag_warning": "embed_auth_401",
+      "rag_warning": "embed_auth_401_recurring",
       "committed": true,
-      "chapter": 7
+      "chapter": 8
     }
   },
   "history": [
@@ -207,6 +209,13 @@
       "chapter": 7,
       "status": "completed",
       "completed_at": "2026-04-29T09:39:47.330991"
+    },
+    {
+      "task_id": "task_006",
+      "command": "webnovel-write",
+      "chapter": 8,
+      "status": "completed",
+      "completed_at": "2026-04-29T10:24:22.384064"
     }
   ]
 }
