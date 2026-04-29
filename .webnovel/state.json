@@ -32,9 +32,9 @@
     "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 6,
-    "total_words": 10001,
-    "last_updated": "2026-04-18 03:06:50",
+    "current_chapter": 7,
+    "total_words": 12261,
+    "last_updated": "2026-04-29 09:37:25",
     "volumes_completed": [],
     "current_volume": 2,
     "volumes_planned": [
@@ -90,11 +90,11 @@
     "power": {
       "realm": "Expert satellite navigation programmer",
       "layer": 1,
-      "bottleneck": "Isolated at edge of solar system; project parameters suggest scope far beyond asteroid mining"
+      "bottleneck": "Project parameters require stellar drift across millions of years — incompatible with any commercial mining trajectory; project lead Arthur Kessler is a charismatic former teacher fluent in deep-time vocabulary; Peter has resolved to confront him directly tomorrow morning."
     },
     "location": {
       "current": "Nav Lab, Kuiper Belt Asteroid Base",
-      "last_chapter": 6
+      "last_chapter": 7
     },
     "golden_finger": {
       "name": "Navigation Code Expertise",
@@ -108,7 +108,8 @@
         "Kuiper Belt edge-case navigation"
       ]
     },
-    "attributes": {}
+    "attributes": {},
+    "emotional_state": "compartmentalized -> curious recognition -> warmth seduction -> resurgent unease -> quiet resolve"
   },
   "relationships": {},
   "disambiguation_warnings": [],
@@ -228,14 +229,32 @@
         "location": "Nav Lab, Kuiper Belt Asteroid Base",
         "emotion": "suppressed professional alarm"
       }
+    },
+    "0007": {
+      "hook": {
+        "type": "suspense_hook",
+        "content": "Peter writes three questions on the paper notepad: Why does the nav require stellar positions millions of years deep? Whose mining trajectory has ever needed that? Ask Arthur. Tomorrow morning. First thing. Turns the page facedown; the yellow warning flag flickers and resolves. Decision-point variant: tomorrows answer will reframe everything.",
+        "strength": "strong"
+      },
+      "pattern": {
+        "opening": "character_introduction+interior_monologue",
+        "hook": "suspense_hook",
+        "emotion_rhythm": "compartmentalized->curious_recognition->warmth_seduction->resurgent_unease->quiet_resolve",
+        "info_density": "medium-high"
+      },
+      "ending": {
+        "time": "Sol 44, late morning/midday",
+        "location": "Nav Lab, Kuiper Belt Asteroid Base",
+        "emotion": "quiet resolve under unease"
+      }
     }
   },
   "strand_tracker": {
     "last_quest_chapter": 6,
-    "last_fire_chapter": 6,
-    "last_constellation_chapter": 6,
-    "current_dominant": "quest+constellation",
-    "chapters_since_switch": 1,
+    "last_fire_chapter": 7,
+    "last_constellation_chapter": 7,
+    "current_dominant": "fire+constellation",
+    "chapters_since_switch": 0,
     "history": [
       {
         "chapter": 3,
@@ -256,6 +275,11 @@
         "chapter": 6,
         "strand": "quest+constellation",
         "note": "Peter arrives at asteroid base (quest advances); discovers three stolen technologies in situ and anomalous project specs (constellation thread -- all pieces now visible to POV character)"
+      },
+      {
+        "chapter": 7,
+        "strand": "fire+constellation",
+        "note": "Kessler introduction is the chapter’s emotional core (fire thread ignites: warmth, recognition, mentor seduction); meanwhile mounting evidence — coral fragment, deep-time vocabulary, accelerator overspecification, nanomachine swarm intimacy, Kessler’s political end-run around Samir — sharpens the constellation of red flags. Peter’s notepad of three questions and quiet resolve to ask Arthur tomorrow is the cliff into Ch8."
       }
     ]
   },

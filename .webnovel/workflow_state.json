@@ -1,5 +1,143 @@
 {
-  "current_task": null,
+  "current_task": {
+    "command": "webnovel-write",
+    "args": {
+      "chapter_num": 7
+    },
+    "started_at": "2026-04-29T09:17:33.510423",
+    "last_heartbeat": "2026-04-29T09:39:31.705052",
+    "status": "running",
+    "current_step": {
+      "id": "Step 6",
+      "name": "Git Commit",
+      "status": "running",
+      "started_at": "2026-04-29T09:39:31.705052",
+      "running_at": "2026-04-29T09:39:31.705052",
+      "attempt": 1,
+      "progress_note": null
+    },
+    "completed_steps": [
+      {
+        "id": "Step 1",
+        "name": "Context Agent",
+        "status": "completed",
+        "started_at": "2026-04-29T09:17:34.463123",
+        "running_at": "2026-04-29T09:17:34.463123",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-29T09:23:40.122085",
+        "artifacts": {
+          "ok": true,
+          "contract": "ready"
+        }
+      },
+      {
+        "id": "Step 2A",
+        "name": "Draft Chapter",
+        "status": "completed",
+        "started_at": "2026-04-29T09:23:40.739066",
+        "running_at": "2026-04-29T09:23:40.739066",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-29T09:25:43.348823",
+        "artifacts": {
+          "ok": true,
+          "words": 2260
+        }
+      },
+      {
+        "id": "Step 2B",
+        "name": "Style Adaptation",
+        "status": "completed",
+        "started_at": "2026-04-29T09:25:43.946797",
+        "running_at": "2026-04-29T09:25:43.946797",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-29T09:26:05.361420",
+        "artifacts": {
+          "ok": true,
+          "changes": "none-voice-consistent"
+        }
+      },
+      {
+        "id": "Step 3",
+        "name": "Review",
+        "status": "completed",
+        "started_at": "2026-04-29T09:26:05.966153",
+        "running_at": "2026-04-29T09:26:05.966153",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-29T09:29:46.961188",
+        "artifacts": {
+          "ok": true,
+          "overall_score": 92.5
+        }
+      },
+      {
+        "id": "Step 4",
+        "name": "Polish",
+        "status": "completed",
+        "started_at": "2026-04-29T09:29:55.740104",
+        "running_at": "2026-04-29T09:29:55.740104",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-29T09:31:06.079737",
+        "artifacts": {
+          "ok": true,
+          "anti_ai_force_check": "pass",
+          "critical_fixed": 0,
+          "high_fixed": 0,
+          "medium_low_fixed": 1
+        }
+      },
+      {
+        "id": "Step 5",
+        "name": "Data Agent",
+        "status": "completed",
+        "started_at": "2026-04-29T09:31:06.726084",
+        "running_at": "2026-04-29T09:31:06.726084",
+        "attempt": 1,
+        "progress_note": null,
+        "completed_at": "2026-04-29T09:39:17.538748",
+        "artifacts": {
+          "ok": true,
+          "entities_added": 7,
+          "scenes": 4,
+          "rag_warning": "embed_auth_401"
+        }
+      }
+    ],
+    "failed_steps": [],
+    "pending_steps": [
+      "Step 1",
+      "Step 2A",
+      "Step 2B",
+      "Step 3",
+      "Step 4",
+      "Step 5",
+      "Step 6"
+    ],
+    "retry_count": 0,
+    "artifacts": {
+      "chapter_file": {},
+      "git_status": {},
+      "state_json_modified": false,
+      "entities_appeared": false,
+      "review_completed": false,
+      "ok": true,
+      "contract": "ready",
+      "words": 2260,
+      "changes": "none-voice-consistent",
+      "overall_score": 92.5,
+      "anti_ai_force_check": "pass",
+      "critical_fixed": 0,
+      "high_fixed": 0,
+      "medium_low_fixed": 1,
+      "entities_added": 7,
+      "scenes": 4,
+      "rag_warning": "embed_auth_401"
+    }
+  },
   "last_stable_state": {
     "command": "webnovel-write",
     "chapter_num": 6,

@@ -109,3 +109,50 @@
 {"timestamp": "2026-04-18T03:07:48.701241", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 12, "chapter": 6}
 {"chapter": 6, "timestamp": "2026-04-18T03:08:36.993622", "timing_ms": {"A_load_context": 2800, "B_entity_extract": 1200, "C_disambiguation": 400, "D_state_index_write": 8500, "E_summary_write": 300, "F_scene_chunking": 800, "G_rag_index": 1500, "H_style_sample": 600, "I_debt_interest": 0, "TOTAL": 16100}, "bottlenecks_top3": [{"step": "D_state_index_write", "elapsed_ms": 8500, "ratio": 52.8}, {"step": "A_load_context", "elapsed_ms": 2800, "ratio": 17.4}, {"step": "G_rag_index", "elapsed_ms": 1500, "ratio": 9.3}], "notes": "RAG embedding failed (ModelScope auth token issue); 6 chunks prepared but 0 vectors stored. D_state_index_write high due to 6 new entities + 9 aliases + 3 state changes + 6 relationships."}
 {"timestamp": "2026-04-18T03:09:20.973548", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 9}
+{"timestamp": "2026-04-29T09:18:43.702075", "tool_name": "index_manager:get-recent-reading-power", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T09:18:44.037393", "tool_name": "index_manager:get-hook-type-stats", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T09:18:44.340944", "tool_name": "index_manager:get-pattern-usage-stats", "success": true, "elapsed_ms": 9}
+{"timestamp": "2026-04-29T09:18:44.670535", "tool_name": "index_manager:get-debt-summary", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T09:18:45.383693", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T09:18:45.686265", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T09:29:45.788059", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T09:29:46.179428", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T09:32:03.537206", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T09:32:05.500111", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T09:32:14.035671", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:32:15.654997", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T09:32:17.067765", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T09:32:18.698638", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 13, "error_code": "NOT_FOUND", "error_message": "未找到别名: Elena Vasquez"}
+{"timestamp": "2026-04-29T09:32:36.764598", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T09:32:42.927450", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T09:32:49.083206", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T09:32:53.399781", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T09:33:01.925389", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T09:33:07.244930", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:33:10.879716", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:33:15.439262", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T09:33:17.322523", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T09:33:18.792132", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:33:20.407551", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-29T09:33:21.979638", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T09:33:24.366093", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T09:33:25.796964", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:33:26.944883", "tool_name": "index_manager:register-alias", "success": false, "elapsed_ms": 10, "error_code": "ALIAS_EXISTS", "error_message": "别名已存在或注册失败: Vasquez"}
+{"timestamp": "2026-04-29T09:33:28.795459", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T09:33:30.701006", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:33:32.559508", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T09:34:02.516413", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 35}
+{"timestamp": "2026-04-29T09:34:05.902263", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T09:34:10.157604", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T09:34:12.896233", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T09:34:20.228826", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:34:23.179719", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T09:34:26.264790", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T09:34:29.883680", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T09:34:50.420517", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 24, "chapter": 7}
+{"timestamp": "2026-04-29T09:36:15.849967", "tool_name": "rag_adapter:index-chapter", "success": true, "elapsed_ms": 1815, "chapter": 7}
+{"timestamp": "2026-04-29T09:36:29.982682", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 11, "chapter": 7}
+{"chapter": 7, "timestamp": "2026-04-29T09:36:45.000000", "tool_name": "data_agent:chapter_7_summary", "success": true, "timing_ms": {"A_load_context": 2400, "B_entity_extract": 1100, "C_disambiguation": 350, "D_state_index_write": 9200, "E_summary_write": 250, "F_scene_chunking": 700, "G_rag_index": 1815, "H_style_sample": 11, "I_debt_interest": 0, "TOTAL": 15826}, "bottlenecks_top3": [{"step": "D_state_index_write", "elapsed_ms": 9200, "ratio": 58.1}, {"step": "A_load_context", "elapsed_ms": 2400, "ratio": 15.2}, {"step": "G_rag_index", "elapsed_ms": 1815, "ratio": 11.5}], "notes": "RAG embedding skipped 5 chunks due to ModelScope auth (401); vectors not stored. D_state_index_write high due to 7 entity upserts + 11 alias registrations + 4 state changes + 4 relationships. Vasquez alias collision (already existed) — handled gracefully."}
+{"timestamp": "2026-04-29T09:37:25.077573", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 25, "chapter": 7}
+{"timestamp": "2026-04-29T09:38:06.334909", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T09:39:17.078463", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 13}
