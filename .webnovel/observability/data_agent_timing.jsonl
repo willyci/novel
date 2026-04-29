@@ -156,3 +156,43 @@
 {"timestamp": "2026-04-29T09:37:25.077573", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 25, "chapter": 7}
 {"timestamp": "2026-04-29T09:38:06.334909", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 11}
 {"timestamp": "2026-04-29T09:39:17.078463", "tool_name": "index_manager:get-recent-review-metrics", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T10:12:50.857788", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T10:16:54.852446", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T10:16:56.507508", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T10:17:05.187327", "tool_name": "index_manager:get-aliases", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T10:17:05.592792", "tool_name": "index_manager:get-aliases", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T10:17:05.934645", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T10:17:06.274203", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T10:17:13.524836", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T10:17:13.897955", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T10:17:14.258377", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T10:17:30.716633", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T10:17:35.170008", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T10:17:40.647970", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T10:17:46.037315", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T10:17:56.282492", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T10:18:04.516206", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T10:18:10.885121", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T10:18:11.194196", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T10:18:11.573533", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T10:18:11.912619", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T10:18:12.221959", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T10:18:12.542910", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T10:18:12.900956", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T10:18:13.205328", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T10:18:13.546700", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T10:18:13.918583", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-29T10:18:14.276194", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T10:18:46.420929", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T10:18:46.761684", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T10:18:47.106892", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T10:18:47.450341", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T10:18:47.787179", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T10:18:48.194135", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T10:19:02.869485", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-29T10:19:03.230058", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T10:19:03.617484", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 22}
+{"timestamp": "2026-04-29T10:19:03.963927", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T10:20:28.162912", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 301, "chapter": 8}
+{"timestamp": "2026-04-29T10:22:43.872106", "tool_name": "rag_adapter:index-chapter", "success": true, "elapsed_ms": 1340, "chapter": 8}
+{"timestamp": "2026-04-29T10:22:59.541921", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 13, "chapter": 8}

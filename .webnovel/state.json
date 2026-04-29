@@ -32,9 +32,9 @@
     "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 7,
-    "total_words": 12261,
-    "last_updated": "2026-04-29 09:37:25",
+    "current_chapter": 8,
+    "total_words": 14532,
+    "last_updated": "2026-04-29 10:20:27",
     "volumes_completed": [],
     "current_volume": 2,
     "volumes_planned": [
@@ -90,11 +90,11 @@
     "power": {
       "realm": "Expert satellite navigation programmer",
       "layer": 1,
-      "bottleneck": "Project parameters require stellar drift across millions of years — incompatible with any commercial mining trajectory; project lead Arthur Kessler is a charismatic former teacher fluent in deep-time vocabulary; Peter has resolved to confront him directly tomorrow morning."
+      "bottleneck": "Peter has accepted Kessler's cover story; refactoring nav stack under time-travel + interceptor model; building toward end-of-quarter launch trajectory phase deliverable, then interceptor approach geometry"
     },
     "location": {
       "current": "Nav Lab, Kuiper Belt Asteroid Base",
-      "last_chapter": 7
+      "last_chapter": 8
     },
     "golden_finger": {
       "name": "Navigation Code Expertise",
@@ -109,7 +109,7 @@
       ]
     },
     "attributes": {},
-    "emotional_state": "compartmentalized -> curious recognition -> warmth seduction -> resurgent unease -> quiet resolve"
+    "emotional_state": "buoyant capitulation under dramatic irony"
   },
   "relationships": {},
   "disambiguation_warnings": [],
@@ -119,7 +119,10 @@
       "Nanotechnology",
       "Micro black holes",
       "Sun 2.0 energy",
-      "AI systems"
+      "AI systems",
+      "Kerr black hole / CTC / Casimir cradle (cover-story canon)",
+      "Von Neumann probes (deep-time seeding)",
+      "Orbital interceptors (named-existing, plant)"
     ],
     "factions": [
       "Mars Government",
@@ -154,7 +157,67 @@
       "The 0.01 degree sabotage",
       "Three technologies converging on Kuiper Belt shuttle"
     ],
-    "foreshadowing": []
+    "foreshadowing": [
+      {
+        "id": "F-CH8-PLANT-INTERCEPTORS",
+        "phase": "plant",
+        "set_chapter": 8,
+        "carry_to": 10,
+        "note": "Orbital interceptors named explicitly by Kessler as if they exist; Ch10 reveal that no such system exists.",
+        "visibility": "reader"
+      },
+      {
+        "id": "F-CH8-PLANT-DEEPTIME-BLEED",
+        "phase": "plant",
+        "set_chapter": 8,
+        "carry_to": 9,
+        "note": "Kessler deep-time / Jupiter-chaos academic-passion bleed-through (line 79 + softened line 81). Reader-perceptible, not Peter-detected.",
+        "visibility": "reader"
+      },
+      {
+        "id": "F-CH8-PLANT-MIRROR-CUE",
+        "phase": "plant",
+        "set_chapter": 8,
+        "carry_to": 9,
+        "note": "Kessler mirror-cue: 'I've been wanting to talk to someone who sees the system the way you see it' (paraphrased reader-cue).",
+        "visibility": "reader"
+      },
+      {
+        "id": "F-CH8-PLANT-THIRD-THING",
+        "phase": "plant",
+        "set_chapter": 8,
+        "carry_to": 10,
+        "note": "Third thing deferred by Kessler at meeting close (after launch trajectory phase + interceptor approach geometry).",
+        "visibility": "both"
+      },
+      {
+        "id": "F-CH7-CONT-GRANDFATHER",
+        "phase": "carry",
+        "set_chapter": 7,
+        "carry_to": 9,
+        "note": "Kessler asks about Peter's grandfather's name on resume (Ch7 plant continuing).",
+        "visibility": "both"
+      },
+      {
+        "id": "F-CH8-PSEUDO-DEEPTIME-DRIFT",
+        "phase": "pseudo_resolve",
+        "set_chapter": [
+          6,
+          7
+        ],
+        "resolved_chapter": 8,
+        "note": "Stellar drift millions of years requirement — pseudo-resolved by cover story (CTC entrance/exit anchoring across deep time).",
+        "visibility": "reader"
+      },
+      {
+        "id": "F-CH8-PSEUDO-VASQUEZ-TOLERANCE",
+        "phase": "pseudo_resolve",
+        "set_chapter": 7,
+        "resolved_chapter": 8,
+        "note": "Vasquez 'higher than you'll need' — pseudo-resolved as Casimir cradle headroom.",
+        "visibility": "reader"
+      }
+    ]
   },
   "review_checkpoints": [],
   "chapter_meta": {
@@ -247,13 +310,33 @@
         "location": "Nav Lab, Kuiper Belt Asteroid Base",
         "emotion": "quiet resolve under unease"
       }
+    },
+    "0008": {
+      "hook": {
+        "type": "desire_hook",
+        "content": "Peter starts catch-side-pass-1 under the cover-story frame; the model holds cleanly; the soft yellow warning flag in the corner of his left display clears, and he does not notice it go. End-of-quarter deliverables (launch trajectory phase, then interceptor approach geometry) and a deferred 'third thing' pull him forward — under dramatic irony, since the orbital interceptors do not exist.",
+        "strength": "strong",
+        "underlay": "dramatic_irony"
+      },
+      "pattern": {
+        "opening": "scene_setting+interior_monologue",
+        "opening_note": "postponement compression Sol 45-49, then Sol 50 commit",
+        "hook": "desire_hook_with_dramatic_irony_underlay",
+        "emotion_rhythm": "postponement->tightened-resolve->guarded-probing->technical-absorption->dawning-relief->surrendered-excitement->buoyant-engagement",
+        "info_density": "high"
+      },
+      "ending": {
+        "time": "Sol 50, ~ 1400 + ~20 minutes",
+        "location": "Nav Lab, Kuiper Belt Asteroid Base",
+        "emotion": "buoyant capitulation under dramatic irony"
+      }
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 6,
+    "last_quest_chapter": 8,
     "last_fire_chapter": 7,
-    "last_constellation_chapter": 7,
-    "current_dominant": "fire+constellation",
+    "last_constellation_chapter": 8,
+    "current_dominant": "quest+constellation",
     "chapters_since_switch": 0,
     "history": [
       {
@@ -280,6 +363,11 @@
         "chapter": 7,
         "strand": "fire+constellation",
         "note": "Kessler introduction is the chapter’s emotional core (fire thread ignites: warmth, recognition, mentor seduction); meanwhile mounting evidence — coral fragment, deep-time vocabulary, accelerator overspecification, nanomachine swarm intimacy, Kessler’s political end-run around Samir — sharpens the constellation of red flags. Peter’s notepad of three questions and quiet resolve to ask Arthur tomorrow is the cliff into Ch8."
+      },
+      {
+        "chapter": 8,
+        "strand": "quest+constellation",
+        "note": "Quest: Peter advances on the actual project deliverables (launch trajectory phase + interceptor approach geometry; catch-side-pass-1 branch opened). Constellation: cover-story canon binds Kerr black hole / Casimir cradle / Sun 2.0 / Kepler-7 / von Neumann probe / orbital interceptors / Vasquez / nano programmer bay into one architecture, all visible to POV — orbital interceptors plant sits under dramatic irony for Ch10 reversal."
       }
     ]
   },

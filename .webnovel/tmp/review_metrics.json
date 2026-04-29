@@ -1,20 +1,23 @@
 {
-  "start_chapter": 7,
-  "end_chapter": 7,
-  "overall_score": 92.5,
+  "start_chapter": 8,
+  "end_chapter": 8,
+  "overall_score": 88.4,
   "dimension_scores": {
-    "设定一致性": 9.6,
+    "设定一致性": 8.8,
     "连贯性": 9.4,
-    "人物塑造": 9.2,
-    "追读力": 8.8
+    "人物塑造": 7.2,
+    "追读力": 9.2,
+    "高点强度": 9.6
   },
   "severity_counts": {
-    "critical": 0,
+    "critical": 1,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "low": 4
   },
-  "critical_issues": [],
-  "report_file": "审查报告/第7-7章审查报告.md",
-  "notes": "selected_checkers=consistency,continuity,ooc,reader-pull; timeline_gate=pass(no TIMELINE_ISSUE); anti_ai_force_check=pending(Step4); medium=CH7-MED-01 nano-programmer entity tracking (handle in Step5); low=CH7-LOW-01 lock canonical Kessler phrases; CH7-LOW-02 optional 'before you' clarifier; CH7-LOW-03 Vasquez first-contact ambiguity; CH7-LOW-04 MP1 word-position +309 drift; watch=Kessler 'directly not Samir' line preserve current intensity"
+  "critical_issues": [
+    "OOC-01: Peter half-detects Kessler's Jupiter-chaos cadence at lines 81-83 (analytic labeling: 'mining engineer would have said' comparison + 'filed it' meta-commentary). Chapter-end capitulation is intact (admiration + flag clears). High-point-checker independently flags same beat as load-bearing dramatic-irony seed for Vol 3 payoff. Step 4 will soften: preserve reader-perceptible cadence wrongness, remove Peter's analytic labels."
+  ],
+  "report_file": "审查报告/第8-8章审查报告.md",
+  "notes": "selected_checkers=consistency,continuity,ooc,reader-pull,high-point(set-piece); timeline_gate=pass(no TIMELINE_ISSUE); anti_ai_force_check=pending(Step4); critical=OOC-01 half-detect tension to soften in Step 4; medium=CH8-001/CONT-002 'in Ch7' meta-references at lines 23 and 81 (replace with diegetic time anchors); low=CONT-001 notepad return implicit; OOC-02 'And the catch?' soft register; reader-pull SOFT desire-hook 3-chapter repeat; checker-conflict=high-point praises 81-83 as load-bearing while ooc flags critical, resolution=soften not delete (preserve seed, remove analytic labels)"
 }
