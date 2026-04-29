@@ -122,3 +122,19 @@
 {"timestamp": "2026-04-29T16:01:26.986959", "event": "step_started", "payload": {"step_id": "Step 5", "step_name": "Data Agent", "command": "webnovel-write", "chapter": 10, "progress_note": null, "expected_owner": "data-agent"}}
 {"timestamp": "2026-04-29T16:16:00.334462", "event": "step_completed", "payload": {"step_id": "Step 5", "command": "webnovel-write", "chapter": 10}}
 {"timestamp": "2026-04-29T16:16:00.908623", "event": "step_started", "payload": {"step_id": "Step 6", "step_name": "Git Commit", "command": "webnovel-write", "chapter": 10, "progress_note": null, "expected_owner": "backup-agent"}}
+{"timestamp": "2026-04-29T16:16:02.117654", "event": "step_completed", "payload": {"step_id": "Step 6", "command": "webnovel-write", "chapter": 10}}
+{"timestamp": "2026-04-29T16:16:02.765418", "event": "task_completed", "payload": {"command": "webnovel-write", "chapter": 10, "completed_steps": 7, "failed_steps": 0}}
+{"timestamp": "2026-04-29T16:18:46.441708", "event": "task_started", "payload": {"command": "webnovel-write", "args": {"chapter_num": 11}}}
+{"timestamp": "2026-04-29T16:18:47.056681", "event": "step_started", "payload": {"step_id": "Step 1", "step_name": "Context Agent", "command": "webnovel-write", "chapter": 11, "progress_note": null, "expected_owner": "context-agent"}}
+{"timestamp": "2026-04-29T16:25:42.318357", "event": "step_completed", "payload": {"step_id": "Step 1", "command": "webnovel-write", "chapter": 11}}
+{"timestamp": "2026-04-29T16:25:43.041999", "event": "step_started", "payload": {"step_id": "Step 2A", "step_name": "Draft Chapter", "command": "webnovel-write", "chapter": 11, "progress_note": null, "expected_owner": "writer-draft"}}
+{"timestamp": "2026-04-29T16:27:49.770564", "event": "step_completed", "payload": {"step_id": "Step 2A", "command": "webnovel-write", "chapter": 11}}
+{"timestamp": "2026-04-29T16:27:50.183049", "event": "step_started", "payload": {"step_id": "Step 2B", "step_name": "Style Adaptation", "command": "webnovel-write", "chapter": 11, "progress_note": null, "expected_owner": "style-adapter"}}
+{"timestamp": "2026-04-29T16:27:50.619336", "event": "step_completed", "payload": {"step_id": "Step 2B", "command": "webnovel-write", "chapter": 11}}
+{"timestamp": "2026-04-29T16:27:50.997941", "event": "step_started", "payload": {"step_id": "Step 3", "step_name": "Review", "command": "webnovel-write", "chapter": 11, "progress_note": null, "expected_owner": "review-agents"}}
+{"timestamp": "2026-04-29T16:32:04.057033", "event": "step_completed", "payload": {"step_id": "Step 3", "command": "webnovel-write", "chapter": 11}}
+{"timestamp": "2026-04-29T16:32:04.467737", "event": "step_started", "payload": {"step_id": "Step 4", "step_name": "Polish", "command": "webnovel-write", "chapter": 11, "progress_note": null, "expected_owner": "polish-agent"}}
+{"timestamp": "2026-04-29T16:32:24.848080", "event": "step_completed", "payload": {"step_id": "Step 4", "command": "webnovel-write", "chapter": 11}}
+{"timestamp": "2026-04-29T16:32:25.254025", "event": "step_started", "payload": {"step_id": "Step 5", "step_name": "Data Agent", "command": "webnovel-write", "chapter": 11, "progress_note": null, "expected_owner": "data-agent"}}
+{"timestamp": "2026-04-29T16:45:12.829511", "event": "step_completed", "payload": {"step_id": "Step 5", "command": "webnovel-write", "chapter": 11}}
+{"timestamp": "2026-04-29T16:45:13.362176", "event": "step_started", "payload": {"step_id": "Step 6", "step_name": "Git Commit", "command": "webnovel-write", "chapter": 11, "progress_note": null, "expected_owner": "backup-agent"}}

@@ -299,3 +299,29 @@
 {"timestamp": "2026-04-29T16:10:42.479414", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 12, "chapter": 10}
 {"timestamp": "2026-04-29T16:14:23.285784", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 10}
 {"timestamp": "2026-04-29T16:14:23.626320", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 9}
+{"timestamp": "2026-04-29T16:32:03.686517", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-29T16:35:38.700546", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 32}
+{"timestamp": "2026-04-29T16:35:40.886239", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T16:35:46.325660", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T16:36:02.279243", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T16:36:07.337954", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T16:36:12.313262", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 22}
+{"timestamp": "2026-04-29T16:36:19.318520", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T16:36:25.652103", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 23}
+{"timestamp": "2026-04-29T16:36:29.458377", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T16:36:30.932333", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T16:36:32.511772", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T16:36:33.955477", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 21}
+{"timestamp": "2026-04-29T16:36:35.563306", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T16:36:44.155051", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T16:36:52.105289", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:36:54.455518", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 23}
+{"timestamp": "2026-04-29T16:37:44.511504", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T16:37:49.259336", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T16:37:51.412827", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T16:37:53.132182", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 20}
+{"timestamp": "2026-04-29T16:38:17.237980", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 28, "chapter": 11}
+{"timestamp": "2026-04-29T16:41:03.519690", "tool_name": "rag_adapter:index-chapter", "success": true, "elapsed_ms": 1374, "chapter": 11}
+{"timestamp": "2026-04-29T16:41:09.222706", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 69, "chapter": 11}
+{"chapter": 11, "timestamp": "2026-04-29T16:41:46.560457", "tool_name": "data_agent:chapter_11_summary", "success": true, "timing_ms": {"A_load_context": 1850, "B_entity_extract": 950, "C_disambiguation": 80, "D_state_index_write": 1420, "E_summary_write": 120, "F_scene_chunking": 800, "G_rag_index": 1374, "H_style_sample": 69, "I_debt_interest": 0, "TOTAL": 6663}, "bottlenecks_top3": [{"step": "A_load_context", "elapsed_ms": 1850, "ratio": 27.8}, {"step": "D_state_index_write", "elapsed_ms": 1420, "ratio": 21.3}, {"step": "G_rag_index", "elapsed_ms": 1374, "ratio": 20.6}], "notes": "RAG embedding reproduced ModelScope 401 (RAG_EMBED_AUTH_401); 7 chunks skipped, vectors not stored. Style sampler returned added=[] skipped=[] -- score 94.67 above threshold but no novel patterns surfaced (likely stylistic continuity with Ch9-10 already captured). D_state_index_write covered 5 entity upserts (4 new), 5 alias registrations, 3 state changes, 4 relationships (1 retry due to from_entity/to_entity/type schema). Constellation strand has now rested 2 chapters (Ch10 last); flag for Ch13-14 reactivation per pacing-checker advisory."}
+{"timestamp": "2026-04-29T16:42:32.285733", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 17}

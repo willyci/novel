@@ -32,9 +32,9 @@
     "cultivation_subtiers": "N/A"
   },
   "progress": {
-    "current_chapter": 10,
-    "total_words": 19030,
-    "last_updated": "2026-04-29T20:14:06.920451",
+    "current_chapter": 11,
+    "total_words": 21115,
+    "last_updated": "2026-04-29 16:38:17",
     "volumes_completed": [
       2
     ],
@@ -94,11 +94,11 @@
     "power": {
       "realm": "Expert satellite navigation programmer",
       "layer": 1,
-      "bottleneck": "Peter has decoded the cover story: project is the deliberate ablation of humanity by deflecting the Chicxulub impactor 67M years ago. He has the knowledge, access, and the one skill that could stop the plan. He has not decided to act. Cache deleted. The unwritten conditional remains the shape of a thing in the next room."
+      "bottleneck": "Peter has formed private decision to act. Three integrator reference-frame priority adjustment points identified. No code written yet. Sol 75 (D-5) Vasquez walkthrough scheduled. Sol 80 (D-10) launch deadline announced. Five days to write a plan."
     },
     "location": {
-      "current": "Bunk, residential level, Kuiper Belt Asteroid Base (Sol 68 ~0200, observation port stars in frame)",
-      "last_chapter": 10
+      "current": "Bunk, residential level, Kuiper Belt Asteroid Base (Sol 70 ~2230, post observation port)",
+      "last_chapter": 11
     },
     "golden_finger": {
       "name": "Navigation Code Expertise",
@@ -113,7 +113,7 @@
       ]
     },
     "attributes": {},
-    "emotional_state": "paralysis-under-knowledge: integrated belonging destroyed in private; performing for crew unchanged"
+    "emotional_state": "forming-certainty under deadline; performance-under-knowledge for crew unchanged"
   },
   "relationships": {},
   "disambiguation_warnings": [
@@ -221,13 +221,16 @@
       },
       {
         "id": "F-CH8-PLANT-THIRD-THING",
-        "phase": "carry",
+        "phase": "paid_off",
         "set_chapter": 8,
         "carry_to": 11,
         "note": "Third thing deferred by Kessler at meeting close (after launch trajectory phase + interceptor approach geometry).",
         "visibility": "both",
         "carry_note_ch9": "Kessler again defers in Ch9 office reveal: 'We'll talk about the third thing soon.'",
-        "carry_note_ch10": "Sol 67 afternoon: Peter passes Kessler closed office door, strip of warm light underneath; Kessler is preparing the third thing. Reveals Ch11."
+        "carry_note_ch10": "Sol 67 afternoon: Peter passes Kessler closed office door, strip of warm light underneath; Kessler is preparing the third thing. Reveals Ch11.",
+        "resolved_chapter": 11,
+        "resolved_at": "2026-04-29T00:00:00",
+        "payoff_note": "D-10 launch announcement (Sol 70 1000 briefing) IS the third thing Kessler was preparing."
       },
       {
         "id": "F-CH7-CONT-GRANDFATHER",
@@ -296,7 +299,8 @@
         "note": "The coral fragment is grandmother Miriam's village relic; Earth's last reef Andaman Fragment is dead; Kessler's grief is real. Anchors the moral-weight half of the climax decision.",
         "visibility": "reader",
         "recontextualized_chapter": 10,
-        "recontextualization_note": "Coral fragment recontextualized: it is the engine of Kessler motivation, not a Miriam memento. Grief is real; the object signifies grief-into-action. Peter recognition Sol 67 late afternoon Nav Lab. Anchors Vol 3 moral-weight axis."
+        "recontextualization_note": "Coral fragment recontextualized: it is the engine of Kessler motivation, not a Miriam memento. Grief is real; the object signifies grief-into-action. Peter recognition Sol 67 late afternoon Nav Lab. Anchors Vol 3 moral-weight axis.",
+        "carry_note_ch11": "Coral fragment doubled: Kessler brings it to briefing (Sol 70 1000) and it is back on its glass stand in his office (Sol 70 late afternoon). Hand-near-coral: lay near it the way a man's hand lay near a child he was not going to wake. The care is for the next ten days."
       },
       {
         "id": "F-CH9-PLANT-PETER-KESSLER-MIRROR",
@@ -316,7 +320,8 @@
         ],
         "note": "Peter privately recognizes Kessler as a possible future self — both brilliant men discarded by institutions; the only difference, he understands, is that Kessler chose action and Peter spent six months in a Mars apartment closing job applications. Vol3+ payoff; sets up the climax decision frame.",
         "visibility": "reader",
-        "carry_note_ch10": "Mirror-recognition (Ch9) becomes monstrous in retrospect; Peter remembers seeing Kessler as a possible future self for two short sentences and does not finish the thought. Vol 3 climax-decision frame."
+        "carry_note_ch10": "Mirror-recognition (Ch9) becomes monstrous in retrospect; Peter remembers seeing Kessler as a possible future self for two short sentences and does not finish the thought. Vol 3 climax-decision frame.",
+        "carry_note_ch11": "Light touch line 77: \"a man in his last week of being unopposed\"."
       },
       {
         "id": "F-CH9-PLANT-KESSLER-WIFE",
@@ -329,11 +334,12 @@
         ],
         "note": "Kessler's wife left in 2527 because there was no longer a place to live and she was not, fairly, an evolutionary biologist. Single mention. Vol3 light payoff potential.",
         "visibility": "reader",
-        "carry_note_ch10": "Untouched in Ch10."
+        "carry_note_ch10": "Untouched in Ch10.",
+        "carry_note_ch11": "Untouched in Ch11; defer to Ch13."
       },
       {
         "id": "F-CH10-PLANT-PETER-PARALYSIS",
-        "phase": "plant",
+        "phase": "advanced",
         "set_chapter": 10,
         "carry_to": [
           11,
@@ -343,7 +349,9 @@
           15
         ],
         "visibility": "both",
-        "note": "Peter has knowledge, access, and the one skill that could stop the plan. He does not have certainty. Not yet. Central Vol 3 question: what will Peter do?"
+        "note": "Peter has knowledge, access, and the one skill that could stop the plan. He does not have certainty. Not yet. Central Vol 3 question: what will Peter do?",
+        "advanced_chapter": 11,
+        "advancement_note": "Decision formed: Peter has the certainty he lacked at Ch10 close. Vol 3 axis converted from will-he? to how-in-five-days?"
       },
       {
         "id": "F-CH10-PLANT-EMPTY-SCREEN-CORNER",
@@ -357,7 +365,8 @@
           15
         ],
         "visibility": "reader",
-        "note": "Screen corner where the warning flag lived (Ch7-8) and the progress bar lived (Ch9-10) is now blank. Motif retired to blank; Vol 3 may revisit if Peter reopens the comparison tool or re-instruments the integrator."
+        "note": "Screen corner where the warning flag lived (Ch7-8) and the progress bar lived (Ch9-10) is now blank. Motif retired to blank; Vol 3 may revisit if Peter reopens the comparison tool or re-instruments the integrator.",
+        "carry_note_ch11": "Bookend: blank at line 7 (0700 open of day) and blank at line 97 (2210 close of day). Motif retained."
       },
       {
         "id": "F-CH10-PLANT-OBSERVATION-PORT-STARS",
@@ -371,7 +380,8 @@
           15
         ],
         "visibility": "reader",
-        "note": "Sol 68 bunk: stars are exactly where they should be -- for now. Sets up Vol 3 Ch15 nothing-changed monitoring beat."
+        "note": "Sol 68 bunk: stars are exactly where they should be -- for now. Sets up Vol 3 Ch15 nothing-changed monitoring beat.",
+        "carry_note_ch11": "Sol 68 wedge advanced 2 days to Sol 70: Vega, Alpha Centauri pair, Milky Way, Pleiades just out of frame to the left where they will be for the next ten days. Vol 3 Ch15 setup intact."
       },
       {
         "id": "F-CH10-PLANT-INTEGRATION-WINDOW-FACE",
@@ -381,7 +391,52 @@
           12
         ],
         "visibility": "both",
-        "note": "Peter passed Vasquez Sol 67 integration window without his face changing. Sets up Ch12 code-review trust: Vasquez does not yet suspect."
+        "note": "Peter passed Vasquez Sol 67 integration window without his face changing. Sets up Ch12 code-review trust: Vasquez does not yet suspect.",
+        "carry_note_ch11": "Vasquez schedules Sol 75 1400 walkthrough without suspicion; Sol 68 one-line congratulation on clean residual run referenced. Trust foundation for Ch12 code review."
+      },
+      {
+        "id": "F-CH11-PLANT-FIVE-DAYS",
+        "phase": "plant",
+        "set_chapter": 11,
+        "carry_to": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "visibility": "both",
+        "note": "Sol 75 D-5 Vasquez nav-stack walkthrough deadline. Five days from Ch11 close to convert mental insertion points into reviewable code."
+      },
+      {
+        "id": "F-CH11-PLANT-THREE-INSERTION-POINTS",
+        "phase": "plant",
+        "set_chapter": 11,
+        "carry_to": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "visibility": "both",
+        "note": "Three integrator reference-frame priority sites identified mentally Sol 70 late afternoon Nav Lab. Not written down (he had practice in not writing things down). Read-only mental cataloging in Ch11; Ch12 will write code."
+      },
+      {
+        "id": "F-CH11-PLANT-DECISION-FORMED",
+        "phase": "plant",
+        "set_chapter": 11,
+        "carry_to": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "visibility": "both",
+        "note": "Peter's private resolve crystallized in Kessler's office under warm light across hand near coral. Vol 3 axis converted from will-he? to how-in-five-days?"
       }
     ]
   },
@@ -536,13 +591,34 @@
         "location": "Bunk, residential level, Kuiper Belt Asteroid Base (observation port stars in frame)",
         "emotion": "paralysis under load; not yet"
       }
+    },
+    "0011": {
+      "0011": {
+        "hook": {
+          "type": "suspense_hook",
+          "variant": "review-deadline-window",
+          "content": "Five days, a clean build, three insertion points held only in memory, and the rest of his life inside one of two skies. He had five days to write a plan. He went to his bunk.",
+          "strength": "strong"
+        },
+        "pattern": {
+          "opening": "scene_setting+interior_monologue",
+          "hook": "suspense_hook",
+          "emotion_arc": "paralysis-carryover->small-human-warmth->countdown-shock->composed-performance->warm-conversation-dramatic-irony->quiet-certainty-forming->deadline-acceptance",
+          "info_density": "medium"
+        },
+        "ending": {
+          "time": "Sol 70, ~2230 (post observation port)",
+          "location": "Bunk, residential level, Kuiper Belt Asteroid Base",
+          "emotion": "forming certainty under twin clocks"
+        }
+      }
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 10,
-    "last_fire_chapter": 9,
+    "last_quest_chapter": 11,
+    "last_fire_chapter": 11,
     "last_constellation_chapter": 10,
-    "current_dominant": "quest+constellation",
+    "current_dominant": "fire+quest",
     "chapters_since_switch": 0,
     "history": [
       {
@@ -584,6 +660,11 @@
         "chapter": 10,
         "strand": "quest+constellation",
         "note": "Quest: catch-side-pass-1 refactor delivered Sol 65; Sol 66 0220 query result returns 67M years/Cretaceous; trajectory frame inversion identifies Chicxulub impactor as deflection target; 0.01-degree adjustment recontextualized as the entire point of the code; Sol 68 0140 cache deletion preserves optionality. Constellation: cover story collapses into actual plan -- Kerr/CTC/Casimir-cradle/Sun2.0/Kepler-7/von Neumann probe/0.01-degree all bind into ablation-of-humanity architecture; orbital interceptors confirmed nonexistent; coral fragment recontextualized engine-not-memento; Peter-Kessler mirror becomes monstrous in retrospect. Vol 2 close."
+      },
+      {
+        "chapter": 11,
+        "strand": "fire+quest",
+        "note": "Fire: Oren blue-cup small-warmth beat; Kessler warm office conversation under dramatic irony; Peter small laugh at dinner; the small-human surplus that survives the deadline. Quest: Sol 70 D-10 launch announcement; Vasquez Sol 75 D-5 walkthrough scheduled; Sol 70 late afternoon Nav Lab read-through identifies three reference-frame priority insertion points (mental only); private decision crystallizes. Vol 3 opener; central axis converted from will-he? to how-in-five-days? Constellation strand has now rested 2 chapters (Ch10 last); flag for Ch13-14 reactivation."
       }
     ]
   },
@@ -602,17 +683,36 @@
     {
       "q": "How much time does he have? (Ch11 reveals D-10)",
       "carry_to": 11,
-      "set_chapter": 10
+      "set_chapter": 10,
+      "resolved_chapter": 11,
+      "resolution": "D-10 announced Sol 70 briefing. Sol 80 launch."
     },
     {
       "q": "What is the third thing?",
       "carry_to": 11,
-      "set_chapter": 10
+      "set_chapter": 10,
+      "resolved_chapter": 11,
+      "resolution": "D-10 launch announcement IS the third thing."
     },
     {
       "q": "Does Kessler grief make him a monster?",
       "carry_to": "Vol3_thematic_axis",
       "set_chapter": 10
+    },
+    {
+      "q": "How will Peter insert the bug without Vasquez detecting during Sol 75 walkthrough?",
+      "carry_to": 12,
+      "set_chapter": 11
+    },
+    {
+      "q": "Can the bug survive review + 1 million years of autonomous operation?",
+      "carry_to": 12,
+      "set_chapter": 11
+    },
+    {
+      "q": "What is Peter's plan?",
+      "carry_to": 12,
+      "set_chapter": 11
     }
   ],
   "lexicon_unlock_events": [
@@ -634,5 +734,13 @@
       ],
       "recorded_at": "2026-04-29T20:14:06.920451"
     }
-  ]
+  ],
+  "countdown": {
+    "launch_countdown_initialized": true,
+    "launch_sol": 80,
+    "review_sol": 75,
+    "current_d_minus": 10,
+    "review_d_minus": 5,
+    "initialized_chapter": 11
+  }
 }

@@ -2,17 +2,17 @@
   "current_task": {
     "command": "webnovel-write",
     "args": {
-      "chapter_num": 10
+      "chapter_num": 11
     },
-    "started_at": "2026-04-29T15:41:30.001187",
-    "last_heartbeat": "2026-04-29T16:16:00.903453",
+    "started_at": "2026-04-29T16:18:46.436932",
+    "last_heartbeat": "2026-04-29T16:45:13.357121",
     "status": "running",
     "current_step": {
       "id": "Step 6",
       "name": "Git Commit",
       "status": "running",
-      "started_at": "2026-04-29T16:16:00.903453",
-      "running_at": "2026-04-29T16:16:00.903453",
+      "started_at": "2026-04-29T16:45:13.356554",
+      "running_at": "2026-04-29T16:45:13.356554",
       "attempt": 1,
       "progress_note": null
     },
@@ -21,42 +21,42 @@
         "id": "Step 1",
         "name": "Context Agent",
         "status": "completed",
-        "started_at": "2026-04-29T15:41:30.577755",
-        "running_at": "2026-04-29T15:41:30.577755",
+        "started_at": "2026-04-29T16:18:47.050168",
+        "running_at": "2026-04-29T16:18:47.050168",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T15:50:36.290153",
+        "completed_at": "2026-04-29T16:25:42.313017",
         "artifacts": {
           "ok": true,
           "contract": "ready",
-          "title": "Sixty-Seven Million Years",
-          "target_words": "2500-3000",
-          "unlocked_lexicon": "67M/Cretaceous/Chicxulub/0.01-deg/deflection/dinosaurs(1)"
+          "title": "The Decision",
+          "vol_3_opener": true,
+          "countdown": "D-10"
         }
       },
       {
         "id": "Step 2A",
         "name": "Draft Chapter",
         "status": "completed",
-        "started_at": "2026-04-29T15:50:36.980651",
-        "running_at": "2026-04-29T15:50:36.980651",
+        "started_at": "2026-04-29T16:25:43.035435",
+        "running_at": "2026-04-29T16:25:43.035435",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T15:54:23.213191",
+        "completed_at": "2026-04-29T16:27:49.766250",
         "artifacts": {
           "ok": true,
-          "words": 2477
+          "words": 2070
         }
       },
       {
         "id": "Step 2B",
         "name": "Style Adaptation",
         "status": "completed",
-        "started_at": "2026-04-29T15:54:23.850339",
-        "running_at": "2026-04-29T15:54:23.850339",
+        "started_at": "2026-04-29T16:27:50.177216",
+        "running_at": "2026-04-29T16:27:50.177216",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T15:54:24.459051",
+        "completed_at": "2026-04-29T16:27:50.614541",
         "artifacts": {
           "ok": true,
           "changes": "none-voice-consistent"
@@ -66,45 +66,45 @@
         "id": "Step 3",
         "name": "Review",
         "status": "completed",
-        "started_at": "2026-04-29T15:54:25.072249",
-        "running_at": "2026-04-29T15:54:25.072249",
+        "started_at": "2026-04-29T16:27:50.990404",
+        "running_at": "2026-04-29T16:27:50.990404",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T16:00:30.960202",
+        "completed_at": "2026-04-29T16:32:04.050739",
         "artifacts": {
           "ok": true,
-          "overall_score": 95.2
+          "overall_score": 94.67
         }
       },
       {
         "id": "Step 4",
         "name": "Polish",
         "status": "completed",
-        "started_at": "2026-04-29T16:00:31.749447",
-        "running_at": "2026-04-29T16:00:31.749447",
+        "started_at": "2026-04-29T16:32:04.458845",
+        "running_at": "2026-04-29T16:32:04.458845",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T16:01:26.374446",
+        "completed_at": "2026-04-29T16:32:24.837897",
         "artifacts": {
           "ok": true,
           "anti_ai_force_check": "pass",
           "critical_fixed": 0,
-          "low_fixed": 3
+          "low_fixed": 1
         }
       },
       {
         "id": "Step 5",
         "name": "Data Agent",
         "status": "completed",
-        "started_at": "2026-04-29T16:01:26.981713",
-        "running_at": "2026-04-29T16:01:26.981713",
+        "started_at": "2026-04-29T16:32:25.199988",
+        "running_at": "2026-04-29T16:32:25.199988",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T16:16:00.327100",
+        "completed_at": "2026-04-29T16:45:12.822797",
         "artifacts": {
           "ok": true,
-          "vol_2_closed": true,
-          "vol_3_active": true
+          "countdown_initialized": true,
+          "d_minus": 10
         }
       }
     ],
@@ -127,6 +127,31 @@
       "review_completed": false,
       "ok": true,
       "contract": "ready",
+      "title": "The Decision",
+      "vol_3_opener": true,
+      "countdown": "D-10",
+      "words": 2070,
+      "changes": "none-voice-consistent",
+      "overall_score": 94.67,
+      "anti_ai_force_check": "pass",
+      "critical_fixed": 0,
+      "low_fixed": 1,
+      "countdown_initialized": true,
+      "d_minus": 10
+    }
+  },
+  "last_stable_state": {
+    "command": "webnovel-write",
+    "chapter_num": 10,
+    "completed_at": "2026-04-29T16:16:02.759368",
+    "artifacts": {
+      "chapter_file": {},
+      "git_status": {},
+      "state_json_modified": false,
+      "entities_appeared": false,
+      "review_completed": false,
+      "ok": true,
+      "contract": "ready",
       "title": "Sixty-Seven Million Years",
       "target_words": "2500-3000",
       "unlocked_lexicon": "67M/Cretaceous/Chicxulub/0.01-deg/deflection/dinosaurs(1)",
@@ -137,36 +162,9 @@
       "critical_fixed": 0,
       "low_fixed": 3,
       "vol_2_closed": true,
-      "vol_3_active": true
-    }
-  },
-  "last_stable_state": {
-    "command": "webnovel-write",
-    "chapter_num": 9,
-    "completed_at": "2026-04-29T14:04:26.417603",
-    "artifacts": {
-      "chapter_file": {},
-      "git_status": {},
-      "state_json_modified": false,
-      "entities_appeared": false,
-      "review_completed": false,
-      "ok": true,
-      "contract": "ready",
-      "title": "Belonging",
-      "words": 2018,
-      "changes": "none-voice-consistent",
-      "overall_score": 95.2,
-      "anti_ai_force_check": "pass",
-      "critical_fixed": 0,
-      "low_fixed": 1,
-      "entities_registered": [
-        "oren",
-        "miriam",
-        "andaman_fragment"
-      ],
-      "resumed_from_credit_cap": true,
+      "vol_3_active": true,
       "committed": true,
-      "chapter": 9
+      "chapter": 10
     }
   },
   "history": [
@@ -218,6 +216,13 @@
       "chapter": 9,
       "status": "completed",
       "completed_at": "2026-04-29T14:04:26.417603"
+    },
+    {
+      "task_id": "task_008",
+      "command": "webnovel-write",
+      "chapter": 10,
+      "status": "completed",
+      "completed_at": "2026-04-29T16:16:02.759368"
     }
   ]
 }
