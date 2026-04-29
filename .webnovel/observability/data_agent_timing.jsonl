@@ -250,3 +250,52 @@
 {"timestamp": "2026-04-29T14:03:33.825501", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 11}
 {"timestamp": "2026-04-29T14:03:34.181617", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 11}
 {"timestamp": "2026-04-29T14:03:34.499439", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 9}
+{"timestamp": "2026-04-29T15:42:50.108705", "tool_name": "index_manager:get-pattern-usage-stats", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T15:42:50.431137", "tool_name": "index_manager:get-hook-type-stats", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T15:42:50.760103", "tool_name": "index_manager:get-debt-summary", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T16:00:30.214768", "tool_name": "index_manager:save-review-metrics", "success": true, "elapsed_ms": 23}
+{"timestamp": "2026-04-29T16:04:42.189501", "tool_name": "index_manager:get-core-entities", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T16:04:42.519108", "tool_name": "index_manager:recent-appearances", "success": true, "elapsed_ms": 12}
+{"timestamp": "2026-04-29T16:04:59.761975", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 14, "error_code": "NOT_FOUND", "error_message": "未找到别名: coral fragment"}
+{"timestamp": "2026-04-29T16:05:00.104684", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T16:05:00.470173", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 14, "error_code": "NOT_FOUND", "error_message": "未找到别名: 0.01 degree"}
+{"timestamp": "2026-04-29T16:05:00.795764", "tool_name": "index_manager:get-aliases", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T16:05:01.127011", "tool_name": "index_manager:get-aliases", "success": false, "elapsed_ms": 12, "error_code": "NOT_FOUND", "error_message": "coral_fragment 没有别名"}
+{"timestamp": "2026-04-29T16:05:01.461164", "tool_name": "index_manager:get-aliases", "success": true, "elapsed_ms": 13}
+{"timestamp": "2026-04-29T16:05:04.949760", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 10, "error_code": "NOT_FOUND", "error_message": "未找到别名: Chicxulub"}
+{"timestamp": "2026-04-29T16:05:05.310185", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 13, "error_code": "NOT_FOUND", "error_message": "未找到别名: K-Pg"}
+{"timestamp": "2026-04-29T16:05:05.681917", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 13, "error_code": "NOT_FOUND", "error_message": "未找到别名: Cretaceous"}
+{"timestamp": "2026-04-29T16:05:06.141711", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 20, "error_code": "NOT_FOUND", "error_message": "未找到别名: 0.01 degree adjustment"}
+{"timestamp": "2026-04-29T16:05:06.509781", "tool_name": "index_manager:get-aliases", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T16:05:06.876963", "tool_name": "index_manager:get-aliases", "success": true, "elapsed_ms": 11}
+{"timestamp": "2026-04-29T16:05:15.251453", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 10, "error_code": "NOT_FOUND", "error_message": "未找到别名: Coral Fragment"}
+{"timestamp": "2026-04-29T16:05:15.590255", "tool_name": "index_manager:get-by-alias", "success": false, "elapsed_ms": 10, "error_code": "NOT_FOUND", "error_message": "未找到别名: the coral fragment"}
+{"timestamp": "2026-04-29T16:05:15.898342", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T16:05:53.277199", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:05:53.619875", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T16:05:53.967336", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:05:54.312451", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T16:05:54.699834", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T16:05:55.072164", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T16:05:55.449871", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T16:06:18.101173", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T16:06:18.411284", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T16:06:18.706162", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T16:06:19.022321", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T16:06:19.361168", "tool_name": "index_manager:upsert-entity", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:06:19.691675", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:06:20.035015", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:06:20.356816", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T16:06:20.737600", "tool_name": "index_manager:register-alias", "success": true, "elapsed_ms": 26}
+{"timestamp": "2026-04-29T16:07:00.957754", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 18}
+{"timestamp": "2026-04-29T16:07:01.291177", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:07:01.604500", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 14}
+{"timestamp": "2026-04-29T16:07:01.919999", "tool_name": "index_manager:record-state-change", "success": true, "elapsed_ms": 16}
+{"timestamp": "2026-04-29T16:07:34.562540", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 17}
+{"timestamp": "2026-04-29T16:07:34.940567", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 19}
+{"timestamp": "2026-04-29T16:07:35.276317", "tool_name": "index_manager:upsert-relationship", "success": true, "elapsed_ms": 15}
+{"timestamp": "2026-04-29T16:08:30.724625", "tool_name": "state_manager:process-chapter", "success": true, "elapsed_ms": 29, "chapter": 10}
+{"timestamp": "2026-04-29T16:10:18.798288", "tool_name": "rag_adapter:index-chapter", "success": true, "elapsed_ms": 1687, "chapter": 10}
+{"timestamp": "2026-04-29T16:10:42.479414", "tool_name": "style_sampler:extract", "success": true, "elapsed_ms": 12, "chapter": 10}
+{"timestamp": "2026-04-29T16:14:23.285784", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 10}
+{"timestamp": "2026-04-29T16:14:23.626320", "tool_name": "index_manager:get-by-alias", "success": true, "elapsed_ms": 9}

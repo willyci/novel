@@ -1,0 +1,70 @@
+{
+  "entities_appeared": [
+    {"id": "peter_kamau", "type": "角色", "mentions": ["Peter", "he", "Mr. Kamau"], "confidence": 1.0},
+    {"id": "arthur_kessler", "type": "角色", "mentions": ["Arthur", "Kessler", "Arthur Kessler"], "confidence": 1.0},
+    {"id": "kuiper_belt_base", "type": "地点", "mentions": ["Nav Lab", "corridor", "office", "the residential level", "the gray-flour containment bay"], "confidence": 1.0},
+    {"id": "samir", "type": "角色", "mentions": ["Samir"], "confidence": 1.0},
+    {"id": "dr_vasquez", "type": "角色", "mentions": ["Vasquez"], "confidence": 1.0},
+    {"id": "kepler7_accelerator", "type": "物品", "mentions": ["the accelerator", "the working terminal"], "confidence": 0.85},
+    {"id": "sun2_prototype", "type": "物品", "mentions": ["Sun 2.0"], "confidence": 1.0},
+    {"id": "casimir_cradle", "type": "物品", "mentions": ["Casimir-stabilized exotic-matter cradle", "the cradle", "Sun 2.0"], "confidence": 1.0},
+    {"id": "kerr_black_hole", "type": "物品", "mentions": ["Kerr black hole"], "confidence": 1.0},
+    {"id": "ctc_curve", "type": "概念", "mentions": ["closed timelike curve", "CTC", "the CTC"], "confidence": 1.0},
+    {"id": "von_neumann_probe", "type": "物品", "mentions": ["nanomachine", "von Neumann probe", "the swarm"], "confidence": 1.0},
+    {"id": "orbital_interceptors", "type": "物品", "mentions": ["orbital interceptors", "the interceptors"], "confidence": 1.0},
+    {"id": "nav_branch_catch_side_pass_1", "type": "物品", "mentions": ["catch-side-pass-1", "a new branch"], "confidence": 1.0}
+  ],
+  "entities_new": [],
+  "state_changes": [
+    {"entity_id": "peter_kamau", "field": "power.bottleneck", "old": "resolved-to-confront-Kessler-with-three-questions", "new": "Peter has accepted Kessler's cover story; refactoring nav stack under time-travel + interceptor model; building toward end-of-quarter launch trajectory phase deliverable, then interceptor approach geometry", "reason": "Pitch in Ch8 reframed entire spec; Peter started catch-side-pass-1 branch"},
+    {"entity_id": "peter_kamau", "field": "emotional_state", "old": "quiet resolve under unease", "new": "buoyant capitulation under dramatic irony", "reason": "Cover story delivered with warmth and earned-respect framing; warmth not intercepted; admiration replaces unease"},
+    {"entity_id": "peter_kamau", "field": "location.last_chapter", "old": "7", "new": "8", "reason": "Ch8 confirms Nav Lab residency at Kuiper Belt Asteroid Base"}
+  ],
+  "relationships_new": [],
+  "scenes_chunked": 5,
+  "uncertain": [],
+  "warnings": [
+    "PLANT carry to Ch10: Orbital interceptors named explicitly by Kessler as if they exist; Ch10 reveal that no such system exists.",
+    "PLANT carry to Ch9: Kessler's deep-time / Jupiter-chaos academic-passion bleed-through (line 79 + softened line 81). Reader-perceptible, not Peter-detected.",
+    "PLANT carry to Ch9: Kessler asks about Peter's grandfather's name on resume (Ch7 plant continuing).",
+    "PSEUDO-RESOLVE: Stellar drift millions of years requirement (Ch6+Ch7 plant) — pseudo-resolved by cover story.",
+    "PSEUDO-RESOLVE: Vasquez 'higher than you'll need' (Ch7 plant) — pseudo-resolved as Casimir cradle headroom.",
+    "PLANT light Ch9 register cue: Kessler tone 'I've been wanting to talk to someone who sees the system the way you see it' mirror-cue.",
+    "PLANT Ch10+: 'Third thing' deferred by Kessler at meeting close.",
+    "Ch7 review CH7-MED-01: nano programmer entity tracking — verified Ch8 line 105 'the man with the fingerless gloves was at his station' continuation; remains tracked unnamed."
+  ],
+  "chapter_meta": {
+    "hook": {
+      "type": "desire_hook",
+      "content": "Peter starts catch-side-pass-1 under the cover-story frame; the model holds cleanly; the soft yellow warning flag in the corner of his left display clears, and he does not notice it go. End-of-quarter deliverables (launch trajectory phase, then interceptor approach geometry) and a deferred 'third thing' pull him forward — under dramatic irony, since the orbital interceptors do not exist.",
+      "strength": "strong",
+      "underlay": "dramatic_irony"
+    },
+    "pattern": {
+      "opening": "scene_setting+interior_monologue",
+      "opening_note": "postponement compression Sol 45-49, then Sol 50 commit",
+      "hook": "desire_hook_with_dramatic_irony_underlay",
+      "emotion_rhythm": "postponement->tightened-resolve->guarded-probing->technical-absorption->dawning-relief->surrendered-excitement->buoyant-engagement",
+      "info_density": "high"
+    },
+    "ending": {
+      "time": "Sol 50, ~ 1400 + ~20 minutes",
+      "location": "Nav Lab, Kuiper Belt Asteroid Base",
+      "emotion": "buoyant capitulation under dramatic irony"
+    }
+  },
+  "protagonist_state_overrides": {
+    "location": {"current": "Nav Lab, Kuiper Belt Asteroid Base", "last_chapter": 8},
+    "power": {
+      "realm": "Expert satellite navigation programmer",
+      "layer": 1,
+      "bottleneck": "Peter has accepted Kessler's cover story; refactoring nav stack under time-travel + interceptor model; building toward end-of-quarter launch trajectory phase deliverable, then interceptor approach geometry"
+    },
+    "emotional_state": "buoyant capitulation under dramatic irony"
+  },
+  "strand_tracker_update": {
+    "chapter": 8,
+    "strand": "quest+constellation",
+    "note": "Quest: Peter advances on the actual project deliverables (launch trajectory phase + interceptor approach geometry; catch-side-pass-1 branch opened). Constellation: cover-story canon binds Kerr black hole / Casimir cradle / Sun 2.0 / Kepler-7 / von Neumann probe / orbital interceptors / Vasquez / nano programmer bay into one architecture, all visible to POV — with the orbital interceptors plant sitting under dramatic irony for Ch10 reversal."
+  }
+}

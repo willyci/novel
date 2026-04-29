@@ -33,12 +33,10 @@
   },
   "progress": {
     "current_chapter": 10,
-    "total_words": 19030,
-    "last_updated": "2026-04-29T20:14:06.920451",
-    "volumes_completed": [
-      2
-    ],
-    "current_volume": 3,
+    "total_words": 16551,
+    "last_updated": "2026-04-29 16:08:30",
+    "volumes_completed": [],
+    "current_volume": 2,
     "volumes_planned": [
       {
         "volume_id": 1,
@@ -50,13 +48,13 @@
         "volume_id": 2,
         "name": "The Truth",
         "chapters_range": "6-10",
-        "status": "completed"
+        "status": "pending"
       },
       {
         "volume_id": 3,
         "name": "The Mission",
         "chapters_range": "11-15",
-        "status": "in_progress"
+        "status": "pending"
       },
       {
         "volume_id": 4,
@@ -73,14 +71,12 @@
         "volume": 2,
         "chapters_range": "6-10",
         "planned_at": "2026-03-27",
-        "updated_at": "2026-04-15",
-        "status": "completed"
+        "updated_at": "2026-04-15"
       },
       {
         "volume": 3,
         "chapters_range": "11-15",
-        "planned_at": "2026-04-15",
-        "status": "in_progress"
+        "planned_at": "2026-04-15"
       },
       {
         "volume": 4,
@@ -94,11 +90,11 @@
     "power": {
       "realm": "Expert satellite navigation programmer",
       "layer": 1,
-      "bottleneck": "Peter has decoded the cover story: project is the deliberate ablation of humanity by deflecting the Chicxulub impactor 67M years ago. He has the knowledge, access, and the one skill that could stop the plan. He has not decided to act. Cache deleted. The unwritten conditional remains the shape of a thing in the next room."
+      "bottleneck": "Peter has accepted the cover story emotionally and is genuinely embedded in the team; first crack has appeared in the form of a star-chart epoch cluster anomaly that contradicts the cover-story's required generic spread; comparison-tool query is loading against historical epoch catalogues from his Helix-era datapad"
     },
     "location": {
-      "current": "Bunk, residential level, Kuiper Belt Asteroid Base (Sol 68 ~0200, observation port stars in frame)",
-      "last_chapter": 10
+      "current": "Nav Lab, Kuiper Belt Asteroid Base",
+      "last_chapter": 9
     },
     "golden_finger": {
       "name": "Navigation Code Expertise",
@@ -113,7 +109,7 @@
       ]
     },
     "attributes": {},
-    "emotional_state": "paralysis-under-knowledge: integrated belonging destroyed in private; performing for crew unchanged"
+    "emotional_state": "integrated belonging seeded with private undeclared disquiet"
   },
   "relationships": {},
   "disambiguation_warnings": [
@@ -148,8 +144,7 @@
       "AI systems",
       "Kerr black hole / CTC / Casimir cradle (cover-story canon)",
       "Von Neumann probes (deep-time seeding)",
-      "Orbital interceptors (Ch10 reveal: non-existent / cover-story fiction)",
-      "0.01-degree adjustment (Ch10: asteroid-deflection mechanism, the entire point of the code)"
+      "Orbital interceptors (named-existing, plant)"
     ],
     "factions": [
       "Mars Government",
@@ -187,15 +182,12 @@
     "foreshadowing": [
       {
         "id": "F-CH8-PLANT-INTERCEPTORS",
-        "phase": "paid_off",
+        "phase": "carry",
         "set_chapter": 8,
         "carry_to": 10,
         "note": "Orbital interceptors named explicitly by Kessler as if they exist; Ch10 reveal that no such system exists.",
         "visibility": "reader",
-        "carry_note_ch9": "Reader-held; Peter has not yet tested. Carries to Ch10.",
-        "resolved_chapter": 10,
-        "payoff_note": "Confirmed non-existent. Frame inversion of catch-side-pass-1 trajectory geometry exposes the same vectors as the Chicxulub impactor pre-impact deflection envelope; the orbital interceptors named by Kessler in Ch8 do not and never did exist.",
-        "resolved_at": "2026-04-29T20:14:06.920451"
+        "carry_note_ch9": "Reader-held; Peter has not yet tested. Carries to Ch10."
       },
       {
         "id": "F-CH8-PLANT-DEEPTIME-BLEED",
@@ -223,11 +215,10 @@
         "id": "F-CH8-PLANT-THIRD-THING",
         "phase": "carry",
         "set_chapter": 8,
-        "carry_to": 11,
+        "carry_to": 10,
         "note": "Third thing deferred by Kessler at meeting close (after launch trajectory phase + interceptor approach geometry).",
         "visibility": "both",
-        "carry_note_ch9": "Kessler again defers in Ch9 office reveal: 'We'll talk about the third thing soon.'",
-        "carry_note_ch10": "Sol 67 afternoon: Peter passes Kessler closed office door, strip of warm light underneath; Kessler is preparing the third thing. Reveals Ch11."
+        "carry_note_ch9": "Kessler again defers in Ch9 office reveal: 'We'll talk about the third thing soon.'"
       },
       {
         "id": "F-CH7-CONT-GRANDFATHER",
@@ -261,29 +252,23 @@
       },
       {
         "id": "F-CH9-PLANT-EPOCH-CLUSTER",
-        "phase": "paid_off",
+        "phase": "plant",
         "set_chapter": 9,
         "carry_to": 10,
         "note": "Reference epochs in catch-side-pass-1 cluster tightly around a single point in deep time, narrower than the cover-story's design tolerance permits. A line, not a smear. Peter has not yet decoded what epoch.",
-        "visibility": "both",
-        "resolved_chapter": 10,
-        "payoff_note": "Sol 66 0220: catalogue match returns 67 million years / Cretaceous. The cluster-not-smear was the Chicxulub epoch.",
-        "resolved_at": "2026-04-29T20:14:06.920451"
+        "visibility": "both"
       },
       {
         "id": "F-CH9-PLANT-COMPARISON-TOOL-LOADING",
-        "phase": "paid_off",
+        "phase": "plant",
         "set_chapter": 9,
         "carry_to": 10,
         "note": "Peter pulls down the stellar-cartography comparison tool he has not used since Helix and queries the cluster's barycentric center against historical epoch catalogues on his eight-year-old datapad. A small progress bar opens, where the warning flag used to live, and begins to load.",
-        "visibility": "both",
-        "resolved_chapter": 10,
-        "payoff_note": "Sol 65 night: bar at 100%. Sol 66 0220: result line read three times; reference epoch barycentric center matched to Chicxulub catalogue; verified via two reruns (inverted-frame-stripped-metadata and naive).",
-        "resolved_at": "2026-04-29T20:14:06.920451"
+        "visibility": "both"
       },
       {
         "id": "F-CH9-PLANT-MIRIAM-CORAL",
-        "phase": "recontextualized",
+        "phase": "plant",
         "set_chapter": 9,
         "carry_to": [
           10,
@@ -294,9 +279,7 @@
           15
         ],
         "note": "The coral fragment is grandmother Miriam's village relic; Earth's last reef Andaman Fragment is dead; Kessler's grief is real. Anchors the moral-weight half of the climax decision.",
-        "visibility": "reader",
-        "recontextualized_chapter": 10,
-        "recontextualization_note": "Coral fragment recontextualized: it is the engine of Kessler motivation, not a Miriam memento. Grief is real; the object signifies grief-into-action. Peter recognition Sol 67 late afternoon Nav Lab. Anchors Vol 3 moral-weight axis."
+        "visibility": "reader"
       },
       {
         "id": "F-CH9-PLANT-PETER-KESSLER-MIRROR",
@@ -315,8 +298,7 @@
           20
         ],
         "note": "Peter privately recognizes Kessler as a possible future self — both brilliant men discarded by institutions; the only difference, he understands, is that Kessler chose action and Peter spent six months in a Mars apartment closing job applications. Vol3+ payoff; sets up the climax decision frame.",
-        "visibility": "reader",
-        "carry_note_ch10": "Mirror-recognition (Ch9) becomes monstrous in retrospect; Peter remembers seeing Kessler as a possible future self for two short sentences and does not finish the thought. Vol 3 climax-decision frame."
+        "visibility": "reader"
       },
       {
         "id": "F-CH9-PLANT-KESSLER-WIFE",
@@ -328,60 +310,7 @@
           15
         ],
         "note": "Kessler's wife left in 2527 because there was no longer a place to live and she was not, fairly, an evolutionary biologist. Single mention. Vol3 light payoff potential.",
-        "visibility": "reader",
-        "carry_note_ch10": "Untouched in Ch10."
-      },
-      {
-        "id": "F-CH10-PLANT-PETER-PARALYSIS",
-        "phase": "plant",
-        "set_chapter": 10,
-        "carry_to": [
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "visibility": "both",
-        "note": "Peter has knowledge, access, and the one skill that could stop the plan. He does not have certainty. Not yet. Central Vol 3 question: what will Peter do?"
-      },
-      {
-        "id": "F-CH10-PLANT-EMPTY-SCREEN-CORNER",
-        "phase": "plant",
-        "set_chapter": 10,
-        "carry_to": [
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "visibility": "reader",
-        "note": "Screen corner where the warning flag lived (Ch7-8) and the progress bar lived (Ch9-10) is now blank. Motif retired to blank; Vol 3 may revisit if Peter reopens the comparison tool or re-instruments the integrator."
-      },
-      {
-        "id": "F-CH10-PLANT-OBSERVATION-PORT-STARS",
-        "phase": "plant",
-        "set_chapter": 10,
-        "carry_to": [
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "visibility": "reader",
-        "note": "Sol 68 bunk: stars are exactly where they should be -- for now. Sets up Vol 3 Ch15 nothing-changed monitoring beat."
-      },
-      {
-        "id": "F-CH10-PLANT-INTEGRATION-WINDOW-FACE",
-        "phase": "plant",
-        "set_chapter": 10,
-        "carry_to": [
-          12
-        ],
-        "visibility": "both",
-        "note": "Peter passed Vasquez Sol 67 integration window without his face changing. Sets up Ch12 code-review trust: Vasquez does not yet suspect."
+        "visibility": "reader"
       }
     ]
   },
@@ -518,31 +447,33 @@
       }
     },
     "0010": {
-      "hook": {
-        "type": "crisis_hook+decision_hook",
-        "variant": "paralysis-under-knowledge",
-        "content": "Sol 68 0140 cache deletion + bunk paralysis under observation port stars: Peter has the knowledge, the access, and the one skill that could stop the plan. He does not have the certainty. Not yet. The unwritten conditional left as the shape of a thing in the next room.",
-        "strength": "strong"
-      },
-      "pattern": {
-        "opening": "in_media_res+scene_setting",
-        "opening_note": "Loading bar at four percent, same chair as Ch9 close; Sol 58→65 compression; Sol 66 0220 reveal",
-        "hook": "crisis_hook+decision_hook (paralysis-under-knowledge variant)",
-        "emotion_arc": "routine-resumed→loading-impatience→first-numerical-shock→containment→silent-reconfirmation→trajectory-back-derivation→cover-story-collapse→coral-recontextualization→performance-under-knowledge→bunk-paralysis",
-        "info_density": "medium-high"
-      },
-      "ending": {
-        "time": "Sol 68, ~0200",
-        "location": "Bunk, residential level, Kuiper Belt Asteroid Base (observation port stars in frame)",
-        "emotion": "paralysis under load; not yet"
+      "0010": {
+        "hook": {
+          "type": "crisis_hook+decision_hook",
+          "variant": "paralysis-under-knowledge",
+          "content": "Sol 68 0140 cache deletion + bunk paralysis under observation port stars: Peter has the knowledge, the access, and the one skill that could stop the plan. He does not have the certainty. Not yet. The unwritten conditional left as the shape of a thing in the next room.",
+          "strength": "strong"
+        },
+        "pattern": {
+          "opening": "in_media_res+scene_setting",
+          "opening_note": "Loading bar at four percent, same chair as Ch9 close; Sol 58→65 compression; Sol 66 0220 reveal",
+          "hook": "crisis_hook+decision_hook (paralysis-under-knowledge variant)",
+          "emotion_arc": "routine-resumed→loading-impatience→first-numerical-shock→containment→silent-reconfirmation→trajectory-back-derivation→cover-story-collapse→coral-recontextualization→performance-under-knowledge→bunk-paralysis",
+          "info_density": "medium-high"
+        },
+        "ending": {
+          "time": "Sol 68, ~0200",
+          "location": "Bunk, residential level, Kuiper Belt Asteroid Base (observation port stars in frame)",
+          "emotion": "paralysis under load; not yet"
+        }
       }
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 10,
+    "last_quest_chapter": 9,
     "last_fire_chapter": 9,
-    "last_constellation_chapter": 10,
-    "current_dominant": "quest+constellation",
+    "last_constellation_chapter": 8,
+    "current_dominant": "fire+quest",
     "chapters_since_switch": 0,
     "history": [
       {
@@ -579,60 +510,8 @@
         "chapter": 9,
         "strand": "fire+quest",
         "note": "Fire: Kessler personal reveal (Earth six times / Miriam / Andaman / defunding / wife / build-something-instead) + Peter mirror-recognition + Peter-Oren-Vasquez crew warmth — single largest emotional-core beat of Vol2. Quest: catch-side-pass-1 nearly complete; Sol 58 routine consistency check exposes epoch cluster as a line not a smear; Peter activates clandestine investigation by loading Helix comparison tool against historical epoch catalogues."
-      },
-      {
-        "chapter": 10,
-        "strand": "quest+constellation",
-        "note": "Quest: catch-side-pass-1 refactor delivered Sol 65; Sol 66 0220 query result returns 67M years/Cretaceous; trajectory frame inversion identifies Chicxulub impactor as deflection target; 0.01-degree adjustment recontextualized as the entire point of the code; Sol 68 0140 cache deletion preserves optionality. Constellation: cover story collapses into actual plan -- Kerr/CTC/Casimir-cradle/Sun2.0/Kepler-7/von Neumann probe/0.01-degree all bind into ablation-of-humanity architecture; orbital interceptors confirmed nonexistent; coral fragment recontextualized engine-not-memento; Peter-Kessler mirror becomes monstrous in retrospect. Vol 2 close."
       }
     ]
   },
-  "_migrated_to_sqlite": true,
-  "open_questions": [
-    {
-      "q": "What will Peter do?",
-      "carry_to": "Vol3_central_axis",
-      "set_chapter": 10
-    },
-    {
-      "q": "Can he insert anything into the code without Vasquez detecting it?",
-      "carry_to": 12,
-      "set_chapter": 10
-    },
-    {
-      "q": "How much time does he have? (Ch11 reveals D-10)",
-      "carry_to": 11,
-      "set_chapter": 10
-    },
-    {
-      "q": "What is the third thing?",
-      "carry_to": 11,
-      "set_chapter": 10
-    },
-    {
-      "q": "Does Kessler grief make him a monster?",
-      "carry_to": "Vol3_thematic_axis",
-      "set_chapter": 10
-    }
-  ],
-  "lexicon_unlock_events": [
-    {
-      "chapter": 10,
-      "pov": "Peter",
-      "unlocked": [
-        "Chicxulub",
-        "Cretaceous",
-        "dinosaurs",
-        "extinct",
-        "67 million years",
-        "sixty-seven million years",
-        "0.01-degree adjustment"
-      ],
-      "still_locked": [
-        "K-Pg",
-        "K-T"
-      ],
-      "recorded_at": "2026-04-29T20:14:06.920451"
-    }
-  ]
+  "_migrated_to_sqlite": true
 }

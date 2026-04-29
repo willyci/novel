@@ -1,13 +1,13 @@
 {
-  "start_chapter": 9,
-  "end_chapter": 9,
+  "start_chapter": 10,
+  "end_chapter": 10,
   "overall_score": 95.2,
   "dimension_scores": {
     "设定一致性": 9.6,
-    "连贯性": 9.6,
+    "连贯性": 9.2,
     "人物塑造": 9.6,
-    "追读力": 9.4,
-    "高点强度": 9.4
+    "追读力": 9.6,
+    "高点强度": 9.6
   },
   "severity_counts": {
     "critical": 0,
@@ -16,6 +16,6 @@
     "low": 6
   },
   "critical_issues": [],
-  "report_file": "审查报告/第9-9章审查报告.md",
-  "notes": "selected_checkers=consistency,continuity,ooc,reader-pull,high-point(emotional set-piece); timeline_gate=pass(no TIMELINE_ISSUE); anti_ai_force_check=pending(Step4); low=CH9-CONT-002 'nine days' vs 8-day gap drift (fix to 'eight days'); CH9-CONT-001 open-vs-Sol-by-Sol tension (POV layered, accept); C9-OBS-01 year implicit (accept per Ch7-8 convention); C9-OBS-02 wife single mention (data layer can register as F-CH9-PLANT-KESSLER-WIFE); C9-OBS-03 italicized recall (accept); OOC-MINOR L55 'disturbing' word boundary (Peter unease over fullness of metabolized grief, accept); reader-pull SOFT compression-opening 2x consecutive (Ch10 must vary). Ch8 OOC-01 lesson fully absorbed: Peter zero half-detect; suspicion arc re-armed via independent epoch clustering technical evidence. Recommend ship per high-point-checker."
+  "report_file": "审查报告/第10-10章审查报告.md",
+  "notes": "selected_checkers=consistency,continuity,ooc,reader-pull,high-point(Vol 2 closing climax full stack); timeline_gate=pass(no TIMELINE_ISSUE); anti_ai_force_check=pending(Step4); Vol 2 cover-story collapse delivered; 6 unlocked lexicon words (67M/Cretaceous/Chicxulub/0.01-deg/dinosaurs/extinct) all properly deployed in interior/terminal-screen only never spoken aloud; low=CH10-LOW-01 'seventy million' line 59 vs 67M reveal (fix to sixty-seven million); TIMELINE_CLARITY_01 Sol 67 not explicitly anchored (add 'on the morning of Sol 67'); CH10-LOW-02 Centaurids meteor shower vs star (change to Centaurus); TIME_FIGURE_01 'six weeks' slight overshoot (accept); OOC-MINOR evidence-deletion boundary (accept per narrator disclaim); reader-pull SOFT hook variant tracking (no change). Ch9 OOC-01 lesson fully preserved: Peter's truth arrives from data only, three-pass verification, frame inversion math; never from Kessler tone/slip. Reader-Peter dramatic-irony gap closes at 67M reveal; tension axis re-pivots from informational to volitional for Vol 3."
 }

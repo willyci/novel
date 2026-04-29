@@ -1,0 +1,47 @@
+[
+  {
+    "scene_index": 1,
+    "title": "Postponement compression and Sol-50 commit",
+    "time": "Sol 45 -> Sol 50, 0530 - 1340",
+    "location": "Residential level / corridor / Nav Lab approach",
+    "characters": ["Peter Kamau"],
+    "summary": "Five days of compressed postponement (Sol 45-49): Peter rises 0530, walks to Nav Lab without turning toward Kessler's office, closes the warning flag eleven times, takes the long-way corridor at lunch. Notepad migrates onto and off the desk; the rehearsal of three questions becomes a daily ritual until he understands he is rehearsing in order not to ask. On Sol 50 at 1340 he commits one more refactor, takes the notepad out, and walks to Kessler's office before he can find another reason to commit. Corridor warmer than remembered; gray-flour bay closed; Samir not present.",
+    "key_beats": ["five-day postponement compression", "ritualization of rehearsal as avoidance", "Sol 50 1340 commit", "approach corridor"]
+  },
+  {
+    "scene_index": 2,
+    "title": "Office threshold: greeting and three standing questions",
+    "time": "Sol 50, midafternoon",
+    "location": "Kessler's office",
+    "characters": ["Peter Kamau", "Arthur Kessler"],
+    "summary": "Kessler at his desk, unsurprised small smile. Brief small-talk on overnight integrator behavior. Peter sets the notepad faceup, remains standing, and delivers the three questions in the order he rehearsed: why the nav requires stellar drift across millions of years, what kind of mining trajectory does need that, and why he had to come down to ask. Kessler reads the page twice in pleased silence: 'Sit down, Peter. I've been hoping you'd ask.' Peter sits.",
+    "key_beats": ["three-question delivery", "Kessler 'I've been hoping you'd ask'", "transition to seated meeting"]
+  },
+  {
+    "scene_index": 3,
+    "title": "Kessler's pitch — the cover story (full)",
+    "time": "Sol 50, midafternoon",
+    "location": "Kessler's office",
+    "characters": ["Peter Kamau", "Arthur Kessler", "Dr. Vasquez (named)", "nano programmer team (referenced)"],
+    "summary": "Kessler frames the trillion-credit problem (wait time) and presents the mechanism: a small Kerr black hole in a Casimir-stabilized exotic-matter cradle (publicly nicknamed Sun 2.0). Frame-dragging and geodesic injection through the ergosphere line up the Lense-Thirring exit; a 7ms Cauchy-horizon window injects one 0.1g nanomachine into a closed timelike curve several million years deep — sufficiently far that perturbation environments are statistically uncorrelated (paradox-avoidance). The nanomachine is a von Neumann probe; the swarm mines, refines, casts ingots, and launches them on million-year ballistic trajectories caught in the present-day by distributed orbital interceptors (inner-Kuiper, near-Earth, L4/L5 station-keeping). Zero wait time: shipment arrived a million years ago and arrives this morning, both true. Peter's spec rearranges: stellar drift = launch trajectory phase exit-anchor uncertainty; autonomous-operation window = von Neumann growth phase; integration tolerance = cradle headroom. Peter probes interceptor staging; Kessler's cadence shows a small wrongness on Jupiter's chaos boast — same wrongness Peter heard in a smaller key on Sol 44; he holds the breath and lets it go.",
+    "key_beats": ["Kerr+CTC+cradle architecture named", "von Neumann seed-replicate-mine-launch chain", "orbital interceptors staged as if existing (PLANT)", "spec rearranges in Peter's head", "deep-time bleed-through wrongness PLANT"]
+  },
+  {
+    "scene_index": 4,
+    "title": "Capitulation: warmth not intercepted, onboarding, dinner deferred",
+    "time": "Sol 50, midafternoon",
+    "location": "Kessler's office",
+    "characters": ["Peter Kamau", "Arthur Kessler"],
+    "summary": "Peter asks why he had to come down to ask. Kessler explains: shapeless work is not delivered, and the conversation must be earned — Peter earned it on Sol 44 and spent six days deciding whether he wanted it (a competence, not an accusation). The warmth comes up under Peter's ribs and this time he does not intercept it. He asks the schedule: 18 months to first commercial shipment, integrating now. End-of-quarter ask: launch trajectory phase fully tested across the epoch envelope with Vasquez's cradle parameters integrated; then the interceptor approach geometry; then the third thing. Kessler stands, offers his hand: 'Welcome to the project, Peter. The actual project.' Dinner this week.",
+    "key_beats": ["warmth load-bearing acceptance", "earned-conversation framing", "deliverables: launch trajectory + interceptor geometry + 'third thing' (PLANT)", "dinner deferral"]
+  },
+  {
+    "scene_index": 5,
+    "title": "Return to Nav Lab: gray-flour admiration and catch-side-pass-1",
+    "time": "Sol 50, late afternoon (~1400 + ~20 min later)",
+    "location": "Corridor past gray-flour bay -> Nav Lab",
+    "characters": ["Peter Kamau", "nano programmer (gray-flour bay, unnamed)"],
+    "summary": "Peter walks back through corridors no longer unfamiliar. Gray-flour bay door open; the man with the fingerless gloves is at his station; Peter understands now the patient breathing of the medium — a swarm under construction for a million-year working life beyond a 7ms window. What he feels is admiration, not unease. At his workstation he stands a moment, then sits, opens the spec to the second half (interceptor approach geometry — exactly as Kessler said), and reads it without the warning flag in the corner of his attention. He starts a new branch: catch-side-pass-1. He refactors under the new model and the model holds cleanly. Somewhere in the next twenty minutes the soft yellow warning flag clears. It does not flicker; it simply clears. Peter does not notice it go.",
+    "key_beats": ["nano programmer cameo continuity (Ch7 review CH7-MED-01)", "spec second-half reads cleanly under cover-story frame", "catch-side-pass-1 branch created", "warning flag clears unnoticed (dramatic-irony hook)"]
+  }
+]

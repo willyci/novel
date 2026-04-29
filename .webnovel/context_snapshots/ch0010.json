@@ -1,0 +1,451 @@
+{
+  "version": "1.2",
+  "chapter": 10,
+  "saved_at": "2026-04-29T19:42:18.571005+00:00",
+  "payload": {
+    "meta": {
+      "chapter": 10,
+      "context_contract_version": "v2",
+      "ranker": {
+        "enabled": true,
+        "recency_weight": 0.7,
+        "frequency_weight": 0.3,
+        "hook_bonus": 0.2
+      },
+      "context_weight_stage": "early"
+    },
+    "sections": {
+      "core": {
+        "content": {
+          "chapter_outline": "⚠️ 未找到第 10 章的大纲",
+          "protagonist_snapshot": {
+            "name": "Peter Kamau",
+            "power": {
+              "realm": "Expert satellite navigation programmer",
+              "layer": 1,
+              "bottleneck": "Peter has accepted the cover story emotionally and is genuinely embedded in the team; first crack has appeared in the form of a star-chart epoch cluster anomaly that contradicts the cover-story's required generic spread; comparison-tool query is loading against historical epoch catalogues from his Helix-era datapad"
+            },
+            "location": {
+              "current": "Nav Lab, Kuiper Belt Asteroid Base",
+              "last_chapter": 9
+            },
+            "golden_finger": {
+              "name": "Navigation Code Expertise",
+              "level": 1,
+              "cooldown": 0,
+              "skills": [
+                "Stellar cartography",
+                "Satellite trajectory calculation",
+                "Autonomous navigation systems",
+                "Gravitational perturbation modeling",
+                "Kuiper Belt edge-case navigation"
+              ]
+            },
+            "attributes": {},
+            "emotional_state": "integrated belonging seeded with private undeclared disquiet"
+          },
+          "recent_summaries": [
+            {
+              "chapter": 7,
+              "summary": "---\nchapter: 0007\ntitle: \"The Professor\"\ntime: \"Sol 44, morning into late morning/midday\"\nlocation: \"Kuiper Belt Asteroid Base — residential level, corridors, nano programming bay, Kessler's office, Nav Lab\"\ncharacters: [\"Peter Kamau\", \"Samir\", \"Arthur Kessler\", \"Dr. Elena Vasquez\", \"nano programmer (unnamed)\", \"lab assistant (unnamed)\"]\nstate_changes:\n  - \"Peter: compartmentalized professional alarm -> quiet resolve to ask Arthur directly tomorrow\"\n  - \"Peter: Samir presumed project lead -> Kessler is the actual project lead; code is Kessler's, Samir is sidelined\"\n  - \"Vasquez: mentioned only -> on-page; technical-only register; demanded sub-2ms timing tolerance and accelerator output frame referenced to Peter's trajectory frame\"\n  - \"Kessler: unintroduced -> introduced as warm mentor; Vol 2 large antagonist established\"\nhook_type: \"suspense_hook\"\nhook_variant: \"decision-point\"\nhook_strength: \"strong\"\nopening_type: \"character_introduction+interior_monologue\"\ninfo_density: \"medium-high\"\nemotion_arc: \"compartmentalized -> curious recognition -> warmth seduction -> resurgent unease -> quiet resolve\"\nreview_score: 92.5\nword_count_approx: 2260\n---\n\n## Plot Summary\nSol 44. Peter has settled into a four-morning routine in the Nav Lab where his workstation runs perturbation simulations against epoch references he has not authorized; he has been closing a yellow reference-frame anachronism flag twice a day and lying to himself that the architecture will eventually make sense. Samir intercepts him with second coffee in hand: \"the project lead would like to meet you\" — phrasing that reorganizes Peter's mental map, since he had assumed Samir was the project lead. They walk a new corridor past a stenciled MANUFACTURING door and an open bay where three programming stations face a clear-walled containment full of gray-flour medium rippling slowly; a man in fingerless gloves types self-replicating-routine code and presses two fingertips to a containment port the way a parent touches a sleeping child's forehead. Dr. Elena Vasquez (Accelerator Integration) emerges from a side passage, briefs Peter on integration parameters in a clipped technical register, and gives a tell — \"Higher than you'll need\" — when he asks the bus rating. A short, tired-eyed lab assistant carrying two paper cups passes by calling \"Morning, Professor\" toward the open office door.\n\nPeter enters Arthur Kessler's office: not a startup CEO's curated theater but three walls of well-read paper books and a fourth wall of terrestrial expedition photos (coral reef, low-tide shoreline, jungle clearing, mossy survey camp). On the bare desk: a working terminal showing the trajectory simulation, and a single fragment of pale branched coral on a small glass stand, no label. Kessler is sixty-ish, iron-gray hair, dark unhurried eyes, the physical economy of someone who lived in the field. He greets Peter warmly, insists on \"Arthur,\" and immediately discusses Peter's perturbation cluster commit with informed pleasure — \"It makes the failure mode legible\" — and tells him three other people had looked at that architecture and none touched the anchors. Warmth comes up under Peter's ribs before he can intercept it. Kessler murmurs, almost to himself, \"I used to teach. Students like you would have made my office hours bearable.\" They talk thirty minutes; Kessler asks about Helix, the de-orbit work, the six months after, and Peter's grandfather's name without pity-curiosity. He uses phrases like *deep time*, *epoch-true reference*, and *operations on geological scales* in the way other people say *quarterly*. As Peter rises to leave, Kessler hesitates — small enough Peter will later not be sure he saw it — and says: anything in the code that doesn't make sense, bring directly to me. Not Samir. The code is mine, not his.\n\nPeter walks back through the now-familiar corridors, past the gray-flour bay and the still-typing programmer, and sits at his workstation a long time without opening anything. Then he reopens the project specs, rereads the reference-epoch section, confirms the nav code is required to maintain stellar drift correction across reference frames spanning *millions of years* — not a typo, not a units error, no commercial mining trajectory has ever required this. He thinks about Kessler's hands when he said *operations on geological scales*, the coral fragment, the gloved man's parental gesture. He makes himself look directly at the part he had been avoiding: he likes Arthur Kessler, and he wants the project to make sense, and these two things are not the same thing. He takes the paper notepad from the drawer (an affectation in 2543, here for fire drills) and writes three lines in his small square print: *Why does the nav require stellar positions millions of years deep? / Whose mining trajectory has ever needed that? / Ask Arthur. Tomorrow morning. First thing.* He turns the page facedown and sets the notepad to the left of the keyboard. The yellow warning flag flickers once, almost shyly, and resolves.\n\n## Foreshadowing\n- [PLANT] Coral fragment on Kessler's desk — payoff Ch9-10\n- [PLANT] Kessler \"I used to teach\" — payoff Ch9\n- [PLANT, light] Lab assistants address Kessler as \"Professor\" — deference seed\n- [PLANT, light] Kessler's deep-time vocabulary fluency (deep time / epoch-true reference / operations on geological scales) — seeds Ch8 cover-story plausibility\n- [PLANT, political] Kessler instructs Peter to bring code anomalies directly to him, not Samir — sidelining Samir's information channel\n- [ADVANCE] Stellar drift requirement explicitly named as red flag — originated Ch6, now confirmed and Peter committed to confront\n- [PLANT] Vasquez evasion — \"Higher than you'll need\" — accelerator overspecified for asteroid mining\n\n## Open Questions Carried to Ch8\n- Why does the nav code require stellar positions millions of years deep?\n- Why does a \"mining entrepreneur\" talk like a paleontologist?\n- What will Kessler answer when Peter asks tomorrow morning?\n\n## Bridge to Next Chapter\nPeter has set the notepad facedown to the left of his keyboard and resolved to ask Arthur first thing the next morning; Ch8 opens on that confrontation and Kessler's prepared cover story.\n"
+            },
+            {
+              "chapter": 9,
+              "summary": "---\nchapter: 0009\ntitle: \"Belonging\"\ntime: \"Sol 51-58, late evening\"\nlocation: \"Kuiper Belt Asteroid Base (galley → Kessler office → Nav Lab)\"\ncharacters: [\"Peter Kamau\", \"Arthur Kessler\", \"Oren\", \"Dr. Vasquez\", \"lab assistant\", \"materials team woman\", \"supply pilot relief\"]\nstate_changes:\n  - \"Peter: power.bottleneck → cover-story emotionally accepted; first crack via epoch cluster anomaly; comparison-tool query loading\"\n  - \"Peter: emotional_state → integrated belonging seeded with private undeclared disquiet\"\n  - \"coral_fragment: provenance → Miriam's underwater village near Mombasa-coast Kenya (51 years on her writing table)\"\n  - \"nav_branch_catch_side_pass_1: completion_state → nearly complete by Sol 58; epoch cluster is a line not a smear\"\n  - \"stellar_cartography_comparison_tool: state → loading query against historical epoch catalogues\"\nhook_type: \"suspense_hook\"\nhook_variant: \"clandestine-investigation-initiated\"\nhook_strength: \"strong\"\nreview_score: 95.2\nword_count: 2019\n---\n\n## 剧情摘要\nEight days compress into integration: catch-side-pass-1 is nearly complete, Vasquez has folded Peter's timing tweak into the cradle, Oren saves him a galley seat, and the soft yellow warning flag is gone from his left display. On Sol 58 Kessler pulls him to dinner with six of nine crew (Oren teases his branch-naming, Vasquez almost-smiles), then walks him to his office and tells him the long answer — Earth six times, his marine-biologist grandmother Miriam (whose village relic the coral fragment is), the Andaman Fragment's death, the 2525 Mars Government reclassification that defunded him, his wife leaving in 2527, the Tharsis basement lab, the 2535 private donor offer, and the mirror line: \"I spent my life watching humanity destroy the most beautiful thing in the universe. This project is my chance to build something instead.\" Peter privately recognizes Kessler as a possible future self, says only \"Thank you for telling me,\" and walks back to the Nav Lab past the closed gray-flour bay door. He runs his routine pre-bed consistency check; the cluster holds. Then on a habit of attention he asks a different question — and finds the reference epochs are not distributed across the cover-story's million-year envelope but clustered tightly around a single point in deep time. A line, not a smear. He pulls down the stellar-cartography comparison tool he hasn't run since Helix, queries the cluster's barycentric center against historical epoch catalogues on his eight-year-old datapad, and a small progress bar opens — quietly, where the warning flag used to live — and begins to load.\n\n## 伏笔\n- [回收] F-CH7-CONT-GRANDFATHER → \"Kamau Mwangi\", Mombasa\n- [回收] F-CH8-PLANT-MIRROR-CUE → \"someone who could be told it without being lost\"\n- [回收] F-CH8-PLANT-DEEPTIME-BLEED → marine biologist + paleontologist of a sort, made explicit\n- [埋设] F-CH9-PLANT-EPOCH-CLUSTER → reference epochs cluster around single point in deep time, narrower than cover-story tolerance permits; Peter has not yet decoded the epoch\n- [埋设] F-CH9-PLANT-COMPARISON-TOOL-LOADING → clandestine query against historical epoch catalogues is loading at chapter end\n- [埋设] F-CH9-PLANT-MIRIAM-CORAL → coral fragment is grandmother's village relic; Andaman Fragment dead; Kessler's grief is real\n- [埋设] F-CH9-PLANT-PETER-KESSLER-MIRROR → Peter sees Kessler as possible future self; only difference is one chose action\n- [埋设] F-CH9-PLANT-KESSLER-WIFE → Kessler's wife left in 2527, single mention\n- [推进] F-CH8-PLANT-THIRD-THING → Kessler again defers (\"We'll talk about the third thing soon\")\n- [推进] F-CH8-PLANT-INTERCEPTORS → reader-held; Peter has not yet tested\n\n## 承接点\nComparison-tool query is loading; next chapter opens on what the historical epoch catalogues return — and on whether Peter follows it through.\n"
+            },
+            {
+              "chapter": 8,
+              "summary": "---\nchapter: 0008\ntitle: \"The Pitch\"\ntime: \"Sol 45 -> Sol 50, late afternoon\"\nlocation: \"Kuiper Belt Asteroid Base — corridor, Kessler's office, Nav Lab\"\ncharacters: [\"Peter Kamau\", \"Arthur Kessler\", \"Dr. Vasquez (mentioned)\", \"Samir (mentioned)\", \"nano programmer (cameo, gray-flour bay)\"]\nstate_changes:\n  - \"Peter: quiet resolve under unease -> buoyant capitulation under dramatic irony\"\n  - \"Peter location: Nav Lab confirmed, last_chapter=8\"\n  - \"Peter bottleneck: confront Kessler -> accepted cover-story; refactoring under time-travel + interceptor model\"\n  - \"Sun 2.0 prototype: stolen energy source -> Casimir-stabilized exotic-matter cradle for Kerr black hole\"\n  - \"Kepler-7 accelerator: in-transit -> on-site Kerr-cradle harness, 7ms window\"\n  - \"Code branch created: catch-side-pass-1\"\nhook_type: \"desire_hook (with dramatic-irony underlay)\"\nhook_strength: \"strong\"\nreview_score: 88.4\nwords: 2271\n---\n\n## 剧情摘要\nFive days of postponement (Sol 45-49) compress before Peter commits on Sol 50 and walks to Kessler's office. Standing, he delivers three rehearsed questions about why the nav code requires stellar drift across millions of years. Kessler — pleased, unhurried — invites him to sit and delivers the project's full cover story: a small Kerr black hole held in a Casimir-stabilized exotic-matter cradle (publicly nicknamed Sun 2.0), opened by Vasquez's cradle parameters and Peter's nav code through a 7ms Cauchy-horizon window into a closed timelike curve, depositing one 0.1g von Neumann nanomachine several million years deep. The seed replicates into a swarm that mines, refines, casts ingots, and launches them on million-year ballistic trajectories caught in the present by distributed orbital interceptors (inner-Kuiper, near-Earth, L4/L5). Zero wait time. The bizarre spec is reframed: launch trajectory phase + interceptor approach geometry. Peter's ribs warm; he does not intercept the warmth. Kessler welcomes him to \"the actual project,\" defers a \"third thing,\" and proposes dinner. Returning past the gray-flour bay, Peter looks at the nano programmer's swarm-in-construction with admiration, not unease. At his workstation he opens a new branch, *catch-side-pass-1*, and refactors cleanly under the new model. The soft yellow warning flag clears; he does not notice it go.\n\n## 伏笔\n- [PLANT, carry to Ch10] Orbital interceptors named explicitly by Kessler as if they exist (distributed inner-Kuiper / near-Earth / L4-L5) — Ch10 reveal: no such system exists.\n- [PLANT, carry to Ch9] Kessler's deep-time / Jupiter-chaos academic-passion bleed-through (line 79 boast \"We were the first to thread it\" + softened line 81 \"small wrongness\" Peter holds and lets go). Reader-perceptible, not Peter-detected.\n- [PLANT, carry to Ch9] Mirror-cue in Kessler's tone — \"someone who sees the system the way you see it\" register.\n- [PLANT, carry to Ch10+] The \"third thing\" deferred at meeting close (after launch trajectory phase + interceptor approach geometry).\n- [CARRY, from Ch7] Kessler's earlier resume question about Peter's grandfather's name still unresolved.\n- [PSEUDO-RESOLVE] Stellar drift millions-of-years requirement (Ch6+Ch7 plant) — pseudo-resolved by cover story.\n- [PSEUDO-RESOLVE] Vasquez \"higher than you'll need\" tolerance (Ch7 plant) — pseudo-resolved as Casimir cradle headroom.\n- [CONTINUITY] Nano programmer in gray-flour bay passes through Ch8 line 105 unnamed; tracking continues per Ch7 review CH7-MED-01.\n\n## 承接点\nCh9 opens on Peter inside the cover-story frame; the deep-time bleed-through, mirror-cue, and grandfather thread surface for new probing.\n"
+            }
+          ],
+          "recent_meta": [
+            {
+              "chapter": 9,
+              "hook": {
+                "type": "suspense_hook",
+                "variant": "clandestine-investigation-initiated",
+                "content": "Peter, on a habit of attention he could not have explained at the time, asks the integrator a different question — and finds the reference epochs are not distributed across the cover-storys million-year envelope but clustered tightly around a single point in deep time. A line, not a smear. He pulls down the stellar-cartography comparison tool he has not run since Helix and queries the historical epoch catalogues on his eight-year-old datapad. A small progress bar opens, quietly, where the warning flag used to live, and begins to load.",
+                "strength": "strong"
+              },
+              "pattern": {
+                "opening": "scene_setting+interior_monologue",
+                "opening_note": "multi-day belonging compression Sol 51-57 + Sol 58 1830 corridor catch",
+                "hook": "suspense_hook",
+                "emotion_rhythm": "compressed-contentment->galley-warmth->controlled-intimacy->mirror-recognition->habitual-diligence->soft-undeclared-disquiet",
+                "info_density": "medium"
+              },
+              "ending": {
+                "time": "Sol 58, late evening",
+                "location": "Nav Lab, Kuiper Belt Asteroid Base",
+                "emotion": "disquiet under load"
+              }
+            },
+            {
+              "chapter": 8,
+              "hook": {
+                "type": "desire_hook",
+                "content": "Peter starts catch-side-pass-1 under the cover-story frame; the model holds cleanly; the soft yellow warning flag in the corner of his left display clears, and he does not notice it go. End-of-quarter deliverables (launch trajectory phase, then interceptor approach geometry) and a deferred 'third thing' pull him forward — under dramatic irony, since the orbital interceptors do not exist.",
+                "strength": "strong",
+                "underlay": "dramatic_irony"
+              },
+              "pattern": {
+                "opening": "scene_setting+interior_monologue",
+                "opening_note": "postponement compression Sol 45-49, then Sol 50 commit",
+                "hook": "desire_hook_with_dramatic_irony_underlay",
+                "emotion_rhythm": "postponement->tightened-resolve->guarded-probing->technical-absorption->dawning-relief->surrendered-excitement->buoyant-engagement",
+                "info_density": "high"
+              },
+              "ending": {
+                "time": "Sol 50, ~ 1400 + ~20 minutes",
+                "location": "Nav Lab, Kuiper Belt Asteroid Base",
+                "emotion": "buoyant capitulation under dramatic irony"
+              }
+            },
+            {
+              "chapter": 7,
+              "hook": {
+                "type": "suspense_hook",
+                "content": "Peter writes three questions on the paper notepad: Why does the nav require stellar positions millions of years deep? Whose mining trajectory has ever needed that? Ask Arthur. Tomorrow morning. First thing. Turns the page facedown; the yellow warning flag flickers and resolves. Decision-point variant: tomorrows answer will reframe everything.",
+                "strength": "strong"
+              },
+              "pattern": {
+                "opening": "character_introduction+interior_monologue",
+                "hook": "suspense_hook",
+                "emotion_rhythm": "compartmentalized->curious_recognition->warmth_seduction->resurgent_unease->quiet_resolve",
+                "info_density": "medium-high"
+              },
+              "ending": {
+                "time": "Sol 44, late morning/midday",
+                "location": "Nav Lab, Kuiper Belt Asteroid Base",
+                "emotion": "quiet resolve under unease"
+              }
+            }
+          ]
+        },
+        "text": "{\"chapter_outline\": \"⚠️ 未找到第 10 章的大纲\", \"protagonist_snapshot\": {\"name\": \"Peter Kamau\", \"power\": {\"realm\": \"Expert satellite navigation programmer\", \"layer\": 1, \"bottleneck\": \"Peter has accepted the cover story emotionally and is genuinely embedded in the team; first crack has appeared in the form of a star-chart epoch cluster anomaly that contradicts the cover-story's required generic spread; comparison-tool query is loading against historical epoch catalogues from his Helix-era datapad\"}, \"location\": {\"current\": \"Nav Lab, Kuiper Belt Asteroid Base\", \"last_chapter\": 9}, \"golden_finger\": {\"name\": \"Navigation Code Expertise\", \"level\": 1, \"cooldown\": 0, \"skills\": [\"Stellar cartography\", \"Satellite trajectory calculation\", \"Autonomous navigation systems\", \"Gravitational perturbation modeling\", \"Kuiper Belt edge-case navigation\"]}, \"attributes\": {}, \"emotional_state\": \"integrated belonging seeded with private undeclared disquiet\"}, \"recent_summaries\": [{\"chapter\": 7, \"summary\": \"---\\nchapter: 0007\\ntitle: \\\"The Professor\\\"\\ntime: \\\"Sol 44, morning into late morning/midday\\\"\\nlocation: \\\"Kuiper Belt Asteroid Base — residential level, corridors, nano programming bay, Kessler's office, Nav Lab\\\"\\ncharacters: [\\\"Peter Kamau\\\", \\\"Samir\\\", \\\"Arthur Kessler\\\", \\\"Dr. Elena Vasquez\\\", \\\"nano programmer (unnamed)\\\", \\\"lab assistant (unnamed)\\\"]\\nstate_changes:\\n  - \\\"Peter: compartmentalized professional alarm -> quiet resolve to ask Arthur directly tomorrow\\\"\\n  - \\\"Peter: Samir presumed project lead -> Kessler is the actual project lead; code is Kessler's, Samir is sidelined\\\"\\n  - \\\"Vasquez: mentioned only -> on-page; technical-only register; demanded sub-2ms timing tolerance and accelerator output frame referenced to Peter's trajectory frame\\\"\\n  - \\\"Kessler: unintroduced -> introduced as warm mentor; Vol 2 large antagonist established\\\"\\nhook_type: \\\"suspense_hook\\\"\\nhook_variant: \\\"decision-point\\\"\\nhook_strength: \\\"strong\\\"\\nopening_type: \\\"character_introduction+interior_monologue\\\"\\ninfo_density: \\\"medium-high\\\"\\nemotion_arc: \\\"compartmentalized -> curious recognition -> warmth seduction -> resurgent unease -> quiet resolve\\\"\\nreview_score: 92.5\\nword_count_approx: 2260\\n---\\n\\n## Plot Summary\\nSol 44. Peter has settled into a four-morning routine in the Nav Lab where his workstation runs perturbation simulations against epoch references he has not authorized; he has been closing a yellow reference-frame anachronism flag twice a day and lying to himself that…[TRUNCATED]}, \"pattern\": {\"opening\": \"scene_setting+interior_monologue\", \"opening_note\": \"postponement compression Sol 45-49, then Sol 50 commit\", \"hook\": \"desire_hook_with_dramatic_irony_underlay\", \"emotion_rhythm\": \"postponement->tightened-resolve->guarded-probing->technical-absorption->dawning-relief->surrendered-excitement->buoyant-engagement\", \"info_density\": \"high\"}, \"ending\": {\"time\": \"Sol 50, ~ 1400 + ~20 minutes\", \"location\": \"Nav Lab, Kuiper Belt Asteroid Base\", \"emotion\": \"buoyant capitulation under dramatic irony\"}}, {\"chapter\": 7, \"hook\": {\"type\": \"suspense_hook\", \"content\": \"Peter writes three questions on the paper notepad: Why does the nav require stellar positions millions of years deep? Whose mining trajectory has ever needed that? Ask Arthur. Tomorrow morning. First thing. Turns the page facedown; the yellow warning flag flickers and resolves. Decision-point variant: tomorrows answer will reframe everything.\", \"strength\": \"strong\"}, \"pattern\": {\"opening\": \"character_introduction+interior_monologue\", \"hook\": \"suspense_hook\", \"emotion_rhythm\": \"compartmentalized->curious_recognition->warmth_seduction->resurgent_unease->quiet_resolve\", \"info_density\": \"medium-high\"}, \"ending\": {\"time\": \"Sol 44, late morning/midday\", \"location\": \"Nav Lab, Kuiper Belt Asteroid Base\", \"emotion\": \"quiet resolve under unease\"}}",
+        "budget": 3840
+      },
+      "scene": {
+        "content": {
+          "location_context": {
+            "current": "Nav Lab, Kuiper Belt Asteroid Base",
+            "last_chapter": 9
+          },
+          "appearing_characters": [
+            {
+              "entity_id": "arthur_kessler",
+              "last_chapter": 9,
+              "total": 2
+            },
+            {
+              "entity_id": "dr_vasquez",
+              "last_chapter": 9,
+              "total": 2
+            },
+            {
+              "entity_id": "kuiper_belt_base",
+              "last_chapter": 9,
+              "total": 2
+            },
+            {
+              "entity_id": "andaman_fragment",
+              "last_chapter": 9,
+              "total": 1
+            },
+            {
+              "entity_id": "coral_fragment",
+              "last_chapter": 9,
+              "total": 1
+            },
+            {
+              "entity_id": "kamau_mwangi",
+              "last_chapter": 9,
+              "total": 1
+            },
+            {
+              "entity_id": "kessler_office",
+              "last_chapter": 9,
+              "total": 1
+            },
+            {
+              "entity_id": "miriam",
+              "last_chapter": 9,
+              "total": 1
+            },
+            {
+              "entity_id": "nano_bay",
+              "last_chapter": 9,
+              "total": 1
+            },
+            {
+              "entity_id": "nano_programmer",
+              "last_chapter": 9,
+              "total": 1
+            }
+          ]
+        },
+        "text": "{\"location_context\": {\"current\": \"Nav Lab, Kuiper Belt Asteroid Base\", \"last_chapter\": 9}, \"appearing_characters\": [{\"entity_id\": \"arthur_kessler\", \"last_chapter\": 9, \"total\": 2}, {\"entity_id\": \"dr_vasquez\", \"last_chapter\": 9, \"total\": 2}, {\"entity_id\": \"kuiper_belt_base\", \"last_chapter\": 9, \"total\": 2}, {\"entity_id\": \"andaman_fragment\", \"last_chapter\": 9, \"total\": 1}, {\"entity_id\": \"coral_fragment\", \"last_chapter\": 9, \"total\": 1}, {\"entity_id\": \"kamau_mwangi\", \"last_chapter\": 9, \"total\": 1}, {\"entity_id\": \"kessler_office\", \"last_chapter\": 9, \"total\": 1}, {\"entity_id\": \"miriam\", \"last_chapter\": 9, \"total\": 1}, {\"entity_id\": \"nano_bay\", \"last_chapter\": 9, \"total\": 1}, {\"entity_id\": \"nano_programmer\", \"last_chapter\": 9, \"total\": 1}]}",
+        "budget": 3120
+      },
+      "global": {
+        "content": {
+          "worldview_skeleton": "# 世界观设定\n\n## 世界一句话\nIn 2543, humanity has fled a ruined Earth to colonize Mars, where advanced technology enables time travel—but moral extremism threatens to erase human existence entirely.\n\n## 题材融合点（复合题材可填）\n- 主题材：Hard Sci-Fi (time travel, nanotechnology)\n- 副题材：Moral thriller / techno-heist\n- 融合机制：Hard science (micro black holes, nanomachines, orbital mechanics) provides the mechanism; moral philosophy provides the stakes.\n\n## 世界结构\n- 大陆/位面数量：Solar system — Earth (declining), Mars (civilization hub), Kuiper Belt (mining frontier)\n- 核心区域：Mars — primary human settlement, research labs, corporate HQs\n- 边缘区域：Kuiper Belt — asteroid mining operations, lawless frontier; Earth — degraded but still has museums/historical sites\n\n## 势力格局\n- 核心势力：\n  - Mars Government — regulates technology, tracks particle accelerators, enforces animal contraband laws\n  - SpaceNano Corporation — dominant mining company, CEO Nova Synapse, deploys nanomachine tech to asteroids\n  - National Energy Laboratory — government-backed, develops \"Sun 2.0\" clean energy, director Michael Jones\n- 次级势力：\n  - Radical animal rights group (unnamed) — underground extremists, the antagonist faction\n  - Black market networks — Joe and others, trade in contraband (animals, stolen tech)\n- 敌对/中立关系：Government vs. black market; animal rights group operates in secret against all of society\n- 宗门/组织层级：Corporate hierarchy (CEO/directors/engineers/workers); Government bureaucracy; Underground cell structure for the radical group\n\n## 社会结构\n- 社会阶层：Corporate elite (CEOs, directors) > Scientists/Engineers > Workers (Bob, Steve) > Displaced workers (Peter, replaced by AI)\n- 资源分配规则：Corporate-driven economy; mining resources shipped from Kuiper Belt to Mars; AI replacing human labor\n- 信仰/意识形态：Mainstream — human progress and survival; Radical fringe — animal life is sacred, humanity is a plague\n\n## 历史年表（关键节点）\n- ~2200s: Earth's environmental collapse accelerates, Mars colonization begins\n- ~2400s: Mars becomes primary civilization hub; genetic modifications for Mars-born humans\n- ~2500s: Kuiper Belt mining boom; SpaceNano pioneers nanomachine mining\n- 2543: Present day — AI displaces human workers; \"Sun 2.0\" energy project active; radical group begins their heist plan\n- 67 million years ago: Target era — the Chicxulub asteroid that killed the dinosaurs\n\n## 核心规则\n- 资源稀缺性：Energy is the bottleneck — micro black holes require enormous instantaneous energy release (\"Sun 2.0\")\n- 政治/宗门规则：Government tracks all particle accelerators; animal ownership is illegal on Mars (100 sols imprisonment)\n- 社会常识/禁忌：AI has replaced dangerous/remote human jobs; DNA traces must be destroyed after illegal transactions\n- 硬约束（不可违背）：\n  - Time travel requires: particle accelerator + exotic matter energy source + nanomachine payload\n  - Nanomachines require complex activation process — dormant without it\n  - Once sent through the black hole, no recall or communication is possible\n  - The 0.01 degree change is the minimum viable deflection — no precision beyond that\n\n## 世界运转机制\n- 能量/资源循环：Asteroids mined by nanomachines → ingots shipped to Moon Station 19 → distributed to Mars\n- 技术/法术基础：Nanotechnology (self-replicating machines), AI navigation, micro black hole generation, genetic modification, neural implants\n- 公平性与代价规则：Technology is powerful but requires massive infrastructure; stolen tech is useless without activation codes/energy sources\n\n## 货币与经济\n- 货币体系：Credits (digital currency)\n- 兑换规则：Standard solar economy\n- 主要流通形态：Electronic credits\n- 交易场景：Corporate contracts, black market deals (Joe's transactions), worker wages\n\n## 地理版图\n- 重要地点清单：\n  - Earth's Natural History Museum (field trip location, Ch1)\n  - Mars warehouse/logistics hub (Ch2, nanomachine theft)\n  - Mars Energy Research Laboratory (Ch4, \"Sun 2.0\" location)\n  - Old particle accelerator facility (Ch3, near a power plant)\n  - Secret Kuiper Belt asteroid lab (antagonist base)\n  - Moon Station 19 (mining ingot receiving station)\n- 关键资源点：Kuiper Belt asteroids (mining); Mars labs (technology)\n\n### Kuiper Belt Asteroid Base (Vol 2+)\n- Location: A hollowed-out asteroid in the outer Kuiper Belt, far from shipping lanes\n- Disguised as: An independent deep-space research outpost / mining R&D facility\n- Infrastructure: Living quarters for ~10 people, lab space, particle accelerator chamber, nanomachine programming bay, cargo dock, communications array (delayed relay to Mars)\n- Power: Solar collectors + stored energy cells; Sun 2.0 reserved for the main experiment\n- Isolation: 2-3 week travel from Mars by cargo shuttle; communication delay of hours\n- Security: No external oversight; the base doesn't officially exist\n- Atmosphere: Cramped, utilitarian, functional — a submarine in space\n\n## 日常生活\n- 货币/交易方式：Credits (digital); black market uses physical exchanges\n- 交通/通信：Spaceships between planets; neural implant communication; TV news broadcasts\n- 教育/职业体系：Schools with field trips (Sarah's class); programmers, warehouse workers, scientists; AI rapidly displacing human jobs (planetary navigators)\n",
+          "power_system_skeleton": "# 力量体系设定\n\n## 体系公理\n- 核心信条/定律：Technology is the sole source of power; no magic, no supernatural. All capabilities derive from engineering and physics.\n- 代价规则：Every technology has a resource cost — energy, time, infrastructure, or moral compromise.\n- 公平性原则：Anyone with knowledge and resources can wield technology; the radical group's advantage comes from stolen tech, not innate ability.\n\n## 体系类型\n- 体系类型：Hard sci-fi technology tiers\n- 典型境界链：N/A (no cultivation; technology levels instead)\n- 小境界划分：N/A\n\n## 能力来源\n- 能量/资源来源：Solar energy, asteroid minerals, \"Sun 2.0\" experimental energy\n- 训练/修炼方法：Scientific education, programming skill, engineering expertise\n- 社会控制机制：Corporations control tech deployment; government tracks dangerous equipment (particle accelerators)\n\n## 等级体系 (Technology Tiers)\n- Tier 1 — Consumer tech: Neural implants, genetic modifications, basic AI\n- Tier 2 — Industrial tech: Self-replicating nanomachines, asteroid mining systems, AI planetary navigation\n- Tier 3 — Experimental tech: \"Sun 2.0\" energy source, particle accelerator (micro black hole generation)\n- Tier 4 — Theoretical/forbidden: Time travel via micro black hole + nanomachine payload\n\n## 晋级条件\n- 资源要求：Each tier requires exponentially more energy and infrastructure\n- 突破方式：Scientific breakthroughs + resource acquisition\n- 失败代价：Lab explosions (National Energy Lab incident), job loss (Peter), imprisonment (100 sols for contraband)\n- 越级代价：Stealing tech = criminal prosecution; using experimental tech without proper setup = catastrophic failure\n\n## 资源系统\n- 核心资源类型：\n  - Energy (especially instantaneous high-energy release for black holes)\n  - Nanomachines (self-replicating, but require activation)\n  - Exotic matter (\"Sun 2.0\")\n  - Particle accelerators (create micro black holes for ~7 milliseconds)\n  - Programming expertise (Peter's satellite navigation code)\n- 资源获取方式：Corporate supply chains, theft, black market\n- 稀缺性规则：\"Sun 2.0\" is one-of-a-kind experimental; particle accelerators are government-tracked\n- 替代路径/灰色交易：Steve/Joe black market chain; buying decommissioned equipment under false pretenses (Dr. Freeman)\n\n## Key Technologies\n\n### Self-Replicating Nanomachines\n- Designed for asteroid mining\n- Dormant without complex activation process (\"just like dust\")\n- One survivor can bootstrap: mine → replicate → build larger machines → survey → refine → ship\n- Shot from cannons to asteroid surfaces in glass tubes\n- Over centuries: can self-replicate into a functional satellite with scanning + ion propulsion\n\n### \"Sun 2.0\"\n- Experimental clean energy source from National Energy Laboratory\n- Can release all energy in an instant — required for micro black hole generation\n- Stolen by radical group (lab explosion as cover)\n\n### Particle Accelerator\n- Creates micro black holes lasting ~7 milliseconds\n- Requires enormous power (originally located next to a power plant)\n- Government tracks all units; old model acquired under false pretenses\n\n### Micro Black Hole (Time Travel Mechanism)\n- Generated by particle accelerator + \"Sun 2.0\" energy\n- Nanomachine passes through → emerges 67 million years in the past\n- One-way trip; no communication possible after transit\n\n## 战斗规则\n- N/A (not a combat-focused story; conflicts are technological, moral, and intellectual)\n\n## 禁忌与限制\n- 禁术/禁地：Time travel itself is the ultimate forbidden technology\n- 高阶限制：Micro black holes last only 7 milliseconds — extremely narrow window\n- 硬限制（不可绕过）：\n  - Cannot communicate with the past once nanomachine is sent\n  - Nanomachine must operate autonomously for ~1 million years\n  - Satellite cannot verify trajectory while in asteroid's shadow\n  - 0.01 degree precision is the limit of ion propulsion deflection\n\n## 体系漏洞与利用\n- 漏洞：The satellite navigation AI trusts its programming blindly — if the code says -0.01, it executes -0.01\n- 主角如何利用：Peter inserts a conditional bug — if timestamp is in the past, reverse the trajectory sign\n- 反派如何反制：They don't catch the bug because Peter is the domain expert they hired\n\n## 反馈节奏\n- 境界变化节点：N/A\n- 读者可感知的战力差距展示方式：Knowledge asymmetry — who knows the true plan, who can sabotage it\n",
+          "style_contract_ref": "[风格契约设定未找到]"
+        },
+        "text": "{\"worldview_skeleton\": \"# 世界观设定\\n\\n## 世界一句话\\nIn 2543, humanity has fled a ruined Earth to colonize Mars, where advanced technology enables time travel—but moral extremism threatens to erase human existence entirely.\\n\\n## 题材融合点（复合题材可填）\\n- 主题材：Hard Sci-Fi (time travel, nanotechnology)\\n- 副题材：Moral thriller / techno-heist\\n- 融合机制：Hard science (micro black holes, nanomachines, orbital mechanics) provides the mechanism; moral philosophy provides the stakes.\\n\\n## 世界结构\\n- 大陆/位面数量：Solar system — Earth (declining), Mars (civilization hub), Kuiper Belt (mining frontier)\\n- 核心区域：Mars — primary human settlement, research labs, corporate HQs\\n- 边缘区域：Kuiper Belt — asteroid mining…[TRUNCATED]01, it executes -0.01\\n- 主角如何利用：Peter inserts a conditional bug — if timestamp is in the past, reverse the trajectory sign\\n- 反派如何反制：They don't catch the bug because Peter is the domain expert they hired\\n\\n## 反馈节奏\\n- 境界变化节点：N/A\\n- 读者可感知的战力差距展示方式：Knowledge asymmetry — who knows the true plan, who can sabotage it\\n\", \"style_contract_ref\": \"[风格契约设定未找到]",
+        "budget": 1040
+      },
+      "reader_signal": {
+        "content": {
+          "recent_reading_power": [],
+          "pattern_usage": {},
+          "hook_type_usage": {},
+          "review_trend": {
+            "count": 5,
+            "overall_avg": 90.32,
+            "dimension_avg": {
+              "设定一致性": 9.4,
+              "连贯性": 9.42,
+              "人物塑造": 9.0,
+              "追读力": 8.82,
+              "高点强度": 9.5,
+              "爽点密度": 7.35,
+              "节奏控制": 7.9
+            },
+            "severity_totals": {
+              "critical": 1,
+              "high": 0,
+              "medium": 7,
+              "low": 29
+            },
+            "recent_ranges": [
+              {
+                "start_chapter": 9,
+                "end_chapter": 9,
+                "overall_score": 95.2
+              },
+              {
+                "start_chapter": 8,
+                "end_chapter": 8,
+                "overall_score": 88.4
+              },
+              {
+                "start_chapter": 7,
+                "end_chapter": 7,
+                "overall_score": 92.5
+              },
+              {
+                "start_chapter": 6,
+                "end_chapter": 6,
+                "overall_score": 87.0
+              },
+              {
+                "start_chapter": 5,
+                "end_chapter": 5,
+                "overall_score": 88.5
+              }
+            ]
+          },
+          "low_score_ranges": [],
+          "next_chapter": 10
+        },
+        "text": "{\"recent_reading_power\": [], \"pattern_usage\": {}, \"hook_type_usage\": {}, \"review_trend\": {\"count\": 5, \"overall_avg\": 90.32, \"dimension_avg\": {\"设定一致性\": 9.4, \"连贯性\": 9.42, \"人物塑造\": 9.0, \"追读力\": 8.82, \"高点强度\": 9.5, \"爽点密度\": 7.35, \"节奏控制\": 7.9}, \"severity_totals\": {\"critical\": 1, \"high\": 0, \"medium\": 7, \"low\": 29}, \"recent_ranges\": [{\"start_chapter\": 9, \"end_chapter\": 9, \"overall_score\": 95.2}, {\"start_chapter\": 8, \"end_chapter\": 8, \"overall_score\": 88.4}, {\"start_chapter\": 7, \"end_chapter\": 7, \"overall_score\": 92.5}, {\"start_chapter\": 6, \"end_chapter\": 6, \"overall_score\": 87.0}, {\"start_chapter\": 5, \"end_chapter\": 5, \"overall_score\": 88.5}]}, \"low_score_ranges\": [], \"next_chapter\": 10}",
+        "budget": 800
+      },
+      "genre_profile": {
+        "content": {
+          "genre": "科幻",
+          "genre_raw": "科幻",
+          "genres": [
+            "科幻"
+          ],
+          "composite": false,
+          "secondary_genres": [],
+          "profile_excerpt": "",
+          "taxonomy_excerpt": "",
+          "secondary_profile_excerpts": [],
+          "secondary_taxonomy_excerpts": [],
+          "reference_hints": [],
+          "composite_hints": []
+        },
+        "text": "{\"genre\": \"科幻\", \"genre_raw\": \"科幻\", \"genres\": [\"科幻\"], \"composite\": false, \"secondary_genres\": [], \"profile_excerpt\": \"\", \"taxonomy_excerpt\": \"\", \"secondary_profile_excerpts\": [], \"secondary_taxonomy_excerpts\": [], \"reference_hints\": [], \"composite_hints\": []}",
+        "budget": 800
+      },
+      "writing_guidance": {
+        "content": {
+          "chapter": 10,
+          "guidance_items": [
+            "题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。",
+            "网文节奏基线：章首300字内给出目标与阻力，章末保留未闭合问题。",
+            "兑现密度基线：每600-900字给一次微兑现，并确保本章至少1处可量化变化。",
+            "方法论策略（通用/科幻）：本章以释放与余波为主，给出实质收益并引出下一问。",
+            "长线控制：换图承接旧资产，避免主角进入新地图后能力与资源归零。",
+            "机制控制：关键胜利必须写出机制理由与代价，不用纯光环碾压。"
+          ],
+          "checklist": [
+            {
+              "id": "readability_loop",
+              "label": "段落可读性闭环（动作→结果→情绪）",
+              "weight": 1.1,
+              "required": true,
+              "source": "reader_signal.review_trend",
+              "verify_hint": "抽查3段，均包含动作结果闭环。"
+            },
+            {
+              "id": "genre_anchor_consistency",
+              "label": "题材锚定一致性（科幻）",
+              "weight": 1.1,
+              "required": true,
+              "source": "genre_profile.genre",
+              "verify_hint": "主冲突与题材核心承诺保持一致。"
+            },
+            {
+              "id": "methodology_next_reason",
+              "label": "方法论：下章动机需可复述（章末或后段均可）",
+              "weight": 1.0,
+              "required": false,
+              "source": "methodology.next_reason",
+              "verify_hint": "提炼一句“为什么要点下一章”的动机句。"
+            },
+            {
+              "id": "methodology_power_guard",
+              "label": "方法论：越级与破局给出机制理由与代价",
+              "weight": 1.0,
+              "required": false,
+              "source": "methodology.power_guard",
+              "verify_hint": "至少写清1个机制理由与1个代价。"
+            },
+            {
+              "id": "methodology_antagonist_pressure",
+              "label": "方法论：反派行动具备目标-手段-代价",
+              "weight": 1.0,
+              "required": false,
+              "source": "methodology.antagonist",
+              "verify_hint": "反派不是工具人推进，需有可解释行动逻辑。"
+            },
+            {
+              "id": "guidance_item_1",
+              "label": "题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。",
+              "weight": 1.0,
+              "required": false,
+              "source": "writing_guidance.guidance_items",
+              "verify_hint": "完成后可在正文中定位对应段落。"
+            }
+          ],
+          "checklist_score": {
+            "chapter": 10,
+            "score": 88.6,
+            "completion_rate": 0.8333,
+            "weighted_completion_rate": 0.8387,
+            "required_completion_rate": 1.0,
+            "total_items": 6,
+            "required_items": 2,
+            "completed_items": 5,
+            "completed_required": 2,
+            "total_weight": 6.2,
+            "completed_weight": 5.2,
+            "pending_items": [
+              "题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。"
+            ],
+            "trend_window": 10
+          },
+          "methodology": {
+            "enabled": true,
+            "framework": "digital-serial-v1",
+            "pilot": "科幻",
+            "genre_profile_key": "科幻",
+            "chapter_stage": "release",
+            "emotion_anchor": {
+              "pressure_source": "生存目标/资源竞争",
+              "release_target": "主角完成阶段目标并留下新的行动理由",
+              "position_hint": "前段设压，中后段释放，避免固定字位打点"
+            },
+            "long_arc_controls": {
+              "map_transition": "阶段切换承接既有资产与关系账本，避免能力与收益归零",
+              "power_guard": "关键胜利必须给机制理由（信息/资源/代价/策略）",
+              "antagonist_model": "反派需具备目标-手段-代价三要素，避免工具人推进"
+            },
+            "serialization_ops": {
+              "next_reason": "章末或后段给出可复述的下一章动机句",
+              "interaction_note": "保留一个可讨论分歧点，便于连载互动反馈"
+            },
+            "observability": {
+              "next_reason_clarity": 78.0,
+              "anchor_effectiveness": 72.0,
+              "rhythm_naturalness": 65.0
+            },
+            "signals": {
+              "dominant_hook": "",
+              "dominant_pattern": "",
+              "risk_flags": []
+            }
+          },
+          "signals_used": {
+            "has_low_score_ranges": false,
+            "hook_types": [],
+            "top_patterns": [],
+            "genre": "科幻",
+            "methodology_enabled": true
+          }
+        },
+        "text": "{\"chapter\": 10, \"guidance_items\": [\"题材锚定：按“科幻”叙事主线推进，保持题材读者预期稳定兑现。\", \"网文节奏基线：章首300字内给出目标与阻力，章末保留未闭合问题。\", \"兑现密度基线：每600-900字给一次微兑现，并确保本章至少1处可量化变化。\", \"方法论策略（通用/科幻）：本章以释放与余波为主，给出实质收益并引出下一问。\", \"长线控制：换图承接旧资产，避免主角进入新地图后能力与资源归零。\", \"机制控制：关键胜利必须写出机制理由与代价，不用纯光环碾压。\"], \"checklist\": [{\"id\": \"readability_loop\", \"label\": \"段落可读性闭环（动作→结果→情绪）\", \"weight\": 1.1, \"required\": true, \"source\": \"reader_signal.review_trend\", \"verify_hint\": \"抽查3段，均包含动作结果闭环。\"}, {\"id\": \"genre_anchor_consistency\", \"label\": \"题材锚定一致性（科幻）\", \"weight\": 1.1, \"required\"…[TRUNCATED].0, \"anchor_effectiveness\": 72.0, \"rhythm_naturalness\": 65.0}, \"signals\": {\"dominant_hook\": \"\", \"dominant_pattern\": \"\", \"risk_flags\": []}}, \"signals_used\": {\"has_low_score_ranges\": false, \"hook_types\": [], \"top_patterns\": [], \"genre\": \"科幻\", \"methodology_enabled\": true",
+        "budget": 800
+      },
+      "story_skeleton": {
+        "content": [],
+        "text": "[]",
+        "budget": 800
+      },
+      "memory": {
+        "content": {},
+        "text": "{}",
+        "budget": 800
+      },
+      "preferences": {
+        "content": {},
+        "text": "{}",
+        "budget": 800
+      },
+      "alerts": {
+        "content": {
+          "disambiguation_warnings": [
+            {
+              "chapter": 9,
+              "mention": "the door (gray-flour bay closed)",
+              "type": "",
+              "suggested_id": "",
+              "chosen_id": "nano_bay",
+              "confidence": 0.7,
+              "candidates": [
+                {
+                  "type": "地点",
+                  "id": "nano_bay"
+                },
+                {
+                  "type": "角色",
+                  "id": "nano_programmer"
+                }
+              ],
+              "context": "",
+              "note": "",
+              "created_at": "2026-04-29 12:34:51"
+            }
+          ],
+          "disambiguation_pending": []
+        },
+        "text": "{\"disambiguation_warnings\": [{\"chapter\": 9, \"mention\": \"the door (gray-flour bay closed)\", \"type\": \"\", \"suggested_id\": \"\", \"chosen_id\": \"nano_bay\", \"confidence\": 0.7, \"candidates\": [{\"type\": \"地点\", \"id\": \"nano_bay\"}, {\"type\": \"角色\", \"id\": \"nano_programmer\"}], \"context\": \"\", \"note\": \"\", \"created_at\": \"2026-04-29 12:34:51\"}], \"disambiguation_pending\": []}",
+        "budget": 800
+      }
+    },
+    "template": "plot",
+    "weights": {
+      "core": 0.48,
+      "scene": 0.39,
+      "global": 0.13
+    }
+  },
+  "meta": {
+    "template": "plot"
+  }
+}

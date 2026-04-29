@@ -2,17 +2,17 @@
   "current_task": {
     "command": "webnovel-write",
     "args": {
-      "chapter_num": 9
+      "chapter_num": 10
     },
-    "started_at": "2026-04-29T12:00:00.233220",
-    "last_heartbeat": "2026-04-29T14:04:09.211647",
+    "started_at": "2026-04-29T15:41:30.001187",
+    "last_heartbeat": "2026-04-29T16:16:00.903453",
     "status": "running",
     "current_step": {
       "id": "Step 6",
       "name": "Git Commit",
       "status": "running",
-      "started_at": "2026-04-29T14:04:09.211647",
-      "running_at": "2026-04-29T14:04:09.211647",
+      "started_at": "2026-04-29T16:16:00.903453",
+      "running_at": "2026-04-29T16:16:00.903453",
       "attempt": 1,
       "progress_note": null
     },
@@ -21,40 +21,42 @@
         "id": "Step 1",
         "name": "Context Agent",
         "status": "completed",
-        "started_at": "2026-04-29T12:00:00.872181",
-        "running_at": "2026-04-29T12:00:00.872181",
+        "started_at": "2026-04-29T15:41:30.577755",
+        "running_at": "2026-04-29T15:41:30.577755",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T12:14:28.661484",
+        "completed_at": "2026-04-29T15:50:36.290153",
         "artifacts": {
           "ok": true,
           "contract": "ready",
-          "title": "Belonging"
+          "title": "Sixty-Seven Million Years",
+          "target_words": "2500-3000",
+          "unlocked_lexicon": "67M/Cretaceous/Chicxulub/0.01-deg/deflection/dinosaurs(1)"
         }
       },
       {
         "id": "Step 2A",
         "name": "Draft Chapter",
         "status": "completed",
-        "started_at": "2026-04-29T12:14:29.274953",
-        "running_at": "2026-04-29T12:14:29.274953",
+        "started_at": "2026-04-29T15:50:36.980651",
+        "running_at": "2026-04-29T15:50:36.980651",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T12:16:44.060591",
+        "completed_at": "2026-04-29T15:54:23.213191",
         "artifacts": {
           "ok": true,
-          "words": 2018
+          "words": 2477
         }
       },
       {
         "id": "Step 2B",
         "name": "Style Adaptation",
         "status": "completed",
-        "started_at": "2026-04-29T12:16:44.564848",
-        "running_at": "2026-04-29T12:16:44.564848",
+        "started_at": "2026-04-29T15:54:23.850339",
+        "running_at": "2026-04-29T15:54:23.850339",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T12:16:45.115168",
+        "completed_at": "2026-04-29T15:54:24.459051",
         "artifacts": {
           "ok": true,
           "changes": "none-voice-consistent"
@@ -64,11 +66,11 @@
         "id": "Step 3",
         "name": "Review",
         "status": "completed",
-        "started_at": "2026-04-29T12:16:45.687927",
-        "running_at": "2026-04-29T12:16:45.687927",
+        "started_at": "2026-04-29T15:54:25.072249",
+        "running_at": "2026-04-29T15:54:25.072249",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T12:20:17.648090",
+        "completed_at": "2026-04-29T16:00:30.960202",
         "artifacts": {
           "ok": true,
           "overall_score": 95.2
@@ -78,35 +80,31 @@
         "id": "Step 4",
         "name": "Polish",
         "status": "completed",
-        "started_at": "2026-04-29T12:20:18.251806",
-        "running_at": "2026-04-29T12:20:18.251806",
+        "started_at": "2026-04-29T16:00:31.749447",
+        "running_at": "2026-04-29T16:00:31.749447",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T12:20:43.490123",
+        "completed_at": "2026-04-29T16:01:26.374446",
         "artifacts": {
           "ok": true,
           "anti_ai_force_check": "pass",
           "critical_fixed": 0,
-          "low_fixed": 1
+          "low_fixed": 3
         }
       },
       {
         "id": "Step 5",
         "name": "Data Agent",
         "status": "completed",
-        "started_at": "2026-04-29T12:20:44.089930",
-        "running_at": "2026-04-29T12:20:44.089930",
+        "started_at": "2026-04-29T16:01:26.981713",
+        "running_at": "2026-04-29T16:01:26.981713",
         "attempt": 1,
         "progress_note": null,
-        "completed_at": "2026-04-29T14:04:08.597984",
+        "completed_at": "2026-04-29T16:16:00.327100",
         "artifacts": {
           "ok": true,
-          "entities_registered": [
-            "oren",
-            "miriam",
-            "andaman_fragment"
-          ],
-          "resumed_from_credit_cap": true
+          "vol_2_closed": true,
+          "vol_3_active": true
         }
       }
     ],
@@ -129,6 +127,31 @@
       "review_completed": false,
       "ok": true,
       "contract": "ready",
+      "title": "Sixty-Seven Million Years",
+      "target_words": "2500-3000",
+      "unlocked_lexicon": "67M/Cretaceous/Chicxulub/0.01-deg/deflection/dinosaurs(1)",
+      "words": 2477,
+      "changes": "none-voice-consistent",
+      "overall_score": 95.2,
+      "anti_ai_force_check": "pass",
+      "critical_fixed": 0,
+      "low_fixed": 3,
+      "vol_2_closed": true,
+      "vol_3_active": true
+    }
+  },
+  "last_stable_state": {
+    "command": "webnovel-write",
+    "chapter_num": 9,
+    "completed_at": "2026-04-29T14:04:26.417603",
+    "artifacts": {
+      "chapter_file": {},
+      "git_status": {},
+      "state_json_modified": false,
+      "entities_appeared": false,
+      "review_completed": false,
+      "ok": true,
+      "contract": "ready",
       "title": "Belonging",
       "words": 2018,
       "changes": "none-voice-consistent",
@@ -141,37 +164,9 @@
         "miriam",
         "andaman_fragment"
       ],
-      "resumed_from_credit_cap": true
-    }
-  },
-  "last_stable_state": {
-    "command": "webnovel-write",
-    "chapter_num": 8,
-    "completed_at": "2026-04-29T10:24:22.384064",
-    "artifacts": {
-      "chapter_file": {},
-      "git_status": {},
-      "state_json_modified": false,
-      "entities_appeared": false,
-      "review_completed": false,
-      "ok": true,
-      "contract": "ready",
-      "title": "The Pitch",
-      "words": 2328,
-      "changes": "none-voice-consistent",
-      "overall_score": 88.4,
-      "critical": 1,
-      "anti_ai_force_check": "pass",
-      "critical_fixed": 1,
-      "medium_fixed": 2,
-      "deviations": [
-        "OOC-01 soft-preserve per high-point load-bearing"
-      ],
-      "entities_added": 6,
-      "scenes": 5,
-      "rag_warning": "embed_auth_401_recurring",
+      "resumed_from_credit_cap": true,
       "committed": true,
-      "chapter": 8
+      "chapter": 9
     }
   },
   "history": [
@@ -216,6 +211,13 @@
       "chapter": 8,
       "status": "completed",
       "completed_at": "2026-04-29T10:24:22.384064"
+    },
+    {
+      "task_id": "task_007",
+      "command": "webnovel-write",
+      "chapter": 9,
+      "status": "completed",
+      "completed_at": "2026-04-29T14:04:26.417603"
     }
   ]
 }
