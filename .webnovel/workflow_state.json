@@ -1,124 +1,9 @@
 {
-  "current_task": {
+  "current_task": null,
+  "last_stable_state": {
     "command": "webnovel-write",
-    "args": {
-      "chapter_num": 11
-    },
-    "started_at": "2026-04-29T16:18:46.436932",
-    "last_heartbeat": "2026-04-29T16:45:13.357121",
-    "status": "running",
-    "current_step": {
-      "id": "Step 6",
-      "name": "Git Commit",
-      "status": "running",
-      "started_at": "2026-04-29T16:45:13.356554",
-      "running_at": "2026-04-29T16:45:13.356554",
-      "attempt": 1,
-      "progress_note": null
-    },
-    "completed_steps": [
-      {
-        "id": "Step 1",
-        "name": "Context Agent",
-        "status": "completed",
-        "started_at": "2026-04-29T16:18:47.050168",
-        "running_at": "2026-04-29T16:18:47.050168",
-        "attempt": 1,
-        "progress_note": null,
-        "completed_at": "2026-04-29T16:25:42.313017",
-        "artifacts": {
-          "ok": true,
-          "contract": "ready",
-          "title": "The Decision",
-          "vol_3_opener": true,
-          "countdown": "D-10"
-        }
-      },
-      {
-        "id": "Step 2A",
-        "name": "Draft Chapter",
-        "status": "completed",
-        "started_at": "2026-04-29T16:25:43.035435",
-        "running_at": "2026-04-29T16:25:43.035435",
-        "attempt": 1,
-        "progress_note": null,
-        "completed_at": "2026-04-29T16:27:49.766250",
-        "artifacts": {
-          "ok": true,
-          "words": 2070
-        }
-      },
-      {
-        "id": "Step 2B",
-        "name": "Style Adaptation",
-        "status": "completed",
-        "started_at": "2026-04-29T16:27:50.177216",
-        "running_at": "2026-04-29T16:27:50.177216",
-        "attempt": 1,
-        "progress_note": null,
-        "completed_at": "2026-04-29T16:27:50.614541",
-        "artifacts": {
-          "ok": true,
-          "changes": "none-voice-consistent"
-        }
-      },
-      {
-        "id": "Step 3",
-        "name": "Review",
-        "status": "completed",
-        "started_at": "2026-04-29T16:27:50.990404",
-        "running_at": "2026-04-29T16:27:50.990404",
-        "attempt": 1,
-        "progress_note": null,
-        "completed_at": "2026-04-29T16:32:04.050739",
-        "artifacts": {
-          "ok": true,
-          "overall_score": 94.67
-        }
-      },
-      {
-        "id": "Step 4",
-        "name": "Polish",
-        "status": "completed",
-        "started_at": "2026-04-29T16:32:04.458845",
-        "running_at": "2026-04-29T16:32:04.458845",
-        "attempt": 1,
-        "progress_note": null,
-        "completed_at": "2026-04-29T16:32:24.837897",
-        "artifacts": {
-          "ok": true,
-          "anti_ai_force_check": "pass",
-          "critical_fixed": 0,
-          "low_fixed": 1
-        }
-      },
-      {
-        "id": "Step 5",
-        "name": "Data Agent",
-        "status": "completed",
-        "started_at": "2026-04-29T16:32:25.199988",
-        "running_at": "2026-04-29T16:32:25.199988",
-        "attempt": 1,
-        "progress_note": null,
-        "completed_at": "2026-04-29T16:45:12.822797",
-        "artifacts": {
-          "ok": true,
-          "countdown_initialized": true,
-          "d_minus": 10
-        }
-      }
-    ],
-    "failed_steps": [],
-    "pending_steps": [
-      "Step 1",
-      "Step 2A",
-      "Step 2B",
-      "Step 3",
-      "Step 4",
-      "Step 5",
-      "Step 6"
-    ],
-    "retry_count": 0,
+    "chapter_num": 11,
+    "completed_at": "2026-04-29T16:45:15.241786",
     "artifacts": {
       "chapter_file": {},
       "git_status": {},
@@ -137,34 +22,9 @@
       "critical_fixed": 0,
       "low_fixed": 1,
       "countdown_initialized": true,
-      "d_minus": 10
-    }
-  },
-  "last_stable_state": {
-    "command": "webnovel-write",
-    "chapter_num": 10,
-    "completed_at": "2026-04-29T16:16:02.759368",
-    "artifacts": {
-      "chapter_file": {},
-      "git_status": {},
-      "state_json_modified": false,
-      "entities_appeared": false,
-      "review_completed": false,
-      "ok": true,
-      "contract": "ready",
-      "title": "Sixty-Seven Million Years",
-      "target_words": "2500-3000",
-      "unlocked_lexicon": "67M/Cretaceous/Chicxulub/0.01-deg/deflection/dinosaurs(1)",
-      "words": 2477,
-      "changes": "none-voice-consistent",
-      "overall_score": 95.2,
-      "anti_ai_force_check": "pass",
-      "critical_fixed": 0,
-      "low_fixed": 3,
-      "vol_2_closed": true,
-      "vol_3_active": true,
+      "d_minus": 10,
       "committed": true,
-      "chapter": 10
+      "chapter": 11
     }
   },
   "history": [
@@ -223,6 +83,13 @@
       "chapter": 10,
       "status": "completed",
       "completed_at": "2026-04-29T16:16:02.759368"
+    },
+    {
+      "task_id": "task_009",
+      "command": "webnovel-write",
+      "chapter": 11,
+      "status": "completed",
+      "completed_at": "2026-04-29T16:45:15.241786"
     }
   ]
 }
