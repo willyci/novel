@@ -36,25 +36,15 @@ They reached the main chamber. The accelerator ring dominated the space — a ma
 
 Marcus watched Dr. Freeman take it in. Most visitors stopped at the door, overwhelmed by the scale of the thing. Freeman walked straight to the primary injection port, knelt, and examined the coupling mechanism with the ease of someone who'd seen accelerators before.
 
-"Plasma wakefield?" Freeman asked, without looking up.
-
-"Dual-stage wakefield injection." Marcus couldn't keep the pride out of his voice. "First stage lasers carve the plasma channel, second stage rides the wake and compresses the heavy ions — gold or lead nuclei — into a focal point smaller than a proton. That's how she reaches TeV energies in thirty meters. A conventional ring would need to be kilometers across to do what she does. And the beams come in counter-rotating — helical injection pattern, opposite senses — so whatever forms at the focus inherits the angular momentum. Comes out spinning. Not a feature we advertise. It's just how the wakefield staging works out."
-
-Freeman nodded slowly, as though ticking something off a list Marcus couldn't see.
-
 "She's not the latest model," Marcus said, running his hand along the outer casing with unconscious affection, "but she'll do exactly what your specifications require. I reviewed the technical parameters Dr. Hadron's office sent over. Full spectrum particle collision capability, adjustable energy levels, and yes — she can generate micro black holes."
 
-Dr. Freeman's eyes sharpened, though his expression remained pleasant. "At those beam energies you'd be looking at a horizon radius on the order of ten-to-the-minus-eighteen meters," he said, half to himself. "Two GM over c-squared doesn't give you much to work with." Then, to Marcus: "The black hole generation — what's the duration?"
+Dr. Freeman's eyes sharpened, though his expression remained pleasant. "The black hole generation — what's the duration?"
 
-"Approximately seven milliseconds per event — and to be clear, that's not the black hole's lifespan. Left to itself, a singularity that size evaporates in about ten-to-the-minus-twenty-three seconds. Hawking radiation eats it before the instruments can blink. Seven milliseconds is how long the containment field can keep feeding it mass before the power draw exceeds capacity. The limit is the grid, not the physics." Marcus paused, a note of pride creeping into his voice. "The original installation was right next to the main reactor at the Helios station — literally the next block over. She draws an enormous amount of power during operation. That's actually why this facility was built here, adjacent to the power plant. You'll need to ensure your installation site has comparable energy infrastructure."
+"Approximately seven milliseconds per event. Brief, but sufficient for most exotic particle research. The containment field handles the rest." Marcus paused, a note of pride creeping into his voice. "The original installation was right next to the main reactor at the Helios station — literally the next block over. She draws an enormous amount of power during operation. That's actually why this facility was built here, adjacent to the power plant. You'll need to ensure your installation site has comparable energy infrastructure."
 
-"Naturally." Dr. Freeman circled the accelerator slowly, his gaze traveling along the ring with the careful attention of a buyer inspecting a very expensive purchase. Which, Marcus supposed, he was. "One more thing. The containment system's timing resolution. What's the finest temporal increment the field controller can resolve?"
+"Naturally." Dr. Freeman circled the accelerator slowly, his gaze traveling along the ring with the careful attention of a buyer inspecting a very expensive purchase. Which, Marcus supposed, he was. "And the precision controls? We'll need exact calibration for temporal measurements."
 
-Marcus hesitated — not because he didn't know the answer, but because of the question. Energy per cycle, luminosity, field variance — those were the numbers exotic-particle people lived and died by. In eleven years, nobody had ever asked him about timing resolution. He couldn't think of a single experiment on Hadron's published list that would need it.
-
-"Picosecond-scale on the field controller," he said. "Femtosecond timestamps on the diagnostic clock. The software was updated in 2541 — state of the art for her generation. We can include the full diagnostic suite and calibration tools in the package."
-
-"That will do nicely." Freeman said it the way a man says something he has been waiting to hear.
+"State of the art for her generation. The software was updated in 2541. We can include the full diagnostic suite and calibration tools in the package."
 
 Dr. Freeman nodded, apparently satisfied. He opened his briefcase and produced a tablet, scrolling through what appeared to be a technical checklist. Each item received a precise check mark. Marcus noticed the man's hands were steady — no hesitation, no uncertainty. Whatever this project was, Freeman had done his homework.
 

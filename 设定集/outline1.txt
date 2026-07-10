@@ -1,0 +1,75 @@
+0.01 Degree: Comprehensive Setting & Lore Guide
+1. Introduction and Thematic Pillars
+Mission Statement
+In the year 2543, humanity exists as a ghost of its former self, clinging to life on a terraformed Mars and cold industrial outposts while Old Earth rots under the weight of centuries of exploitation. "0.01 Degree" is a chronicle of desperate hubris. It details the efforts of a radical academic faction—the "Animal Lovers"—to utilize stolen exotic matter and quantum mechanical singularities to perform a chronological excision of the human race. By reaching back 67 million years, they intend to nudge the Chicxulub asteroid off its collision course, preserving the age of dinosaurs and ensuring that the mammal-driven timeline of man never begins.
+Narrative Pillars
+The Anthropogenic Paradox:  The central irony that humanity’s greatest technological achievement—conquering time—is deployed specifically to ensure humanity never existed.
+Determinism vs. Sabotage:  A conflict between the cold, billion-point calculations of a million-year-old AI and the singular, disruptive intent of a human programmer.
+The Gravity of the 0.01 Degree:  An exploration of the "Butterfly Effect" where the smallest possible physical shift (a fraction of a degree) serves as the toggle switch for the extinction or survival of billions of species.
+Closed-Loop Fatalism:  The realization that the attempt to rewrite history is often the very catalyst that authored the history we know.
+2. The Solar System of 2543
+The Ruined Earth: A Hollowed Relic
+Old Earth is no longer the cradle of life, but a scavenged shell. After the Great Environmental Collapse, the planet was hollowed out for its remaining minerals. It remains a graveyard of industrial scars, serving only as a grim museum of what happens when a species outgrows its planet’s carrying capacity.
+Mars: The Final Redoubt of a Displaced Species
+Mars is the administrative and scientific heart of the human remnant. Centuries of living under domes and within low-gravity lava tubes have forced a radical biological divergence.
+Biological Profiles (The Martian-Born):
+Ocular Adaptation:  Multi-faceted eyes designed to filter harsh radiation and track movement in low-light subterranean habitats.
+Nictitating Membranes:  Translucent inner eyelids to protect against pervasive Martian dust.
+Neural Augmentation:  Standard-issue neural implants allow for direct data-stream interfaces.
+Cognitive Evolution:  Rare specimens, such as the student Timmy, exhibit spontaneous mutations like a third brain lobe, granting hyper-advanced problem-solving and multi-threaded thought processes.
+The Kuiper Belt: The Industrial Frontier
+The belt is a lawless expanse of mining rigs and processing plants. It is the only place where a group can hide a project of this scale.
+The Secret Lab:  Located within a hollowed-out asteroid at the solar system's edge, this facility houses the stolen particle accelerator and the "Sun 2.0" reactor.
+Mining Culture:  A world of high-risk logistics where the difference between a payday and a death sentence is a single cracked glass tube.
+3. Factions and Organizations
+The Radical Animal Lovers (The Architects)
+A cell of extremist environmentalists born from a university setting.
+Ideology:  Misanthropic preservationism. They believe Earth was a "verdant paradise" stolen by the "destructive virus" of humanity.
+Leadership:  The Professor (a disgraced academic) and a cadre of radicalized lab assistants and technicians.
+The Stranger:  A mysterious figure often seen in a rumpled tweed jacket, appearing at historical sites like the Mars Natural History Museum, likely acting as the Faction’s eyes on the ground to monitor the "unaltered" timeline.
+SpaceNano (The Front)
+A corporate shell used to mask the acquisition of materials and the recruitment of talent like Peter.
+The "Time-Travel Mining" Cover:  SpaceNano tells its employees they are sending nanomachines back in time to mine asteroids. The "ingots" are then launched on a 67-million-year trajectory to be "caught" by orbital interceptors in 2543. This explains why the star charts require data from a hundred million years in the past without revealing the true mission of human extinction.
+National Energy Laboratory
+The Martian state facility that developed  Sun 2.0 . It is currently under investigation following a catastrophic security breach and explosion that killed a guard named Mike—a diversion created by the Faction to mask the theft of the reactor.
+4. Advanced Technology and Science
+Sun 2.0 (Exotic Matter)
+An experimental energy source with negative energy density. It is the only fuel capable of stabilizing the throat of a traversable wormhole. It is volatile, highly sought after, and the linchpin of the mission.
+Quantum Mechanical Black Holes
+Using a stolen, industrial-grade particle accelerator, the Faction generates micro-singularities. These black holes are stable for only  7 milliseconds , providing a razor-thin window to fire the nanomachine payload into higher-dimensional spacetime.
+Self-Replicating Nanomachines (Dormant State)
+In their transport state, these machines are indistinguishable from dust, stored in glass tubes and fired via rail-cannon.
+Activation Protocol:  The nanomachines are harmless and "dead" without a specific activation sequence. Once triggered on an asteroid's surface, they begin autonomous mining and hydrogen extraction from water.
+The Million-Year Construction:  The mission requires the nanomachines to arrive 67 million years ago, allowing them nearly  one million years  to self-replicate, refine minerals, and evolve into a fully functional "Gravity Tractor" satellite before the Chicxulub asteroid arrives at 66 million years ago.
+The Gravity Tractor Satellite
+The final evolved form of the nanomachine swarm.
+Propulsion:  High-efficiency ion engines.
+The Maneuver:  Rather than a kinetic impact, the satellite flies alongside the target asteroid. Its own mass exerts a "tiny gravity" pull over decades, intended to shift the rock’s trajectory by exactly 0.01 degrees—enough to make it miss Earth.
+5. Key Characters
+Peter (The Saboteur):  A math genius and planetary navigation programmer. He discovered the true intent of the mission when he realized his code was calculating star positions  100 million years into the past . Horrified by the prospect of erasing his own existence, he inserted a hidden "bug" that reverses the satellite's positioning during the maneuver.
+Sarah Parker:  A Martian historian burdened by the loss of her husband and her son,  Ben , both of whom shared a love for Earth's extinct fauna. Her grief makes her susceptible to the "paradise lost" rhetoric of the Tweed-Jacketed Stranger.
+Bob & Steve:  Logistics workers. Bob is an anxious driver worried about a date with "Mary"; Steve is a protocol-obsessed checker. Their encounter with a broken nanomachine tube—leaking "harmless dust"—represents the first breach in the mission's secrecy.
+Steve’s Hamster:  A forbidden luxury. Steve risks a  100-sol prison sentence  and his career to buy a black-market hamster from a middleman named  Joe , highlighting the desperate Martian longing for biological connection.
+Little Timmy:  A student with a gifted extra brain lobe. His intellectual curiosity regarding the "what if" of dinosaur survival serves as a thematic mirror to the Faction’s goals.
+6. Operation "0.01 Degree"
+The Execution
+Incursion:  The nanomachine is launched through a 7ms micro-singularity.
+The Long Wait:  For one million years, the machines mine and build in the Kuiper Belt.
+The Intercept:  66 million years ago, the satellite identifies the Chicxulub asteroid.
+The Sabotage and Failure
+Peter’s bug forces the AI to position the satellite on the  opposite side  of the asteroid. Instead of a 0.01-degree shift away from Earth, the satellite creates a -0.01-degree pull, locking the asteroid onto a collision course.
+The Shadow Mechanic:  During the critical burn, the satellite was in the "shadow" of the asteroid. It relied on  planetary triangulation  (using Jupiter's position) to verify its path. By the time it emerged from the shadow and realized the trajectory was wrong, the gravitational momentum was irreversible.
+7. Historical Timeline
+Timeframe,Event
+67 Million Years Ago,"Arrival:  The nanomachine emerges from higher-dimensional spacetime. It begins the ""dust-to-satellite"" evolution phase via mining and replication."
+66.5 Million Years Ago,The Satellite:  Construction complete. The autonomous AI begins scanning for the target asteroid.
+66 Million Years Ago,The Impact:  The Chicxulub asteroid is intercepted. Peter’s bug triggers the -0.01-degree shift. The extinction event occurs exactly as recorded.
+Cretaceous - 2543,The Loop:  Humanity evolves as a direct result of the failed intervention.
+Year 2543 (Month 1),The Theft:  The Faction steals Sun 2.0 and the particle accelerator; Mike the guard is killed.
+Year 2543 (Month 6),"The Launch:  Peter completes the code; the nanomachine is sent back. The Faction realizes the failure and begins a ""new plan."""
+8. Philosophical and Moral Implications
+The Paradox of Choice
+The ultimate irony of "0.01 Degree" is that the Faction did not fail to change history—they were the ones who wrote it. Their -0.01-degree "error" was the precise adjustment required to ensure the asteroid hit Earth in the first place. In their attempt to save the past, they became the architects of the very destruction they sought to prevent.
+The Hubris of the Architect
+The mission serves as a final rebuke to human control. Even with the power to harness black holes and project influence across eons, the Faction was undone by a single line of code and the unyielding geometry of the solar system. It suggests that the universe possesses a "chronological immune system," where the human element—the very thing the Faction hated—is the one variable that can never be fully calculated.
+

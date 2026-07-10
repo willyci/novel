@@ -22,21 +22,17 @@ Jones closed his eyes. Mike Reeves. Twenty-three years old, two years on the job
 
 "Preliminary assessment suggests a containment failure in the exotic matter housing unit. The Sun 2.0 prototype was in an active stabilization cycle. Our forensics team believes the primary magnetic containment coil experienced a cascade failure — possibly a manufacturing defect in the superconductor layer that degraded over time." Voss scrolled through her tablet. "The energy release was... significant. The exotic matter destabilized and discharged approximately sixty percent of its stored energy in under two seconds."
 
-"Sixty percent," Jones repeated. He'd spent three years explaining to oversight committees why Sun 2.0 was safe, why the containment was multiply redundant, why no single-point failure could cause a discharge. He'd believed it, too. And "stored energy" was the wrong phrase anyway, though he'd stopped correcting people years ago. Sun 2.0 didn't store energy the way a capacitor did. It stored a deficit — a pocket of vacuum engineered to hold less energy than the empty space around it. When containment failed, the universe itself came rushing in to balance the books. Sixty percent of that differential, equalized in two seconds, would have been enough to level a city block. The safety margin he'd been so proud of — three kilometers from the nearest civilian structure — suddenly felt like dumb luck rather than design.
+"Sixty percent," Jones repeated. He'd spent three years explaining to oversight committees why Sun 2.0 was safe, why the containment was multiply redundant, why no single-point failure could cause a discharge. He'd believed it, too. Sixty percent of its stored energy in two seconds would have been enough to level a city block. The safety margin he'd been so proud of — three kilometers from the nearest civilian structure — suddenly felt like dumb luck rather than design.
 
 "The remaining forty percent appears to have dissipated through the emergency venting system. The system worked as designed for the venting — it's the initial containment breach that we're investigating."
 
-Jones stared at the ruined building. Sun 2.0 had been humanity's best shot at a clean, practically limitless energy source. Five years of research. Eleven hundred engineers and physicists across three Mars campuses. The key breakthrough had been scaling the Casimir effect — a laboratory curiosity, two metal plates and a sliver of negative vacuum energy trapped between them — up to an engineered metamaterial the size of a fist. The ability to hold that vacuum differential and release it in a single, controlled instant was what made it revolutionary. It was also what made failure look like this: the collapse propagating through the material at lightspeed, a self-sustaining detonation wave of negative energy, the way a fission pit implodes. That comparison had never appeared in a press release.
+Jones stared at the ruined building. Sun 2.0 had been humanity's best shot at a clean, practically limitless energy source. Five years of research. Eleven hundred engineers and physicists across three Mars campuses. The key breakthrough had been the exotic matter's unique property: the ability to store enormous quantities of energy and release it all in a single, controlled instant. That property was what made it revolutionary — and what made it so devastatingly dangerous when containment failed.
 
 "The prototype," he said. "Is there anything left?"
 
 "We're still cataloging debris, but the containment housing is... it's gone, Director. The blast originated from the housing unit itself. Whatever was left of the exotic matter would have dissipated during the discharge event." Voss hesitated. "I need to ask — was there any scheduled maintenance or testing that might explain why the stabilization cycle was running at this hour?"
 
-"The stabilization cycle runs continuously. It has to." Jones rubbed his face. "Sun 2.0 requires constant magnetic containment. You can't turn it off. That's the whole point — the energy density isn't just extreme, it's negative. It's the only macroscale NEC violator ever engineered — the only thing anyone has ever built that violates the Null Energy Condition. Every other substance in the universe pulls spacetime together. This pushes it apart. Even a momentary lapse in containment would—" He gestured at the wreckage. "Would do that."
-
-Voss looked up from her tablet. "Sixty percent did this. What would a full discharge have done?"
-
-Jones didn't answer for a long moment. "For three years I told oversight committees we'd modeled every failure mode," he said. "We never modeled that one. Nobody wanted to see the number."
+"The stabilization cycle runs continuously. It has to." Jones rubbed his face. "Sun 2.0 requires constant magnetic containment. You can't turn it off. That's the whole point — the energy density is so extreme that even a momentary lapse in containment would—" He gestured at the wreckage. "Would do that."
 
 Voss noted this down. The explanation was clean, logical, and exactly what a cascade containment failure would look like. She'd investigated three industrial incidents in the past year — a coolant leak at the water processing plant, a structural collapse at a construction site in New Pavonis, a chemical spill at a pharmaceutical lab. They all followed the same pattern: known risk, inadequate maintenance, predictable failure. This one fit.
 
@@ -52,9 +48,7 @@ Michael Jones gave his formal statement at 09:30. He was composed, precise, and 
 
 The investigators nodded. They wrote it down. Only one casualty. An industrial accident at a research facility working with experimental energy technology. Tragic but, in a sense, predictable. The exotic matter program had always carried risk. The safety margins had held for everything except Building 7 itself. The investigation would take months, produce a detailed report, and recommend enhanced containment protocols for future exotic matter research.
 
-One conclusion Jones kept to himself, because it was the only comfort he had: at least no one could have wanted this. Exotic matter had no black market. Nobody outside the lab even understood what a thief could do with a negative energy source — there was no weapon design, no application, nothing anyone had ever seriously proposed. A thing was only worth stealing to someone who knew a use for it that the rest of physics didn't. Jones told himself no such person existed. He was still telling himself that when the investigators packed up for the day.
-
-The investigation would not find what was actually missing.
+It would not find what was actually missing.
 
 Outside the cordon, a small memorial had already begun to form. Someone from the day shift — Jones didn't see who — had placed Mike's coffee mug on a concrete barrier near the entrance. The mug was white with a faded logo from a Martian coffee chain that had gone out of business two years ago. Mike had kept using it anyway. Said it was the only mug that kept his coffee hot through a full patrol loop.
 

@@ -53,14 +53,12 @@ The message was from a recruitment service he didn't recognize — Astra Talent 
 POSITION: Satellite Navigation Programmer
 CONTRACT: 6 months, renewable
 COMPENSATION: 85,000 credits (negotiable)
-REQUIREMENTS: Expert-level stellar cartography. Satellite trajectory calculation. Geodesic trajectory optimization. Experience with autonomous navigation systems and long-epoch N-body simulation. Immediate availability required.
+REQUIREMENTS: Expert-level stellar cartography. Satellite trajectory calculation. Experience with autonomous navigation systems. Immediate availability required.
 CLIENT: Confidential
 
 Peter read it twice. Then a third time, the way he used to read trajectory specifications — checking each parameter against what he knew.
 
 Eighty-five thousand credits. His last salary at Helix had been sixty-two. The requirements were oddly specific — not just any navigation programmer, but someone with expertise in stellar cartography and autonomous systems. Whoever wrote this listing knew the difference between a generalist who could plug coordinates into a solver and someone who understood why a gravitational perturbation model broke down at the edge of the Kuiper Belt. That was his exact skill set. The deep, intuitive, edge-case expertise that came from years of hands-on trajectory work — the kind an AI could approximate but not replicate. Not yet.
-
-Two items snagged for half a second. "Geodesic trajectory optimization" — in eight years of reading commercial listings, he'd never once seen the word geodesic outside a textbook. In mining terms it just meant shortest-path routing, dressed up in graduate-seminar vocabulary. And long-epoch N-body simulation was survey work — modeling how a rock swarm drifted over decades so you didn't park a refinery in tomorrow's collision zone. Standard stuff, expensively worded. Whoever drafted this had either hired a consultant or wanted to sound like one. He shrugged and read on.
 
 The "Confidential" client line should have given him pause. No company name. No physical address. No project description. A year ago, he would have flagged it — searched the recruitment service, checked the license registry, maybe pinged a colleague about Astra Talent Solutions.
 
