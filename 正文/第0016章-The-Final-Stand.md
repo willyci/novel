@@ -125,3 +125,9 @@ Somewhere sunward of him, in some slow uncharted orbit, a dead satellite older t
 The fracture had held.
 
 Peter watched the stars until the shuttle docked, and then he went aboard.
+
+
+Peter lay in the bed, curled his tail around his hand. He ran a thumb along his tail — the fur had grown long, past due, just like every other part of him. 
+
+"I do need a grooming session soon!", He sighed, and closed his eyes.
+
