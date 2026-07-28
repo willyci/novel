@@ -126,8 +126,4 @@ The fracture had held.
 
 Peter watched the stars until the shuttle docked, and then he went aboard.
 
-
-Peter lay in bed, tail curled around his hand. He stroked a thumb along the fur — overgrown and past due, just like every other part of him.
-
-"I do need a grooming session soon," he sighed softly, and closed his eyes.
-
+Peter lay in bed, tail curled around his hand. He stroked a thumb along the fur — overgrown and past due, just like every other part of him. I could use a trim soon, he thought, and closed his eyes.
